@@ -6,15 +6,15 @@ Function Show-Duration($start_time)
     $end_time = Get-Date
     $duration = $end_time – $start_time
 
-    ""
-    " PDFTron"
-    "____________________________________________________________"
-    ""
-    " Start      : " + $start_time.DateTime
-    " End        : " + $end_time.DateTime
-    " Duration   : " + $duration.Hours + ":" + $duration.Minutes + ":" + $duration.Seconds
-    "____________________________________________________________"
-    ""
+    "" >> C:\ValidatorenTest\pdftron.txt
+    " PDFTron" >> C:\ValidatorenTest\pdftron.txt
+    "____________________________________________________________" >> C:\ValidatorenTest\pdftron.txt
+    "" >> C:\ValidatorenTest\pdftron.txt
+    " Start      : " + $start_time.DateTime >> C:\ValidatorenTest\pdftron.txt
+    " End        : " + $end_time.DateTime >> C:\ValidatorenTest\pdftron.txt
+    " Duration   : " + $duration.Hours + ":" + $duration.Minutes + ":" + $duration.Seconds >> C:\ValidatorenTest\pdftron.txt
+    "____________________________________________________________" >> C:\ValidatorenTest\pdftron.txt
+    "" >> C:\ValidatorenTest\pdftron.txt
 
 }
 
@@ -27,52 +27,57 @@ Function Run-PDFTron()
     Set-Location -Path C:\Tools
     
     # PDFTron
+    "PDFTron Version:" >> C:\ValidatorenTest\pdftron.txt
+    C:\Tools\pdfa\pdfa.exe --version >> C:\ValidatorenTest\pdftron.txt
+    "" >> C:\ValidatorenTest\pdftron.txt
+
+    # PDFTron
 	"PDFTron: 1a"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1a.txt --level 1A --subfolders C:\ValidatorenTest\Testset\1a\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1A --subfolders C:\ValidatorenTest\Testset\1a\*.pdf >> C:\ValidatorenTest\pdftron.txt
 #	"PDFTron: 1b -> wird unterteilt, damit die Anzahl Dateien weniger problematisch ist"
-#    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\*.pdf 
+#    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 0"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_0.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\0\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\0\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 1"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_1.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\1\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\1\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 2"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_2.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\2\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\2\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 3"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_3.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\3\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\3\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 4"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_4.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\4\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\4\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 5"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_5.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\5\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\5\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 6"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_6.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\6\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\6\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 7"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_7.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\7\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\7\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 8"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_8.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\8\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\8\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b 9"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_9.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\9\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\9\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b A"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_A.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\A\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\A\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b B"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_B.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\B\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\B\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b C"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_C.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\C\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\C\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b D"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_D.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\D\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\D\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b E"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_E.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\E\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\E\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 1b F"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\1b_F.txt --level 1B --subfolders C:\ValidatorenTest\Testset\1b\F\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1B --subfolders C:\ValidatorenTest\Testset\1b\F\*.pdf >> C:\ValidatorenTest\pdftron.txt
 
 
 	"PDFTron: 2a"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\2a.txt --level 2A --subfolders C:\ValidatorenTest\Testset\2a\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 2A --subfolders C:\ValidatorenTest\Testset\2a\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 2b"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\2b.txt --level 2B --subfolders C:\ValidatorenTest\Testset\2b\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 2B --subfolders C:\ValidatorenTest\Testset\2b\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: 2u"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\2u.txt --level 2U --subfolders C:\ValidatorenTest\Testset\2u\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 2U --subfolders C:\ValidatorenTest\Testset\2u\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	"PDFTron: pdf->1a"
-    C:\Tools\pdfa\pdfa.exe  -o C:\ValidatorenTest\PDFTron\pdf.txt --level 1A --subfolders C:\ValidatorenTest\Testset\pdf\*.pdf 
+    C:\Tools\pdfa\pdfa.exe  -x --verb 1 --level 1A --subfolders C:\ValidatorenTest\Testset\pdf\*.pdf >> C:\ValidatorenTest\pdftron.txt
 	
 	""
 	"Validierung abgeschlossen. "
