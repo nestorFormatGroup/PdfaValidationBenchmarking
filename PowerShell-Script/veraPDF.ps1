@@ -6,15 +6,15 @@ Function Show-Duration($start_time)
     $end_time = Get-Date
     $duration = $end_time – $start_time
 
-    ""
-    " veraPDF"
-    "____________________________________________________________"
-    ""
-    " Start      : " + $start_time.DateTime
-    " End        : " + $end_time.DateTime
-    " Duration   : " + $duration.Hours + ":" + $duration.Minutes + ":" + $duration.Seconds
-    "____________________________________________________________"
-    ""
+    "">> C:\ValidatorenTest\verapdf.txt
+    " veraPDF">> C:\ValidatorenTest\verapdf.txt
+    "____________________________________________________________">> C:\ValidatorenTest\verapdf.txt
+    "">> C:\ValidatorenTest\verapdf.txt
+    " Start      : " + $start_time.DateTime>> C:\ValidatorenTest\verapdf.txt
+    " End        : " + $end_time.DateTime>> C:\ValidatorenTest\verapdf.txt
+    " Duration   : " + $duration.Hours + ":" + $duration.Minutes + ":" + $duration.Seconds>> C:\ValidatorenTest\verapdf.txt
+    "____________________________________________________________">> C:\ValidatorenTest\verapdf.txt
+    "">> C:\ValidatorenTest\verapdf.txt
 
 }
 
@@ -27,133 +27,138 @@ Function Run-veraPDF()
     Set-Location -Path C:\Tools
     
     # veraPDF
-    "veraPDF: 1a"
+    "veraPDF Version:" >> C:\ValidatorenTest\verapdf.txt
+    C:\Tools\verapdf-1.2.1\verapdf.bat --version >> C:\ValidatorenTest\verapdf.txt
+    "" >> C:\ValidatorenTest\verapdf.txt
+
+    # veraPDF
+	"veraPDF: 1a"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1a\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1a --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1a.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1a --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     # "veraPDF: 1b -> wird unterteilt, damit die Anzahl Dateien weniger problematisch ist"
     "veraPDF: 1b 0"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\0\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_0.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 1"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\1\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_1.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 2"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\2\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_2.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 3"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\3\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_3.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 4"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\4\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_4.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 5"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\5\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_5.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 6"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\6\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_6.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 7"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\7\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_7.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 8"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\8\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_8.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b 9"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\9\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_9.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b A"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\A\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_A.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b B"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\B\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_B.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b C"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\C\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_C.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b D"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\D\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_D.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b E"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\E\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_E.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
     "veraPDF: 1b F"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\1b\F\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_1b_F.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
 
-    "veraPDF: 2a"
+	"veraPDF: 2a"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\2a\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 2a --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_2a.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 2a --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
-    "veraPDF: 2b"
+	"veraPDF: 2b"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\2b\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 2b --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_2b.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 2b --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
-    "veraPDF: 2u"
+	"veraPDF: 2u"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\2u\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 2u --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_2u.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 2u --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
-    "veraPDF: pdf->1a"
+	"veraPDF: pdf->1a"
     $fileList = Get-ChildItem -Path 'C:\ValidatorenTest\Testset\pdf\'  -Filter *.pdf
     foreach ($file in $fileList)
     {
-        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1a --format text -r -v $file.fullname >> C:\ValidatorenTest\verapdf_pdf.txt
+        C:\Tools\verapdf-1.2.1\verapdf.bat -f 1a --format text -v $file.fullname >> C:\ValidatorenTest\verapdf.txt
     }
 
 	""
