@@ -22,7 +22,7 @@ Ansprechen der Validatoren:
 * diese sind unter PowerShell-Script abgelegt
 * in der Regel wird jeder Ordner (z.B. 1a) recursiv angesprochen mit dem korrekten Level
   * der 1b Ordner wurde unterteilt, damit weniger Probleme auftauchen
-  * bei veraPDF muss für jede einzelne Datei der cmd ausgeführt werden. Es gibt zwar die Option -r, aber bei einem Fehler wird alles abgebrochen (z.B. wird von den 182 PDF/A-1a Dateien nur 26 validiert bevor er abbricht)
+  * bei veraPDF muss für jede einzelne Datei der cmd ausgeführt werden. Es gibt zwar die Option -r, aber bei einem Fehler wird alles abgebrochen (z.B. wird von den 182 PDF/A-1a Dateien nur 26 validiert bevor er abbricht; mit dem Ansprechen jeder Datei werden 179 Dateien validiert)
 
 Validierungsergebnisse:
 * Die einzelnen Validierungsergebnisse werden unter logs abgespeichert
