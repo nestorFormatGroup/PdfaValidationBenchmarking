@@ -7,6 +7,7 @@ Validatoren:
 * PDF/A-Manager von PDFTron (Version 6.7152209)
 * [JHOVE von OPF wird nicht getestet, da dieser kein PDF/A-Validator ist]
 * [KOST-Val wird nicht separat getestet, da dieser sich auf Drittvalidatoren stützt, welche bereits getestet werden]
+* [Adobe preflight entspricht dem pdfaPilot von callas und wird auch nicht getestet]
 
 Testset:
 * Das Testset ist nicht öffentlich zugänglich, da teils auch vertrauliche Dokumente enthalten sind
