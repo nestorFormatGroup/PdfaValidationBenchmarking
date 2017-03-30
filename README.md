@@ -5,7 +5,8 @@ Validatoren:
 * pdfaPilot von callas software GmbH
 * 3-Heights™ PDF Validator von PDF Tools AG
 * PDF/A-Manager von PDFTron (Version 6.7152209)
-* JHOVE von OPF
+* [JHOVE von OPF wird nicht getestet, da dieser kein PDF/A-Validator ist]
+* [KOST-Val wird nicht separat getestet, da dieser sich auf Drittvalidatoren stützt, welche bereits getestet werden]
 
 Testset:
 * Das Testset ist nicht öffentlich zugänglich, da teils auch vertrauliche Dokumente enthalten sind
