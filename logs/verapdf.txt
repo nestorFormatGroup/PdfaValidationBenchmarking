@@ -2827,7 +2827,7 @@ FAIL C:\ValidatorenTest\Testset\2b\Yvonne_6072D938B860279CB30EBB4EAFCAF850.pdf -
 PASS C:\ValidatorenTest\Testset\2b\Yvonne_6935880151C42DE992872803858C2EA2.pdf
 FAIL C:\ValidatorenTest\Testset\2b\Yvonne_774A2ECD0C24D9F06CB107492713DDA2.pdf - 6.2.4.3-2 - 6.2.4.4-1
 PASS C:\ValidatorenTest\Testset\2b\Yvonne_B12480848A7655716309353349795ECE.pdf
-C:\ValidatorenTest\Testset\2b\Yvonne_F64922ED49D38640593B8908F460BADE.pdf does not appear to be a valid PDF file and could not be parsed.
+ERROR C:\ValidatorenTest\Testset\2b\Yvonne_F64922ED49D38640593B8908F460BADE.pdf does not appear to be a valid PDF file and could not be parsed.
 PASS C:\ValidatorenTest\Testset\2u\KOST_06ACB18DC2403F764B70003924786ECA.pdf
 PASS C:\ValidatorenTest\Testset\2u\KOST_07179E371B0DD30A6D2A7CADAD388D98.pdf
 PASS C:\ValidatorenTest\Testset\2u\KOST_077AD86C63EF92EF4FB7768A415D24AF.pdf
