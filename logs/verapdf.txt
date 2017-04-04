@@ -4160,3 +4160,372 @@ ____________________________________________________________
  Duration   : 0:8:46
 ____________________________________________________________
 
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_06C1AC02C8FAC8E1B4DFE127D2E8E0DC.pdf
+6.8.3-1
+6.8.2-1
+6.7.11-1
+6.2.3-4
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_07E22A246AEECDFDBA7C16318C40516B.pdf
+6.8.3-1
+6.8.2-1
+6.3.4-1
+6.7.11-1
+6.2.8-1
+6.2.3-4
+6.3.2-6
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_18C753E19A57AF369153D582A153FE36.pdf
+6.8.3-1
+6.2.3-2
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.3.2-6
+6.5.3-2
+6.5.3-3
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_1EB257C84DAD7173B46B396D7D7B2A0F.pdf
+6.8.3-1
+6.2.3-2
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.2.8-1
+6.3.8-1
+6.2.3-4
+6.3.2-6
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_253F4F5604E063020331AC92C1DDF448.pdf
+6.8.3-1
+6.8.2-1
+6.7.11-1
+6.2.3-4
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_261BA81F796821234C15224695FF499B.pdf
+6.8.3-1
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.2.3-4
+6.3.2-6
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_2B9C7800DA1A8BBA54D16A66D2A32627.pdf
+6.2.3-3
+6.8.3-1
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.2.3-4
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_34BDB58691C3E09BF923ABA886915170.pdf
+6.8.3-1
+6.8.2-1
+6.2.3-2
+6.7.11-1
+6.1.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_39B5BB98613818802A448F637B3D2C33.PDF
+6.8.3-1
+6.8.2-1
+6.7.11-1
+6.2.3-4
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_44BE54AA36EFDF8D9CB52B00015CE5B4.pdf
+6.8.3-1
+6.2.3-2
+6.8.2-1
+6.3.4-1
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_480B0CA21658FFF480A8500B3D606C2B.pdf
+6.8.3-1
+6.2.3-2
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.2.8-1
+6.3.8-1
+6.2.3-4
+6.3.2-6
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_4A2037D8F8D181EB3D51DF4A48C011E7.pdf
+6.2.3-2
+6.1.13-1
+6.7.11-1
+6.7.9-2
+6.2.3-4
+6.6.1-1
+6.6.1-3
+6.6.2-1
+6.1.7-2
+6.8.3-1
+6.1.7-1
+6.8.2-1
+6.9-2
+6.5.3-2
+6.5.3-4
+6.9-4
+6.5.3-3
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_5014389D1A7BC68A72A6935FE3881A62.PDF
+6.8.3-1
+6.8.2-1
+6.2.3-4
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_58F56E93FB624C37237BC9126542C59C.pdf
+6.8.3-1
+6.2.3-2
+6.8.2-1
+6.3.6-1
+6.1.3-2
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_5A9F2F54A3E7F1E799F60CB93C1DB315.pdf
+6.8.3-1
+6.8.2-1
+6.1.3-1
+6.2.3-4
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_5CA5D19A42747956D1550DDFA23FB228.pdf
+6.8.3-1
+6.2.3-2
+6.8.2-1
+6.3.4-1
+6.3.8-1
+6.3.7-3
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_60D2E3BE77C3A75CCB8FA70DE63A763A.PDF
+6.8.3-1
+6.8.2-1
+6.2.3-2
+6.2.3-4
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_693DEF880039A0981AC4205B71123B6E.pdf
+6.1.7-2
+6.8.3-1
+6.8.2-1
+6.3.4-1
+6.1.2-2
+6.1.3-1
+6.3.8-1
+6.2.3-4
+6.3.2-6
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_6E8E9666473CEFB107C3BDCF177B8120.pdf
+6.8.3-1
+6.2.3-2
+6.8.2-1
+6.3.4-1
+6.2.3-4
+6.1.2-1
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_7C1107A3D596D6DB50703C0C5E9334E3.pdf
+6.8.3-1
+6.8.2-1
+6.1.3-1
+6.2.3-4
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_7CB93FC3D93A7B8531D3D8F9423197AF.pdf
+6.2.3-3
+6.1.7-2
+6.8.3-1
+6.8.2-1
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_7D2133EA8A1E508137983929BDD1F7DB.pdf
+6.2.3-3
+6.8.3-1
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.2.3-4
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_83B5CBC61768B3F7B3D6902B14A1C086.pdf
+6.2.3-3
+6.8.3-1
+6.8.2-1
+6.7.9-2
+6.7.11-1
+6.2.3-4
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_94C6B3BFFA57C736A14C54138D5A1EA9.pdf
+6.2.3-2
+6.3.4-1
+6.2.3-4
+6.2.4-3
+6.4-3
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_A4F26CAC9345D5BD029D2D44CFCBA82B.pdf
+6.8.3-1
+6.8.2-1
+6.2.3-2
+6.1.2-2
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_AEC27D92A4F4F76EF3D5CEF41DD6CF21.pdf
+6.2.3-3
+6.2.3-2
+6.8.2-1
+6.7.9-2
+6.7.11-1
+6.6.1-1
+6.9-2
+6.9-4
+6.6.1-3
+6.5.2-1
+6.1.11-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_B2CCE23B3A9A6B834D4C300404B34AE1.pdf
+6.3.4-1
+6.7.9-2
+6.7.11-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_B7A1A312506448335556D6C5637369E4.pdf
+6.8.3-1
+6.8.2-1
+6.3.4-1
+6.1.3-2
+6.2.8-1
+6.2.3-4
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_BAEAB5A3009F4B5B6716B41F9D092A0A.pdf
+6.8.3-1
+6.1.7-1
+6.2.3-2
+6.8.2-1
+6.3.4-1
+6.2.8-1
+6.3.8-1
+6.2.3-4
+6.3.2-6
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_BBDE41268AA710CFEF6CB3D067855CB5.pdf
+6.2.3-3
+6.8.3-1
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.2.3-4
+6.7.2-1
+6.1.10-1
+6.7.3-1
+ERROR C:\ValidatorenTest\Testset\pdf\KOST_BDF7B21B8FA5BA63DA8C8CEB6BD99408.pdf PDF/A Validation
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_C4E36DB1A41BABF0C3AB618CFAB13C1B.pdf
+6.8.3-1
+6.1.7-1
+6.2.3-2
+6.8.2-1
+6.3.4-1
+6.2.8-1
+6.3.8-1
+6.3.2-6
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_C8DA1DA9AB1DE0E0D81A0F9A749C71FB.pdf
+6.8.3-1
+6.8.2-1
+6.7.11-1
+6.2.3-4
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_CC604E2101E84FABDAB1E5B694AF194C.pdf
+6.2.3-2
+6.2.3-4
+6.8.3-1
+6.1.7-1
+6.8.2-1
+6.3.4-1
+6.3.6-1
+6.3.8-1
+6.3.2-6
+6.5.3-2
+6.5.3-3
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_D8155AAAB3B0703BAAEF19A90AE641D4.pdf
+6.8.3-1
+6.2.3-2
+6.8.2-1
+6.3.4-1
+6.7.11-1
+6.2.3-4
+6.3.2-6
+6.5.3-3
+6.4-3
+6.4-4
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_E01BB491C81BF29D9C8B210D94CE21B9.pdf
+6.8.3-1
+6.2.3-2
+6.8.2-1
+6.7.11-1
+6.1.3-2
+6.2.3-4
+6.2.10-1
+6.5.3-3
+FAIL C:\ValidatorenTest\Testset\pdf\KOST_F631A2F773F5DB1E598966F961250CE9.pdf
+6.8.3-1
+6.8.2-1
+6.1.3-1
+6.2.3-4
+6.7.2-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\ZBW_3A07A3F1E906150B9B87E25E962570FC.PDF
+6.1.8-1
+6.8.3-1
+6.8.2-1
+6.7.9-2
+6.7.11-1
+6.1.3-2
+6.3.8-1
+6.2.3-4
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\ZBW_89A6A1D506451D1258498B2B409967B0.pdf
+6.1.7-2
+6.1.8-1
+6.8.3-1
+6.8.2-1
+6.7.11-1
+6.3.7-3
+FAIL C:\ValidatorenTest\Testset\pdf\ZBW_DC1730367127E23D83409540E20FDE96.pdf
+6.2.3-3
+6.8.3-1
+6.8.2-1
+6.1.3-2
+6.2.3-4
+6.7.2-1
+6.1.10-1
+6.7.3-1
+FAIL C:\ValidatorenTest\Testset\pdf\ZBW_F94F38E40E9FE5676B226C91642F1708.pdf
+6.1.8-1
+6.1.11-2
+6.8.3-1
+6.2.3-2
+6.8.2-1
+6.1.3-2
+6.7.11-1
+6.2.3-4
+6.1.11-1
+
+ veraPDF - pdf
+____________________________________________________________
+
+ Start      : Dienstag, 4. April 2017 14:08:08
+ End        : Dienstag, 4. April 2017 14:10:52
+ Duration   : 0:2:44
+____________________________________________________________
+
