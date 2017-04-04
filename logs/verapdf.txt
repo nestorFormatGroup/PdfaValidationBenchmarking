@@ -1,13 +1,4 @@
-veraPDF Version:
-veraPDF 1.2.1-PDFBOX
-Built: Wed Mar 01 22:00:00 CET 2017
-Developed and released by the veraPDF Consortium.
-Funded by the PREFORMA project.
-Released under the GNU General Public License v3
-and the Mozilla Public License v2 or later.
-
-
-
+veraPDF Version: veraPDF 1.2.1-PDFBOX
 PASS C:\ValidatorenTest\Testset\1a\KOST_01916856B1C713CE6A9D67540A1D98C4.pdf
 PASS C:\ValidatorenTest\Testset\1a\KOST_0416F81D4BF31AE1863556DD8B9078D2.pdf
 PASS C:\ValidatorenTest\Testset\1a\KOST_04871B36FAC0288F862E8355FCEFDF94.pdf
