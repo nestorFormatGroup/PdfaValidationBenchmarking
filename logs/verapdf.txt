@@ -231,15 +231,6 @@ PASS C:\ValidatorenTest\Testset\1a\KOST_FC64D63E1BAB335C450C203E02FD1A5B.pdf
 PASS C:\ValidatorenTest\Testset\1a\KOST_FC927210A51733DE8F97499B892A8657.pdf
 PASS C:\ValidatorenTest\Testset\1a\KOST_FD411EF63ECC21C9EF351325E84CD3C2.pdf
 PASS C:\ValidatorenTest\Testset\1a\KOST_FF3CA6451B2E41619CAC6EE3392F0BAD.pdf
-
- veraPDF - 1a
-____________________________________________________________
-
- Start      : Montag, 3. April 2017 14:28:22
- End        : Montag, 3. April 2017 14:35:33
- Duration   : 0:7:10
-____________________________________________________________
-
 PASS C:\ValidatorenTest\Testset\1b\0\KOST_000BE7CC2316E2E8C6122B0C80902449.pdf
 PASS C:\ValidatorenTest\Testset\1b\0\KOST_0048D96CD03D52DBE1A92694566AD6D3.pdf
 PASS C:\ValidatorenTest\Testset\1b\0\KOST_00C09E7748812D7BCBE291BE4D6FE7E3.pdf
@@ -645,15 +636,6 @@ FAIL C:\ValidatorenTest\Testset\1b\1\ZBW_1B1FAE94E21BF5927BC311AF1A53A3B1.pdf
 6.7.9-2
 6.3.5-3
 PASS C:\ValidatorenTest\Testset\1b\1\ZBW_1F2B1AE7658B4308E355F7C9DC48C807.pdf
-
- veraPDF - 1b 0&1
-____________________________________________________________
-
- Start      : Montag, 3. April 2017 14:36:12
- End        : Montag, 3. April 2017 15:39:58
- Duration   : 1:3:45
-____________________________________________________________
-
 PASS C:\ValidatorenTest\Testset\1b\2\KOST_201ACB8BCA26692748D7E0531EB1C41D.pdf
 FAIL C:\ValidatorenTest\Testset\1b\2\KOST_206A57A19CA4C2E6D3ED26C59B0D04B9.pdf
 6.1.8-1
@@ -1052,15 +1034,6 @@ FAIL C:\ValidatorenTest\Testset\1b\3\ZBW_37DD93E0A6089EDA41BCFDCF4774B1CC.PDF
 PASS C:\ValidatorenTest\Testset\1b\3\ZBW_38B4E980DEA2DC90A16D40D7AEAA0CE2.pdf
 PASS C:\ValidatorenTest\Testset\1b\3\ZBW_3D4FB2E95D178B4C44DD43019A95612F.pdf
 PASS C:\ValidatorenTest\Testset\1b\3\ZBW_3DB2271653E20A8D0F13596B449F2C23.pdf
-
- veraPDF - 1b 2&3
-____________________________________________________________
-
- Start      : Montag, 3. April 2017 15:43:20
- End        : Montag, 3. April 2017 17:26:53
- Duration   : 1:43:33
-____________________________________________________________
-
 PASS C:\ValidatorenTest\Testset\1b\4\KOST_4051D36C66A95CE21BF82E3AD5814EC4.pdf
 PASS C:\ValidatorenTest\Testset\1b\4\KOST_4058E5DF0B42CD841DE937C5708DB568.pdf
 PASS C:\ValidatorenTest\Testset\1b\4\KOST_405E15C0FC7991B3B450F516844FC812.pdf
@@ -3446,15 +3419,6 @@ PASS C:\ValidatorenTest\Testset\1b\F\ZBW_F85314A7E6F8603560D5007B020D286D.pdf
 PASS C:\ValidatorenTest\Testset\1b\F\ZBW_F8D1F71541E0D9089E264240F679A4EF.pdf
 PASS C:\ValidatorenTest\Testset\1b\F\ZBW_F914ACB18189027085392A8EA1B10678.pdf
 PASS C:\ValidatorenTest\Testset\1b\F\ZBW_FD42491EE627AFCBED80D7583849B3FB.pdf
-
- veraPDF - 1b 4-F
-____________________________________________________________
-
- Start      : Montag, 3. April 2017 17:46:52
- End        : Montag, 3. April 2017 22:18:10
- Duration   : 4:31:17
-____________________________________________________________
-
 PASS C:\ValidatorenTest\Testset\2a\KOST_00A1E7F1E753D2E06FBE1E0759152365.pdf
 PASS C:\ValidatorenTest\Testset\2a\KOST_06CE9588042B7A30CA3439B610598775.pdf
 PASS C:\ValidatorenTest\Testset\2a\KOST_0E6950D5085F63F3BF2AAB92CF87502D.pdf
@@ -3506,15 +3470,6 @@ PASS C:\ValidatorenTest\Testset\2a\KOST_F86E090054DC7A2DD35F2FEA4BA2EBEA.pdf
 PASS C:\ValidatorenTest\Testset\2a\KOST_F89FC15363C14D685D11792BBCD03BD7.pdf
 PASS C:\ValidatorenTest\Testset\2a\KOST_F98136CB23C80F3424382C0D8B4F66DD.pdf
 PASS C:\ValidatorenTest\Testset\2a\KOST_FD27CB5F3DD871A6B9CD8D8026E72383.pdf
-
- veraPDF - 2a
-____________________________________________________________
-
- Start      : Dienstag, 4. April 2017 08:35:41
- End        : Dienstag, 4. April 2017 08:37:19
- Duration   : 0:1:38
-____________________________________________________________
-
 PASS C:\ValidatorenTest\Testset\2b\KOST_001DA53017FE4783438FFFB313E012CD.pdf
 PASS C:\ValidatorenTest\Testset\2b\KOST_01C90ACA9D6332C62C8D18BA088572A5.pdf
 PASS C:\ValidatorenTest\Testset\2b\KOST_01CC1081B0852480C10FC1539CAB3B46.pdf
@@ -4033,15 +3988,6 @@ FAIL C:\ValidatorenTest\Testset\2b\Yvonne_774A2ECD0C24D9F06CB107492713DDA2.pdf
 6.2.4.4-1
 PASS C:\ValidatorenTest\Testset\2b\Yvonne_B12480848A7655716309353349795ECE.pdf
 C:\ValidatorenTest\Testset\2b\Yvonne_F64922ED49D38640593B8908F460BADE.pdf does not appear to be a valid PDF file and could not be parsed.
-
- veraPDF - 2b
-____________________________________________________________
-
- Start      : Dienstag, 4. April 2017 12:23:45
- End        : Dienstag, 4. April 2017 13:54:00
- Duration   : 1:30:15
-____________________________________________________________
-
 PASS C:\ValidatorenTest\Testset\2u\KOST_06ACB18DC2403F764B70003924786ECA.pdf
 PASS C:\ValidatorenTest\Testset\2u\KOST_07179E371B0DD30A6D2A7CADAD388D98.pdf
 PASS C:\ValidatorenTest\Testset\2u\KOST_077AD86C63EF92EF4FB7768A415D24AF.pdf
@@ -4142,15 +4088,6 @@ PASS C:\ValidatorenTest\Testset\2u\KOST_FC95A3398FC8D94D266EFDFB3E5D4DA9.pdf
 PASS C:\ValidatorenTest\Testset\2u\KOST_FDE370C55C00CC4D5F0E6C6F41CAD0DD.pdf
 PASS C:\ValidatorenTest\Testset\2u\KOST_FE82917DB11102F554BD4C728377A147.pdf
 PASS C:\ValidatorenTest\Testset\2u\KOST_FED996EAB7B2C5C2988FC19128E293FB.pdf
-
- veraPDF - 2u
-____________________________________________________________
-
- Start      : Dienstag, 4. April 2017 13:58:14
- End        : Dienstag, 4. April 2017 14:07:01
- Duration   : 0:8:46
-____________________________________________________________
-
 FAIL C:\ValidatorenTest\Testset\pdf\KOST_06C1AC02C8FAC8E1B4DFE127D2E8E0DC.pdf
 6.8.3-1
 6.8.2-1
@@ -4511,6 +4448,69 @@ FAIL C:\ValidatorenTest\Testset\pdf\ZBW_F94F38E40E9FE5676B226C91642F1708.pdf
 6.7.11-1
 6.2.3-4
 6.1.11-1
+
+ veraPDF - 1a
+____________________________________________________________
+
+ Start      : Montag, 3. April 2017 14:28:22
+ End        : Montag, 3. April 2017 14:35:33
+ Duration   : 0:7:10
+____________________________________________________________
+
+
+ veraPDF - 1b 0&1
+____________________________________________________________
+
+ Start      : Montag, 3. April 2017 14:36:12
+ End        : Montag, 3. April 2017 15:39:58
+ Duration   : 1:3:45
+____________________________________________________________
+
+
+ veraPDF - 1b 2&3
+____________________________________________________________
+
+ Start      : Montag, 3. April 2017 15:43:20
+ End        : Montag, 3. April 2017 17:26:53
+ Duration   : 1:43:33
+____________________________________________________________
+
+
+ veraPDF - 1b 4-F
+____________________________________________________________
+
+ Start      : Montag, 3. April 2017 17:46:52
+ End        : Montag, 3. April 2017 22:18:10
+ Duration   : 4:31:17
+____________________________________________________________
+
+
+ veraPDF - 2a
+____________________________________________________________
+
+ Start      : Dienstag, 4. April 2017 08:35:41
+ End        : Dienstag, 4. April 2017 08:37:19
+ Duration   : 0:1:38
+____________________________________________________________
+
+
+ veraPDF - 2b
+____________________________________________________________
+
+ Start      : Dienstag, 4. April 2017 12:23:45
+ End        : Dienstag, 4. April 2017 13:54:00
+ Duration   : 1:30:15
+____________________________________________________________
+
+
+ veraPDF - 2u
+____________________________________________________________
+
+ Start      : Dienstag, 4. April 2017 13:58:14
+ End        : Dienstag, 4. April 2017 14:07:01
+ Duration   : 0:8:46
+____________________________________________________________
+
 
  veraPDF - pdf
 ____________________________________________________________
