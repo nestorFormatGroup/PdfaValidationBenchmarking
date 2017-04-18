@@ -3,11 +3,9 @@ callas pdfaPilot CLI 7.0.267
 2000-2017 callas software gmbh
 
 Input	C:\ValidatorenTest\Testset\1a\KOST_01916856B1C713CE6A9D67540A1D98C4.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_01916856B1C713CE6A9D67540A1D98C4.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_0416F81D4BF31AE1863556DD8B9078D2.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_0416F81D4BF31AE1863556DD8B9078D2.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_04871B36FAC0288F862E8355FCEFDF94.pdf	
@@ -25,7 +23,6 @@ Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	198
 Finished	C:\ValidatorenTest\Testset\1a\KOST_0A6BAD30C47023758348EFB56E8667E3.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_0B6C6ECDD67ED190D810FA8BD4FB3F76.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_0B6C6ECDD67ED190D810FA8BD4FB3F76.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_0ECBA73F8DD46005054C4021284A9C3F.pdf	
@@ -99,15 +96,12 @@ Pages	18
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_20EC255C7829B607E34D4203C246F2C3.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_23E148FC6A2E8CED05B0BCF224795ACE.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_23E148FC6A2E8CED05B0BCF224795ACE.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_2418B61FDF72320108F7CF6C5D6A5325.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_2418B61FDF72320108F7CF6C5D6A5325.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_259881EDA512612868CFA80B2EE121DA.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_259881EDA512612868CFA80B2EE121DA.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_25C424D0625A415B2C8CB326B4F0DB26.pdf	
@@ -119,11 +113,9 @@ Errors	1	Title mismatch between Document Info and XMP Metadata
 Summary	Errors	38
 Finished	C:\ValidatorenTest\Testset\1a\KOST_25C424D0625A415B2C8CB326B4F0DB26.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_25FAE19447A55D97D463E45B4F742069.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_25FAE19447A55D97D463E45B4F742069.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_2768445058F166B8A3B8F15FAA38023D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_2768445058F166B8A3B8F15FAA38023D.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_28DBDFA2E6D8C20B4C318C37AA36ECFD.pdf	
@@ -131,7 +123,6 @@ Pages	5
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_28DBDFA2E6D8C20B4C318C37AA36ECFD.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_2927E296D64663B9A190D3262C2DE6B0.pdf	
-Pages	2	
 Errors	1	Syntax problem: Indirect object has object number not preceded by an EOL marker
 Errors	1	Structured PDF: Element does not use standard type
 Summary	Errors	2
@@ -141,7 +132,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_2AA85A5743C75C74B9ED4B5F52A672DC.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_2BE7ED819C7ED8211303B727D8F50AC6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_2BE7ED819C7ED8211303B727D8F50AC6.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_2C5276C0B4460293246292C7037DAC31.pdf	
@@ -163,18 +153,15 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_2EAA8D8601A5D46CA11861B9E0C1D01D.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_2EAA8D8601A5D46CA11861B9E0C1D01D.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_2FCBAD545D7AD093EE1DE5CDD0C3C369.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_2FCBAD545D7AD093EE1DE5CDD0C3C369.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_3018BF1AFF464AD153BAAF04A20F2344.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_3018BF1AFF464AD153BAAF04A20F2344.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_3774742878214F90C525997CEEFA7111.pdf	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_3774742878214F90C525997CEEFA7111.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_390B27F0BD337119677F1A6D7BBD6C5B.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_390B27F0BD337119677F1A6D7BBD6C5B.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_3A7F34419E9933FA425A8A6F235E8069.pdf	
@@ -207,7 +194,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_3F65A60E7E45E12560B41654CFA67C89.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_3FEA59AB0A70DC6E2877E3D7083971B9.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_3FEA59AB0A70DC6E2877E3D7083971B9.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_400176CA94BDC7AC1A3E78627197FC44.pdf	
@@ -215,15 +201,12 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_400176CA94BDC7AC1A3E78627197FC44.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_40D14C04B9A688D507735024E80F13F6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_40D14C04B9A688D507735024E80F13F6.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_43261D7FE6991001DFADF465D394A6DC.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_43261D7FE6991001DFADF465D394A6DC.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_43C77E49E4371E0C3FD6DCB6F867D73E.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_43C77E49E4371E0C3FD6DCB6F867D73E.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_43F11359A86DEE7CB1E744B03EA13C2D.pdf	
@@ -231,7 +214,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_43F11359A86DEE7CB1E744B03EA13C2D.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_45624074B2655C3BC04BD2B4C908191E.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_45624074B2655C3BC04BD2B4C908191E.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_45BC48ACA8B0F07701FDC899C8DDC242.pdf	
@@ -266,22 +248,18 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_49D2410DCE14DC95486AB2349F96D22C.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_49D2410DCE14DC95486AB2349F96D22C.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_4B209DBF902D5157D10E81D34747CA34.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_4B209DBF902D5157D10E81D34747CA34.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_4DBF46B37670D7D07F880E8893B28CF7.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	1	MarkInfo missing
 Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1a\KOST_4DBF46B37670D7D07F880E8893B28CF7.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_4E2D83EECC21EAD8D1B43F3067972769.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_4E2D83EECC21EAD8D1B43F3067972769.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_4F05E0AA21030A863E8ACD00DF1FF3E6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_4F05E0AA21030A863E8ACD00DF1FF3E6.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_5009B6B5E9380026FE640ABBA311196C.pdf	
@@ -303,7 +281,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_54AA7C1B7BC54E20556C6DC33B02E276.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_54AA7C1B7BC54E20556C6DC33B02E276.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_58481F6EF0B10070F0C35E3F739E7CD3.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_58481F6EF0B10070F0C35E3F739E7CD3.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_58DB3E12AE3E70ED7539754C5B466485.pdf	
@@ -318,7 +295,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_5A390A8FB205FF64CBEC1DD7DDB81700.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_5A390A8FB205FF64CBEC1DD7DDB81700.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_5B4F305758265A8242163D5159B0C118.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_5B4F305758265A8242163D5159B0C118.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_5C94C7EB0E0FC5958D58E5CA6386F92D.pdf	
@@ -408,7 +384,6 @@ Pages	4
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_78CF3833558877D98AB0DAC0D45B8E31.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_78E5148D385E73E63B93741542F2F43D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_78E5148D385E73E63B93741542F2F43D.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_7CC54D2972254636A3914107A801A968.pdf	
@@ -427,11 +402,9 @@ Pages	11
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_7E95ED727E52810E97C787D694F7A559.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_7EF512F789E0E1FD6B051877972E936F.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_7EF512F789E0E1FD6B051877972E936F.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_836D5BE7D1CAC0B4DFEF9CF45F69D234.pdf	
-Pages	2	
 Errors	1	The needed color space for an image could not be read
 Errors	1	Layers used
 Errors	1	Image is not valid
@@ -439,11 +412,9 @@ Errors	6	Transparency used (filled object with ca value smaller than 1.0)
 Summary	Errors	9
 Finished	C:\ValidatorenTest\Testset\1a\KOST_836D5BE7D1CAC0B4DFEF9CF45F69D234.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_84CFE4E3EC54CC8A5ABE9CBE798B5629.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_84CFE4E3EC54CC8A5ABE9CBE798B5629.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_84DEE76AB4F292AA198C374CED9AD37D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_84DEE76AB4F292AA198C374CED9AD37D.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_876BB1468D0C5C3F9F4D5B4792B8AA3F.pdf	
@@ -453,7 +424,6 @@ Errors	1	Metadata missing (XMP)
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1a\KOST_876BB1468D0C5C3F9F4D5B4792B8AA3F.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_896570CAA69914975025D6B7F086B149.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_896570CAA69914975025D6B7F086B149.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_89B0361AE38BFEA749A202576B54C196.pdf	
@@ -461,7 +431,6 @@ Pages	316
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_89B0361AE38BFEA749A202576B54C196.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_8A6FA7FF8E5B5C16AD07353CB810626A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_8A6FA7FF8E5B5C16AD07353CB810626A.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_8A88F30BEACEB22DDE07D121EF44138F.pdf	
@@ -469,11 +438,9 @@ Pages	15
 Summary	Errors	0
 Error	1013	The document structure is corrupt.	
 Input	C:\ValidatorenTest\Testset\1a\KOST_8A9CC8FCBBD12A63E522444E618063E9.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_8A9CC8FCBBD12A63E522444E618063E9.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_8D2F2C21046513B7D89C72327F461801.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_8D2F2C21046513B7D89C72327F461801.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_8F955A8A4D198557C4EF3C2994BD8307.pdf	
@@ -496,7 +463,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_97D350D6FFADF7E810C8D443FF4BE61A.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_97D350D6FFADF7E810C8D443FF4BE61A.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_9813BCBBF7685079351CE7D44FF262CC.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_9813BCBBF7685079351CE7D44FF262CC.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_9A69510A36739244A647D6F38D8BB0CE.pdf	
@@ -504,7 +470,6 @@ Pages	4
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_9A69510A36739244A647D6F38D8BB0CE.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_9DBA26B8A5A9F20E8AE4145129EE0BAA.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_9DBA26B8A5A9F20E8AE4145129EE0BAA.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_9E2F7F8F7BF453FE191439C2DE7C62D2.pdf	
@@ -512,7 +477,6 @@ Pages	7
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_9E2F7F8F7BF453FE191439C2DE7C62D2.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_9FB2F939A5EE15B691D92F9240F1632C.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_9FB2F939A5EE15B691D92F9240F1632C.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_A02118FFE10E09D7E547AD3CCE55733B.pdf	
@@ -524,7 +488,6 @@ Pages	10
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_A056E75DC8C722B0AF611F4C42ED6D47.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_A12642A888DFF7C142E76A17158D9EE1.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_A12642A888DFF7C142E76A17158D9EE1.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_A13D7FCC76FD7ED98E93C3D858592F82.pdf	
@@ -532,7 +495,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_A13D7FCC76FD7ED98E93C3D858592F82.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_A3D55DD5E3A9054A5C929578EC793785.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_A3D55DD5E3A9054A5C929578EC793785.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_AA5B57EC18D0B7FA58549083776D51A6.pdf	
@@ -574,7 +536,6 @@ Pages	17
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_B7ECD3149A273284593512D4562354A7.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_BBCBDF8494A06C38A221F12BDBB639FB.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_BBCBDF8494A06C38A221F12BDBB639FB.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_BF75AC2707C1194DE7BA155AD9DB19A7.pdf	
@@ -585,15 +546,12 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_C1356BBC0505CBEBC5E1DD1AADB7603C.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_C1356BBC0505CBEBC5E1DD1AADB7603C.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_C177BE37911D37448F129298F7C9C1BE.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_C177BE37911D37448F129298F7C9C1BE.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_C38B5D6729BFAB4704F0DF0AAAD02A48.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_C38B5D6729BFAB4704F0DF0AAAD02A48.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_C57F7E612B27634254BB343C9DB2E6A1.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_C57F7E612B27634254BB343C9DB2E6A1.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_C6C976565777DAF5AC33AB20BE0D8742.pdf	
@@ -601,11 +559,9 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_C6C976565777DAF5AC33AB20BE0D8742.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_C79CD2CDDD73AD428527D5C1E85501E9.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_C79CD2CDDD73AD428527D5C1E85501E9.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_C7D9C5A3EEC01DED5BF733ED7F950CC7.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_C7D9C5A3EEC01DED5BF733ED7F950CC7.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_CA4DAA1B24390E06BCA865D63A78895A.pdf	
@@ -617,7 +573,6 @@ Pages	26
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_CA6D1AE3F0B2E5B1604C64F7A7304EE8.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_CB67A8CD93680CD60B0E32EE993CA038.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_CB67A8CD93680CD60B0E32EE993CA038.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_CC39AAB435B2BF119676BDD89EDBEEC8.pdf	
@@ -625,11 +580,9 @@ Pages	13
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_CC39AAB435B2BF119676BDD89EDBEEC8.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_CD93755B4A077D8F05C2ABF8A6454D2A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_CD93755B4A077D8F05C2ABF8A6454D2A.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_CF8B1D8B9F59F935800B3AE8FCFA3738.pdf	
-Pages	2	
 Errors	2	CIDset in subset font is incomplete
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1a\KOST_CF8B1D8B9F59F935800B3AE8FCFA3738.pdf	
@@ -638,7 +591,6 @@ Pages	4
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_D0794692AF506B389BE46A236400A7DC.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_D2B50D658EB963823901286FEA2D3C76.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_D2B50D658EB963823901286FEA2D3C76.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_D2B977F39B7F9171219515F93B027565.pdf	
@@ -650,7 +602,6 @@ Errors	1	Metadata missing (XMP)
 Summary	Errors	16
 Finished	C:\ValidatorenTest\Testset\1a\KOST_D2B977F39B7F9171219515F93B027565.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_D5E15968A5EC72F457AC51AF96B5F1C5.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_D5E15968A5EC72F457AC51AF96B5F1C5.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_D81CC5BF8B96E37920FF1802580F1D40.pdf	
@@ -658,15 +609,12 @@ Pages	6
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_D81CC5BF8B96E37920FF1802580F1D40.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_D8799B32C60474755DBBA18D8253D2CF.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_D8799B32C60474755DBBA18D8253D2CF.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_D939B9133E2BF4CAB509EC7CAA489F7F.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_D939B9133E2BF4CAB509EC7CAA489F7F.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_DA7CEC82663D3AF35C5429CCB926C2AE.pdf	
-Pages	2	
 Summary	Errors	0
 Error	1000	Unknown error (unknown exception)	
 Input	C:\ValidatorenTest\Testset\1a\KOST_DEFC18238F13A86D07388B26461B4925.pdf	
@@ -677,14 +625,12 @@ Errors	1	Title mismatch between Document Info and XMP Metadata
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1a\KOST_DEFC18238F13A86D07388B26461B4925.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_E2169E5BA7C9A45656ACCB5B96B1DB35.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_E2169E5BA7C9A45656ACCB5B96B1DB35.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_E57747C92A0AA200AE4A446606B492BE.pdf	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_E57747C92A0AA200AE4A446606B492BE.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_E59B0F3BC98BF5DFC345717E6DA099E5.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_E59B0F3BC98BF5DFC345717E6DA099E5.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_E692F54DC8092753D2358FD4DCD40F30.pdf	
@@ -699,7 +645,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_E74011D5BEB72C05F5464C409DF59F3D.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_E74011D5BEB72C05F5464C409DF59F3D.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_E976E7BEFECCC3571C05C81FAB9BB3FD.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_E976E7BEFECCC3571C05C81FAB9BB3FD.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_E9ABAFD4778B791B3D993A10D2CFD3EE.pdf	
@@ -729,14 +674,12 @@ Pages	8
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_F7A75A980B7D2CEEFDDA71BAB0C91AB3.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_F822CFF08DCB3C16F4C83281DB6BF264.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_F822CFF08DCB3C16F4C83281DB6BF264.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_F913FE70D9026CE3293CFB87859334E0.pdf	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_F913FE70D9026CE3293CFB87859334E0.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_FC64D63E1BAB335C450C203E02FD1A5B.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_FC64D63E1BAB335C450C203E02FD1A5B.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_FC927210A51733DE8F97499B892A8657.pdf	
@@ -744,11 +687,9 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_FC927210A51733DE8F97499B892A8657.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_FD411EF63ECC21C9EF351325E84CD3C2.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_FD411EF63ECC21C9EF351325E84CD3C2.pdf	
 Input	C:\ValidatorenTest\Testset\1a\KOST_FF3CA6451B2E41619CAC6EE3392F0BAD.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_FF3CA6451B2E41619CAC6EE3392F0BAD.pdf	
 Input	C:\ValidatorenTest\Testset\1b\0\KOST_000BE7CC2316E2E8C6122B0C80902449.pdf	
@@ -915,7 +856,6 @@ Input	C:\ValidatorenTest\Testset\1b\0\KOST_06F1EE266EFF1182B6D2A5BBD3F04435.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\0\KOST_06F1EE266EFF1182B6D2A5BBD3F04435.pdf	
 Input	C:\ValidatorenTest\Testset\1b\0\KOST_073BEE6C202AA67C109D655655561073.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\0\KOST_073BEE6C202AA67C109D655655561073.pdf	
 Input	C:\ValidatorenTest\Testset\1b\0\KOST_074FF2443FE2A43E8F4DD203A987D957.pdf	
@@ -1305,7 +1245,6 @@ Errors	1	RGB used but PDF/A OutputIntent not RGB
 Summary	Errors	1
 Error	1000	Unknown error (unknown exception)	
 Input	C:\ValidatorenTest\Testset\1b\1\KOST_11488FE4A24A1083BB4C5D4C1C2E3098.pdf	
-Pages	2	
 Errors	20	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	20
 Finished	C:\ValidatorenTest\Testset\1b\1\KOST_11488FE4A24A1083BB4C5D4C1C2E3098.pdf	
@@ -1385,7 +1324,6 @@ Input	C:\ValidatorenTest\Testset\1b\1\KOST_140201B4AC4A3C1147378111D97B8DC6.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\1\KOST_140201B4AC4A3C1147378111D97B8DC6.pdf	
 Input	C:\ValidatorenTest\Testset\1b\1\KOST_1415E548E7157D67B17DF15D8D9A8F0B.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\1\KOST_1415E548E7157D67B17DF15D8D9A8F0B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\1\KOST_14160F7FE9B80E29088F0C3E04771F5C.pdf	
@@ -1526,12 +1464,10 @@ Input	C:\ValidatorenTest\Testset\1b\1\KOST_181009090914EE8208BDD2B375E49B98.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\1\KOST_181009090914EE8208BDD2B375E49B98.pdf	
 Input	C:\ValidatorenTest\Testset\1b\1\KOST_181C732FF664AD317104DF48E890B61F.pdf	
-Pages	2	
 Errors	168	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	168
 Finished	C:\ValidatorenTest\Testset\1b\1\KOST_181C732FF664AD317104DF48E890B61F.pdf	
 Input	C:\ValidatorenTest\Testset\1b\1\KOST_182CBC823D327676A3F8729F2EE0F242.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	22	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	23
@@ -1838,7 +1774,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	455
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_1FB88B4D30379DBC41B18FBBA93AE8E0.pdf	
 Input	C:\ValidatorenTest\Testset\1b\1\Yvonne_16483CFFF1CC017C35A4329D3DE3B41F.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\1\Yvonne_16483CFFF1CC017C35A4329D3DE3B41F.pdf	
 Input	C:\ValidatorenTest\Testset\1b\1\ZBW_11E5542B955354E66BF609230FDCB67E.pdf	
@@ -1936,7 +1871,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\2\KOST_233016D31E8833DBE990245A63A148F3.pdf	
 Input	C:\ValidatorenTest\Testset\1b\2\KOST_23AC94AC0FB4F6AC210A5B0D2A4B16F1.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\2\KOST_23AC94AC0FB4F6AC210A5B0D2A4B16F1.pdf	
 Input	C:\ValidatorenTest\Testset\1b\2\KOST_23E59EC7E8DEB2C20413C55D96E63357.pdf	
@@ -2124,7 +2058,6 @@ Input	C:\ValidatorenTest\Testset\1b\2\KOST_2B01A432CEB05A3009F576B5465E6B00.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\2\KOST_2B01A432CEB05A3009F576B5465E6B00.pdf	
 Input	C:\ValidatorenTest\Testset\1b\2\KOST_2B0CDD26FE47A36F7AADBDFC8CA32160.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	54	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	55
@@ -2238,7 +2171,6 @@ Errors	2	Annotation's AP (appearance) contains only N entry is not true
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1b\2\KOST_2F951B3E9AF80EE5AA553BBBFB087537.pdf	
 Input	C:\ValidatorenTest\Testset\1b\2\KOST_2FA86BC6354ADED3CEFB9ADE3B8BA18E.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	17	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	18
@@ -2481,7 +2413,6 @@ Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_33AB4BB0A9F5AF03A61C04FD72838F61.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_33D960E53F33693C60EAB0B9BC0DD02A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_33D960E53F33693C60EAB0B9BC0DD02A.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_33EA56F0A9B876E73B4420B4B719AE4A.pdf	
@@ -2513,7 +2444,6 @@ Pages	6
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_34BAE38176D25601E5D2C5C5CBE35F7C.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_34ED991F20E3EEC8590E25294E1C5FB6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_34ED991F20E3EEC8590E25294E1C5FB6.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_35196C404338ADCCE85338B3DEB72846.pdf	
@@ -2565,7 +2495,6 @@ Input	C:\ValidatorenTest\Testset\1b\3\KOST_370215F04A1F8F95B7335EEF82F28413.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_370215F04A1F8F95B7335EEF82F28413.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_371824B6EA4BF5A9B91B727202CA3456.pdf	
-Pages	2	
 Errors	2	CIDset in subset font is incomplete
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_371824B6EA4BF5A9B91B727202CA3456.pdf	
@@ -2577,7 +2506,6 @@ Input	C:\ValidatorenTest\Testset\1b\3\KOST_3761DFC004BE912F762BD821807504F5.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_3761DFC004BE912F762BD821807504F5.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_378D5859CB33E53AF6B32A8F8E0A5669.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_378D5859CB33E53AF6B32A8F8E0A5669.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_37A3308D17470EA99233A4D966F36D3E.pdf	
@@ -2668,7 +2596,6 @@ Input	C:\ValidatorenTest\Testset\1b\3\KOST_3B3F999D9A15FDCE84FBA790D9935D43.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_3B3F999D9A15FDCE84FBA790D9935D43.pdf	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_3B4671D0A41C7F379E67784176C9E8E1.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	24	Type 2 CID font: CIDToGIDMap invalid or missing
 Summary	Errors	25
@@ -2999,7 +2926,6 @@ Input	C:\ValidatorenTest\Testset\1b\4\KOST_43DA00ABEF33C276CBE78634F0FC5752.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\4\KOST_43DA00ABEF33C276CBE78634F0FC5752.pdf	
 Input	C:\ValidatorenTest\Testset\1b\4\KOST_43F103E33F5BCCD9214D936D9DACAE53.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\4\KOST_43F103E33F5BCCD9214D936D9DACAE53.pdf	
 Input	C:\ValidatorenTest\Testset\1b\4\KOST_442E0FCBD51F7308444EA680907DCB9A.pdf	
@@ -3058,7 +2984,6 @@ Input	C:\ValidatorenTest\Testset\1b\4\KOST_469D442540FED0DB89F7725F5DEB4F9F.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\4\KOST_469D442540FED0DB89F7725F5DEB4F9F.pdf	
 Input	C:\ValidatorenTest\Testset\1b\4\KOST_46A3DEED0B07FAA8578EB819045267A8.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\4\KOST_46A3DEED0B07FAA8578EB819045267A8.pdf	
 Input	C:\ValidatorenTest\Testset\1b\4\KOST_46B4A79D686EE3030A2E514E68C422FA.pdf	
@@ -3067,7 +2992,6 @@ Errors	152	CIDset in subset font is incomplete
 Summary	Errors	152
 Finished	C:\ValidatorenTest\Testset\1b\4\KOST_46B4A79D686EE3030A2E514E68C422FA.pdf	
 Input	C:\ValidatorenTest\Testset\1b\4\KOST_46CA6C88417FA667F9EC5A1FE1711FED.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	1	Syntax problem: Stream dictionary improperly formatted
 Errors	1	XMP property not predefined and no extension schema present
@@ -3461,7 +3385,6 @@ Input	C:\ValidatorenTest\Testset\1b\5\KOST_5370D33C5D52F1C2EADCA080ADB2478A.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_5370D33C5D52F1C2EADCA080ADB2478A.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_53BBA16F91B24F523DC3BEE939B9BC9D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_53BBA16F91B24F523DC3BEE939B9BC9D.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_53D3079CA3E8AAABB1FED46036B59BB2.pdf	
@@ -3512,7 +3435,6 @@ Input	C:\ValidatorenTest\Testset\1b\5\KOST_542F3D7CD8908FA3376BF61D681948B5.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_542F3D7CD8908FA3376BF61D681948B5.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_54380747E0C69C45AB78C0E0FC691CC7.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_54380747E0C69C45AB78C0E0FC691CC7.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_5440C000E73751F0EFC694AE99B78188.pdf	
@@ -3546,7 +3468,6 @@ Input	C:\ValidatorenTest\Testset\1b\5\KOST_5546859BB6BB3C33DDE443A7D0B2E516.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_5546859BB6BB3C33DDE443A7D0B2E516.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_556C85D92219D181093D98B2B8514BA4.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	23	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	24
@@ -3655,7 +3576,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_596E3697D79AF03308EF07C71DC83F95.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_598FF60A4900EDBC4C9D65345895A296.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_598FF60A4900EDBC4C9D65345895A296.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_5994E358FE1998209E33663FAB1FF008.pdf	
@@ -3699,7 +3619,6 @@ Input	C:\ValidatorenTest\Testset\1b\5\KOST_5B09E263746C57AF2343B7B5892B88F6.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_5B09E263746C57AF2343B7B5892B88F6.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_5B64324C3FE6ED9CE7861EB308E35BD0.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_5B64324C3FE6ED9CE7861EB308E35BD0.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_5BBE43071BC7A72E6013FC846337BAFE.pdf	
@@ -3716,7 +3635,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_5C0790573AE8EFA4D42225CC7FA4BDF3.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_5C97D8225CC94D6C950158D3023C5DEE.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_5C97D8225CC94D6C950158D3023C5DEE.pdf	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_5CA210A15CA513076C822102B7BA914D.pdf	
@@ -4026,7 +3944,6 @@ Pages	19
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\ZBW_5E88252F2BF18569BEEA35805C0E8D37.pdf	
 Input	C:\ValidatorenTest\Testset\1b\6\KOST_601FE04AEC787B3806668F8BA358709F.pdf	
-Pages	2	
 Errors	168	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	168
 Finished	C:\ValidatorenTest\Testset\1b\6\KOST_601FE04AEC787B3806668F8BA358709F.pdf	
@@ -4271,7 +4188,6 @@ Input	C:\ValidatorenTest\Testset\1b\6\KOST_68C8E1156062B6E002EB4060F4305A4E.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\6\KOST_68C8E1156062B6E002EB4060F4305A4E.pdf	
 Input	C:\ValidatorenTest\Testset\1b\6\KOST_68DDD39CFD584CCF096E5DEB96FC4826.pdf	
-Pages	2	
 Errors	1	Syntax problem: Stream dictionary improperly formatted
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\6\KOST_68DDD39CFD584CCF096E5DEB96FC4826.pdf	
@@ -4295,7 +4211,6 @@ Input	C:\ValidatorenTest\Testset\1b\6\KOST_6A393E22713860D3B7A305F733529D5A.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\6\KOST_6A393E22713860D3B7A305F733529D5A.pdf	
 Input	C:\ValidatorenTest\Testset\1b\6\KOST_6A60CF231A1D185DC5375301C12DF5FE.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\6\KOST_6A60CF231A1D185DC5375301C12DF5FE.pdf	
 Input	C:\ValidatorenTest\Testset\1b\6\KOST_6AC5029364A9091F6DB946383F0B5F1C.pdf	
@@ -4561,7 +4476,6 @@ Input	C:\ValidatorenTest\Testset\1b\7\KOST_716DC9D3FC608074E9A9078D2E7EC516.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_716DC9D3FC608074E9A9078D2E7EC516.pdf	
 Input	C:\ValidatorenTest\Testset\1b\7\KOST_7170713CE8496CCC03DB9FD3500195C3.pdf	
-Pages	2	
 Errors	100	Object XMP metadata is not valid
 Summary	Errors	100
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_7170713CE8496CCC03DB9FD3500195C3.pdf	
@@ -4639,7 +4553,6 @@ Pages	43
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_74A8BD8C76FE7225FB7A8C8E150DB4CB.pdf	
 Input	C:\ValidatorenTest\Testset\1b\7\KOST_7502884D5F25E5775FC5C903C3419A7C.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_7502884D5F25E5775FC5C903C3419A7C.pdf	
 Input	C:\ValidatorenTest\Testset\1b\7\KOST_750F5F6D2931DDA60AFF8F26BA50FEEC.pdf	
@@ -4738,7 +4651,6 @@ Input	C:\ValidatorenTest\Testset\1b\7\KOST_79332CE7B1D59F6F4BE0F6C79D9A479B.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_79332CE7B1D59F6F4BE0F6C79D9A479B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\7\KOST_793469B8E0BAD88856FCF511BA3DEE74.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_793469B8E0BAD88856FCF511BA3DEE74.pdf	
 Input	C:\ValidatorenTest\Testset\1b\7\KOST_7943C2377A5D0DE1610A7F5D51A4B842.pdf	
@@ -5095,12 +5007,10 @@ Input	C:\ValidatorenTest\Testset\1b\8\KOST_81DD69971CE4E966687B573E00EC6F5F.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_81DD69971CE4E966687B573E00EC6F5F.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_81F66B8795C373D6CB2272AA966F9117.pdf	
-Pages	2	
 Errors	100	Object XMP metadata is not valid
 Summary	Errors	100
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_81F66B8795C373D6CB2272AA966F9117.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_82413F2624FE34A11538FD999F3ED812.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_82413F2624FE34A11538FD999F3ED812.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_824D567B940FE8EBA7EBBEA100878D98.pdf	
@@ -5170,7 +5080,6 @@ Input	C:\ValidatorenTest\Testset\1b\8\KOST_84A14AC2BCCFDAD397F28429818FCB0B.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_84A14AC2BCCFDAD397F28429818FCB0B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_84B82FE9A54E8A94C04620A91B8B8A7F.pdf	
-Pages	2	
 Errors	2	Annotation has no Flags entry
 Errors	2	Annotation not set to print
 Summary	Errors	4
@@ -5255,7 +5164,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_8934E34991954B0A46CF9830F6F4630E.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_8949F994E7187D3358FF5EAEBA203C13.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	168	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	169
@@ -5335,7 +5243,6 @@ Input	C:\ValidatorenTest\Testset\1b\8\KOST_8C7C00CC57643419334247ADD3E3ADC9.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_8C7C00CC57643419334247ADD3E3ADC9.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_8C92BD488780ADF2CD0A714A597A92D6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_8C92BD488780ADF2CD0A714A597A92D6.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_8C93A90014DBBDEA7E18C392C95B3711.pdf	
@@ -5575,7 +5482,6 @@ Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	189
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8EEFCF7AA1047FB2D877CFFA0BE6B839.pdf	
 Input	C:\ValidatorenTest\Testset\1b\8\Yvonne_856A8F4F0764DF453EEB46155B3538B0.pdf	
-Pages	2	
 Errors	59	Device process color used but no PDF/A OutputIntent
 Summary	Errors	59
 Finished	C:\ValidatorenTest\Testset\1b\8\Yvonne_856A8F4F0764DF453EEB46155B3538B0.pdf	
@@ -5626,7 +5532,6 @@ Input	C:\ValidatorenTest\Testset\1b\9\KOST_90C744AAEADCABBEE1938816F518D201.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_90C744AAEADCABBEE1938816F518D201.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_90DC7B8195BA84AEF73EDFF117A60E32.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_90DC7B8195BA84AEF73EDFF117A60E32.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_90F73C3C24682FA1AA0F88B669310D0D.pdf	
@@ -5644,7 +5549,6 @@ Input	C:\ValidatorenTest\Testset\1b\9\KOST_9182F926DD34B61468A28D19A19C1703.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_9182F926DD34B61468A28D19A19C1703.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_919940492602CC52FF617379FD20DA43.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_919940492602CC52FF617379FD20DA43.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_91C15D1B96DBC50CCB54517DB5DCBEB0.pdf	
@@ -5688,7 +5592,6 @@ Errors	1	Syntax problem: Stream dictionary improperly formatted
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_93068CB96CAB99DD3C5D9883DDF5BAEF.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_931C28C9B22EAFD0B79A90DAE6F1AAE0.pdf	
-Pages	2	
 Errors	22	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	22
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_931C28C9B22EAFD0B79A90DAE6F1AAE0.pdf	
@@ -5721,7 +5624,6 @@ Input	C:\ValidatorenTest\Testset\1b\9\KOST_93DE4ACA5409AD2F1C219FBFADBA2214.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_93DE4ACA5409AD2F1C219FBFADBA2214.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_93EFD9AC93BC3E8C1951DF41CDDAAF47.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_93EFD9AC93BC3E8C1951DF41CDDAAF47.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_93F16D914162354D33A55BFA84C49DE7.pdf	
@@ -5770,7 +5672,6 @@ Input	C:\ValidatorenTest\Testset\1b\9\KOST_95B9E5BEA3BD5BDA6B5B2980079A462B.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_95B9E5BEA3BD5BDA6B5B2980079A462B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_95F2B90666C6C2BB78E38D4BFC97B9A5.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_95F2B90666C6C2BB78E38D4BFC97B9A5.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_96102771267029DCE6FEA080F7F6D4CD.pdf	
@@ -5795,7 +5696,6 @@ Input	C:\ValidatorenTest\Testset\1b\9\KOST_96B67DAB81BA13867099A376102537E6.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_96B67DAB81BA13867099A376102537E6.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_971F79CCEBD3F30423D07B0059106A13.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_971F79CCEBD3F30423D07B0059106A13.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_974C0315B769D711F42C300E3947AAFE.pdf	
@@ -5927,7 +5827,6 @@ Input	C:\ValidatorenTest\Testset\1b\9\KOST_9DFD628F68D0665A4667E8EE93298129.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_9DFD628F68D0665A4667E8EE93298129.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_9E0A1F7DE7CA638A45B5CDD6301C32E1.pdf	
-Pages	2	
 Errors	1	XMP property is predefined but is not used in accordance with the definition
 Errors	1	Creation date mismatch between Document Info and XMP Metadata
 Errors	1	Last Modification Date mismatch between Document Info and XMP Metadata
@@ -5975,7 +5874,6 @@ Input	C:\ValidatorenTest\Testset\1b\9\KOST_9F9758DDFEC183F0CE4B16856DBEFD7C.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_9F9758DDFEC183F0CE4B16856DBEFD7C.pdf	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_9FCBD65506F9D7285FDB6F7F5908E968.pdf	
-Pages	2	
 Errors	2	Annotation has no Flags entry
 Errors	2	Annotation not set to print
 Summary	Errors	4
@@ -6321,7 +6219,6 @@ Input	C:\ValidatorenTest\Testset\1b\A\KOST_A58B110CEB93F19FE970503C9FB9314A.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\A\KOST_A58B110CEB93F19FE970503C9FB9314A.pdf	
 Input	C:\ValidatorenTest\Testset\1b\A\KOST_A5D149261812A19A56EF7CBB321207F5.pdf	
-Pages	2	
 Errors	24	Type 2 CID font: CIDToGIDMap invalid or missing
 Summary	Errors	24
 Finished	C:\ValidatorenTest\Testset\1b\A\KOST_A5D149261812A19A56EF7CBB321207F5.pdf	
@@ -6429,7 +6326,6 @@ Input	C:\ValidatorenTest\Testset\1b\A\KOST_A95EB54D63E2FC727F10994B2309FF2B.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\A\KOST_A95EB54D63E2FC727F10994B2309FF2B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\A\KOST_A97C1555573D6FE96BD4975719CD9AC0.pdf	
-Pages	2	
 Errors	17	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	17
 Finished	C:\ValidatorenTest\Testset\1b\A\KOST_A97C1555573D6FE96BD4975719CD9AC0.pdf	
@@ -6574,7 +6470,6 @@ Input	C:\ValidatorenTest\Testset\1b\A\KOST_AEB7F46DAC2F9C2CB68F7764A8C3B615.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\A\KOST_AEB7F46DAC2F9C2CB68F7764A8C3B615.pdf	
 Input	C:\ValidatorenTest\Testset\1b\A\KOST_AF3B9332639D853955983E1C00319E7B.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\A\KOST_AF3B9332639D853955983E1C00319E7B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\A\KOST_AF73E4412450BAADAB31F899426C8BAC.pdf	
@@ -6801,7 +6696,6 @@ Input	C:\ValidatorenTest\Testset\1b\B\KOST_B3543E7DC4B5C1FA37C8E7E49F5682B3.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\B\KOST_B3543E7DC4B5C1FA37C8E7E49F5682B3.pdf	
 Input	C:\ValidatorenTest\Testset\1b\B\KOST_B36336B4A9D003D3CF62A0DBCFF3197E.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	1	XMP property neither predefined nor defined in extension schema
 Errors	1	XMP property is predefined but is not used in accordance with the definition
@@ -6950,7 +6844,6 @@ Input	C:\ValidatorenTest\Testset\1b\B\KOST_B89A24260EB527C02F20E3E6AEBBD2E2.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\B\KOST_B89A24260EB527C02F20E3E6AEBBD2E2.pdf	
 Input	C:\ValidatorenTest\Testset\1b\B\KOST_B8AB6DA6F5140CCF2497CF0C7A0A93BB.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\B\KOST_B8AB6DA6F5140CCF2497CF0C7A0A93BB.pdf	
 Input	C:\ValidatorenTest\Testset\1b\B\KOST_B8BD47BBC47D2863DB3C88F908F747A4.pdf	
@@ -6973,7 +6866,6 @@ Input	C:\ValidatorenTest\Testset\1b\B\KOST_BA0A06CC8E0795004F7AD2C283228617.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\B\KOST_BA0A06CC8E0795004F7AD2C283228617.pdf	
 Input	C:\ValidatorenTest\Testset\1b\B\KOST_BA0A506A8DDB0330056FE98D86475349.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\B\KOST_BA0A506A8DDB0330056FE98D86475349.pdf	
 Input	C:\ValidatorenTest\Testset\1b\B\KOST_BAD5F4A72ACE2DA852124D4C2CDE66B9.pdf	
@@ -7262,7 +7154,6 @@ Errors	1	Last Modification Date mismatch between Document Info and XMP Metadata
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_C1762B87FAD2F4C55B6DF42F4815C8B2.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_C19E50C4EBB5933656EB4B4047CD583B.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_C19E50C4EBB5933656EB4B4047CD583B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_C1C6289B5B20EE8EAB71832FC7B784A2.pdf	
@@ -7378,7 +7269,6 @@ Input	C:\ValidatorenTest\Testset\1b\C\KOST_C8811AEEC0F44BA6A1582DBED079208D.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_C8811AEEC0F44BA6A1582DBED079208D.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_C8ABB8C205B395A00C27DAE0B70EEDF6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_C8ABB8C205B395A00C27DAE0B70EEDF6.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_C8D733D8EE8889FD0948449A412CB617.pdf	
@@ -7409,7 +7299,6 @@ Input	C:\ValidatorenTest\Testset\1b\C\KOST_C9DECB3150665A9DBB2925165F7D3918.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_C9DECB3150665A9DBB2925165F7D3918.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_CA00D0D4A744E68EA4D2D8BB4E985091.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_CA00D0D4A744E68EA4D2D8BB4E985091.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_CA0CC791B92BF64D62040F5BB82E7C43.pdf	
@@ -7442,7 +7331,6 @@ Input	C:\ValidatorenTest\Testset\1b\C\KOST_CB79636C2E6AFFB516FB5F2DAAD9F0C9.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_CB79636C2E6AFFB516FB5F2DAAD9F0C9.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_CB9B80C2D278EE1FF76BE5FD5E527E61.pdf	
-Pages	2	
 Errors	1	Layers used
 Errors	106	Device process color used but no PDF/A OutputIntent
 Errors	6	Device process color used in alt. color space but no PDF/A OutputIntent
@@ -7531,7 +7419,6 @@ Input	C:\ValidatorenTest\Testset\1b\C\KOST_CED466EF95334D5E9D01E9FEE6D8FF6B.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_CED466EF95334D5E9D01E9FEE6D8FF6B.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_CF271EB79EBCAADE6C2A18E7B0848958.pdf	
-Pages	2	
 Errors	2	Annotation has no Flags entry
 Errors	2	Annotation not set to print
 Summary	Errors	4
@@ -7543,7 +7430,6 @@ Input	C:\ValidatorenTest\Testset\1b\C\KOST_CF88E2FCEF17D6F9A3341D0379720FB4.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_CF88E2FCEF17D6F9A3341D0379720FB4.pdf	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_CF8D4051249B5C9FF0E5A9CF43766E36.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	168	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	169
@@ -7775,7 +7661,6 @@ Input	C:\ValidatorenTest\Testset\1b\D\KOST_D09B509747E75680E7A519E807469DEC.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D09B509747E75680E7A519E807469DEC.pdf	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D0CF77561B5922DBD42015B75DFFCC6A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D0CF77561B5922DBD42015B75DFFCC6A.pdf	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D0D9CD91D9CD6D80F2C0697226B8E983.pdf	
@@ -7920,7 +7805,6 @@ Input	C:\ValidatorenTest\Testset\1b\D\KOST_D6D944C0BFE7BB3FE12CE6B647960BBC.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D6D944C0BFE7BB3FE12CE6B647960BBC.pdf	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D7345A72D30A33AF244710D6D4D2D396.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D7345A72D30A33AF244710D6D4D2D396.pdf	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D748DBB492CF4553C44EDCE5F00C6B88.pdf	
@@ -7971,7 +7855,6 @@ Input	C:\ValidatorenTest\Testset\1b\D\KOST_D864A628E2D9DEC728649ACCF0A603E4.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D864A628E2D9DEC728649ACCF0A603E4.pdf	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D8F387AB29B93FE7FE2FC0C4EFD1AC28.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D8F387AB29B93FE7FE2FC0C4EFD1AC28.pdf	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D90EE9132F1365DEA45D160E7355E28B.pdf	
@@ -8253,7 +8136,6 @@ Errors	125	Device process color used but no PDF/A OutputIntent
 Summary	Errors	125
 Finished	C:\ValidatorenTest\Testset\1b\D\Yvonne_D00DE6EA7198A7C58C0CA5C77DF257CB.pdf	
 Input	C:\ValidatorenTest\Testset\1b\D\Yvonne_D23B3C7949A6AD4E650BB83E7A666E5C.pdf	
-Pages	2	
 Errors	2	Device process color used but no PDF/A OutputIntent
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1b\D\Yvonne_D23B3C7949A6AD4E650BB83E7A666E5C.pdf	
@@ -8327,7 +8209,6 @@ Input	C:\ValidatorenTest\Testset\1b\E\KOST_E1990F53CB46BA46CE1C2A98069C0D64.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E1990F53CB46BA46CE1C2A98069C0D64.pdf	
 Input	C:\ValidatorenTest\Testset\1b\E\KOST_E1A2BB31BBB9F13B3B6BAABF1F4CBE01.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E1A2BB31BBB9F13B3B6BAABF1F4CBE01.pdf	
 Input	C:\ValidatorenTest\Testset\1b\E\KOST_E1AF3F43ED18E622C107B6AC3FCC08DA.pdf	
@@ -8421,7 +8302,6 @@ Errors	1	Device process color used but no PDF/A OutputIntent
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E65D78B920E098662963BDE5240DBA3F.pdf	
 Input	C:\ValidatorenTest\Testset\1b\E\KOST_E696FB7AF34CA2F2F9D36A6F2E01BC59.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E696FB7AF34CA2F2F9D36A6F2E01BC59.pdf	
 Input	C:\ValidatorenTest\Testset\1b\E\KOST_E6BBF1133634FC34518514A84DB3FE3A.pdf	
@@ -8440,7 +8320,6 @@ Input	C:\ValidatorenTest\Testset\1b\E\KOST_E7DF8CF79B9BB9DE807BBAC0014C518C.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E7DF8CF79B9BB9DE807BBAC0014C518C.pdf	
 Input	C:\ValidatorenTest\Testset\1b\E\KOST_E7F0440B309D977FE4A5F0900FFBCCEF.pdf	
-Pages	2	
 Errors	1	Syntax problem: Stream dictionary improperly formatted
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E7F0440B309D977FE4A5F0900FFBCCEF.pdf	
@@ -8448,7 +8327,6 @@ Input	C:\ValidatorenTest\Testset\1b\E\KOST_E83715E822D366B4EE95344DA6DDFBCD.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E83715E822D366B4EE95344DA6DDFBCD.pdf	
 Input	C:\ValidatorenTest\Testset\1b\E\KOST_E878C5177B94682C58195014AD5C3CCD.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\KOST_E878C5177B94682C58195014AD5C3CCD.pdf	
 Input	C:\ValidatorenTest\Testset\1b\E\KOST_E8BA79775360E88C40419C9AC6CB5585.pdf	
@@ -8775,7 +8653,6 @@ Input	C:\ValidatorenTest\Testset\1b\F\KOST_F31A28B6CCCCF1D9458971038A409DC9.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F31A28B6CCCCF1D9458971038A409DC9.pdf	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_F323F64B3AFDAAFE139520BF9002DFC4.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F323F64B3AFDAAFE139520BF9002DFC4.pdf	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_F33C0F661684C5DFDFE901569203EA1B.pdf	
@@ -8805,7 +8682,6 @@ Input	C:\ValidatorenTest\Testset\1b\F\KOST_F4EF8659097F0559D886718E8C608C45.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F4EF8659097F0559D886718E8C608C45.pdf	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_F5130A1CF95B5973EE5F844794CA0749.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	168	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	169
@@ -8867,7 +8743,6 @@ Input	C:\ValidatorenTest\Testset\1b\F\KOST_F7D4CC14E53746F8BAB30BCFD840EB79.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F7D4CC14E53746F8BAB30BCFD840EB79.pdf	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_F805CC97EEBC47AE6409004763EBFEEA.pdf	
-Pages	2	
 Errors	1	Syntax problem: Stream dictionary improperly formatted
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F805CC97EEBC47AE6409004763EBFEEA.pdf	
@@ -8910,7 +8785,6 @@ Input	C:\ValidatorenTest\Testset\1b\F\KOST_F9B92B6A56BE9166A9999F5D76CCB233.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F9B92B6A56BE9166A9999F5D76CCB233.pdf	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_F9E072A0E9C3A9A45ECBA392B0BA6E02.pdf	
-Pages	2	
 Errors	1	PDF/A entry missing
 Errors	20	CIDSystemInfo and CMap dict not compatible
 Summary	Errors	21
@@ -9301,7 +9175,6 @@ Input	C:\ValidatorenTest\Testset\2a\KOST_00A1E7F1E753D2E06FBE1E0759152365.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_00A1E7F1E753D2E06FBE1E0759152365.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_06CE9588042B7A30CA3439B610598775.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_06CE9588042B7A30CA3439B610598775.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_0E6950D5085F63F3BF2AAB92CF87502D.pdf	
@@ -9312,7 +9185,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_1239B3E56FE344B88D4F06079F664D5E.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_16A25A7E992F3977929A7A21301FF0E6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_16A25A7E992F3977929A7A21301FF0E6.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_21FDDDA42C9AE0FDD32C0D1D8F4B0FAD.pdf	
@@ -9377,11 +9249,9 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_7A3ABCA1F6DC15B14CB092BB25DB4846.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_7AB3DF8668BDFE3DC6E9DCA7E5913B63.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_7AB3DF8668BDFE3DC6E9DCA7E5913B63.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_7C1BBD45D11A138A468C2055CCE34698.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_7C1BBD45D11A138A468C2055CCE34698.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_7C6B131C2BDAB7539BAD3EE6D6BBB900.pdf	
@@ -9389,18 +9259,15 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_7C6B131C2BDAB7539BAD3EE6D6BBB900.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_81524861D42771D87F6B4C404F091981.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_81524861D42771D87F6B4C404F091981.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_8A26FE59AD781EFCB7CB54E604F36AAD.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_8A26FE59AD781EFCB7CB54E604F36AAD.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_8C23EC57D1078484C0059461A9902C62.pdf	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_8C23EC57D1078484C0059461A9902C62.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_93814F6A8EE8F24DE5DC80D35A461D69.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_93814F6A8EE8F24DE5DC80D35A461D69.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_984C8A54D4E8C1D7A2256D2BE56E359A.pdf	
@@ -9422,7 +9289,6 @@ Input	C:\ValidatorenTest\Testset\2a\KOST_A8BC42FF07FBF889DC7CF150DE9F6294.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_A8BC42FF07FBF889DC7CF150DE9F6294.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_A9046DC0F647F0E713834D372E28BCFA.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2a\KOST_A9046DC0F647F0E713834D372E28BCFA.pdf	
 Input	C:\ValidatorenTest\Testset\2a\KOST_AD2483D517ABD3CB4EA44110C1E7671E.pdf	
@@ -9489,7 +9355,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_041617EDE79EA98785F61E6EAE7AFB57.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_041617EDE79EA98785F61E6EAE7AFB57.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_043F9384B9BD298DFB57257F65A5FB41.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_043F9384B9BD298DFB57257F65A5FB41.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_059E95DF3CC1DD20151E7DA887E6338D.pdf	
@@ -9605,7 +9470,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_1849306644A6D30F2C31BA4E9F8B703B.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_1849306644A6D30F2C31BA4E9F8B703B.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_19718E4577B53C6CBA9A2068B8FF9D1A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_19718E4577B53C6CBA9A2068B8FF9D1A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_19A94AF2495E8E8663E32E280A21712D.pdf	
@@ -9620,7 +9484,6 @@ Pages	33
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_1A92DC000A9B7FBAC2EF840AA439A5E3.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_1A96986009B338CEF89C84E71284B0B5.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_1A96986009B338CEF89C84E71284B0B5.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_1AEBF824AFCB5FEE1EF2776D0522392D.pdf	
@@ -9639,7 +9502,6 @@ Pages	11
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_1DD303BF6559FB13BE6B97E554558FE3.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_1E23AE45CE837CF7259F026A312B6E4D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_1E23AE45CE837CF7259F026A312B6E4D.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_1F625FB6154A7E7AFEEFC0E2BCCD530B.pdf	
@@ -9698,14 +9560,12 @@ Pages	6
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_25135D419E8FD19FB2E7CE5ED514350B.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_252BBA42D204B1C309ECD1D8AAAC2313.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_252BBA42D204B1C309ECD1D8AAAC2313.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_252E439FA87254649ADA56CB85384CC0.pdf	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_252E439FA87254649ADA56CB85384CC0.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_259430C7520A4C4285AF6BFB28CCB1A6.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_259430C7520A4C4285AF6BFB28CCB1A6.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_25C4D6B53D07F2205304DAD50CA85ED5.pdf	
@@ -9723,7 +9583,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_26BAC5AA442D94DA65F8E918A2ED4664.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_26BAC5AA442D94DA65F8E918A2ED4664.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_270A3A828AE959F097C1F22E0110691C.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_270A3A828AE959F097C1F22E0110691C.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_274D83B45022A1DDB7B1EE05C43EEBEF.pdf	
@@ -9760,11 +9619,9 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_2A3A78136954BC5476A8D8853C92DC39.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2A3A78136954BC5476A8D8853C92DC39.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_2A7E3F3D94406D77688A0C152FE5B9D5.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2A7E3F3D94406D77688A0C152FE5B9D5.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_2A9F0ED472A5EAE3B316B50403439B6F.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2A9F0ED472A5EAE3B316B50403439B6F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_2AC469BBAB6CC955D940859ACFAA36A1.pdf	
@@ -9775,7 +9632,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_2AC869D9674F59FFB177526F47F26F52.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2AC869D9674F59FFB177526F47F26F52.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_2BFACC8951093562A0C3C47E6EBA1259.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2BFACC8951093562A0C3C47E6EBA1259.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_2D4803FAC93751BC3BDDEBA3AF6CB598.pdf	
@@ -9785,14 +9641,12 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_2F101B94ED407118811CFE4950B05266.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2F101B94ED407118811CFE4950B05266.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_2F6303BB3B58FBEB7A015F30DE2E88E0.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2F6303BB3B58FBEB7A015F30DE2E88E0.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_2FE74BF85C97DDD0039713BD8ACDC9E5.pdf	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_2FE74BF85C97DDD0039713BD8ACDC9E5.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_30484AA1AF25E0316ACE8451C4225FB9.pdf	
-Pages	2	
 Errors	1	Device process color used but no PDF/A OutputIntent
 Errors	1	Signature reference dictionary has DigestLocation entry and permissions dictionary has DocMDP entry
 Errors	1	Signature reference dictionary has DigestValue entry and permissions dictionary has DocMDP entry
@@ -9804,7 +9658,6 @@ Pages	57
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_305F5212715A2E6BC34ED6E71F4A98F2.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_30AEB1B5C628538F42A9F2311909D3C7.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_30AEB1B5C628538F42A9F2311909D3C7.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_3154B2E4D8B28F0BEE6823FF09539734.pdf	
@@ -9817,7 +9670,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_31E6A6F7A0833864B3A9EF44DE1122A3.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_31E6A6F7A0833864B3A9EF44DE1122A3.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_329AF4D772D1DD6391D3C40C17731CF4.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_329AF4D772D1DD6391D3C40C17731CF4.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_32B850A976E177409B082B071629A1DB.pdf	
@@ -9838,7 +9690,6 @@ Pages	12
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_361A2F7BCE294008DD3E3DCC5BAC5E3A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_3689DF6021AFABA7D0618AD334397352.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_3689DF6021AFABA7D0618AD334397352.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_377FAC7C12EFC7903F3E00024597587A.pdf	
@@ -9853,7 +9704,6 @@ Pages	4
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_37FC32474E2B9C88D24CF5804626E6D4.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_387FDAFA7C4B7558C208348FBCEF8D53.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_387FDAFA7C4B7558C208348FBCEF8D53.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_3885CAA73A89D1626CE9832C33A7AF13.pdf	
@@ -9868,7 +9718,6 @@ Pages	63
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_398C0432C18AA473AC5C3666488CC293.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_39B65F5D5DF77C18555D73BF60AEF844.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_39B65F5D5DF77C18555D73BF60AEF844.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_39B991783713B7248D3CAC7C0E5A3903.pdf	
@@ -9876,7 +9725,6 @@ Pages	6
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_39B991783713B7248D3CAC7C0E5A3903.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_39C41C4383B7B4560C3311A518D0912D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_39C41C4383B7B4560C3311A518D0912D.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_39CF574434F5B98F4D215995371DE2D5.pdf	
@@ -9889,7 +9737,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_3A6677280E6034AAFC6D6F9E4D789F6F.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_3A6677280E6034AAFC6D6F9E4D789F6F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_3B408547D6A4BBA77D918A6015D3A4C5.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_3B408547D6A4BBA77D918A6015D3A4C5.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_3B8F5B1C8E62822106FDD2C6B173FD6B.pdf	
@@ -9911,7 +9758,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_3ED8C32442FB17219D210B81C466728F.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_3ED8C32442FB17219D210B81C466728F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_3FA0757F2C619A18E673D047B4E29CBA.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_3FA0757F2C619A18E673D047B4E29CBA.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_4178B774B85898339F9E1A1FF3DA51C4.pdf	
@@ -9951,11 +9797,9 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_48009D323F69698351D76428639E1131.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_489219EDB6FE20C59C47C326B2919E37.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_489219EDB6FE20C59C47C326B2919E37.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_49476ADF0745FD25E3FD3052E1D36D2A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_49476ADF0745FD25E3FD3052E1D36D2A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_499A7B062CFB31E8ACBDC35057D230C5.pdf	
@@ -9980,7 +9824,6 @@ Pages	540
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_4B3EB0CEA591FC2FAE0FF4AB0D951F5B.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_4B48BA109760CDC59894DA477AC2ADEC.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_4B48BA109760CDC59894DA477AC2ADEC.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_4B54167EB1184FC5FA2640C225870F0B.pdf	
@@ -10026,15 +9869,12 @@ Pages	71
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_536074033C18D30EA80F2FAB4037F0B8.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_5392579C48A5DD6D5F39EC86246DC946.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_5392579C48A5DD6D5F39EC86246DC946.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_53BCE4C4B0AC83E7A1115B44B9BA04DE.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_53BCE4C4B0AC83E7A1115B44B9BA04DE.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_54104AFA2DAB68567B3345AAE3F0F97A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_54104AFA2DAB68567B3345AAE3F0F97A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_545BC1A0048A97A451C61897AD229B7F.pdf	
@@ -10064,7 +9904,6 @@ Errors	1	Image is not valid
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\2b\KOST_570CBA2B6A7EDCFB2801E74E169D0C03.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_574138B18015671D3B3463CDF816EECB.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_574138B18015671D3B3463CDF816EECB.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_57669E93C7D433E1D5C558DD436B9DBC.pdf	
@@ -10076,7 +9915,6 @@ Pages	54
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_57E995DFE22ADF4BEB9C6E0173F1F83C.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_58A2147BBAF2A5AFC5F9063B14CAB4C3.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_58A2147BBAF2A5AFC5F9063B14CAB4C3.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_59D8DC7952C834ABEBB4BF76E90869A8.pdf	
@@ -10088,7 +9926,6 @@ Pages	5
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_5B8B5FFF90B60EC12E5FD2E83132FF02.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_5C9FBF8EC4FA54D477A84F0D3D9E0AB0.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_5C9FBF8EC4FA54D477A84F0D3D9E0AB0.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_5CD3D085777A8B981A269099BA2DDB0A.pdf	
@@ -10121,7 +9958,6 @@ Pages	5
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_5F8A02935322121CCC4203A8B6992E5F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_604BC067493FC02DC77321220F95CE01.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_604BC067493FC02DC77321220F95CE01.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_60788E94D78B13B23432B28CBCAE194F.pdf	
@@ -10224,11 +10060,9 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_6F423059C20E26CE2860E728D09ACCE7.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_6F423059C20E26CE2860E728D09ACCE7.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_6F8EA9117FFE08005C8F3AC84F8F4A8D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_6F8EA9117FFE08005C8F3AC84F8F4A8D.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_6FB91AEEE3D99753C16D4189530C434D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_6FB91AEEE3D99753C16D4189530C434D.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_6FE866167F620B862E0D7E0C4F45A7E0.pdf	
@@ -10280,11 +10114,9 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_77548B061793E1FE92183045B8B2990F.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_77548B061793E1FE92183045B8B2990F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_779CCFD4BE23A5BBC8F88983B9C54097.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_779CCFD4BE23A5BBC8F88983B9C54097.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_795A2A8988D5E8F273BBC04C47CE2991.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_795A2A8988D5E8F273BBC04C47CE2991.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_7996650EFE6DCC5FC752BFDC3FCA907C.pdf	
@@ -10336,7 +10168,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_82DAE0B7EA3E050EBA3A235ED30FCEEA.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_82DAE0B7EA3E050EBA3A235ED30FCEEA.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_83003EDD84C9C0EF0F7B0CF4AC1898FF.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_83003EDD84C9C0EF0F7B0CF4AC1898FF.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_835757C97791196BE3C4FABFE01755CD.pdf	
@@ -10370,7 +10201,6 @@ Pages	10
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_887CE4DF809264E3451C1F715E620CF4.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_887D79649223A66CB730BEC549D4BC0D.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_887D79649223A66CB730BEC549D4BC0D.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_888857827722FA8957352DBBE4755BB2.pdf	
@@ -10407,7 +10237,6 @@ Pages	6
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_89DA9DBD78F331C351DB990AAB175FA7.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_8A8F723CBB1CE05677928A838B49591E.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_8A8F723CBB1CE05677928A838B49591E.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_8BDF0A6584E8FD3F5CACBA9D131BF4D8.pdf	
@@ -10421,7 +10250,6 @@ Pages	18
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_8CA5B271C3B391A9DE826AADCE7BCBE4.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_8D2EFDC1717BC2409F92BDE5299D9CE3.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_8D2EFDC1717BC2409F92BDE5299D9CE3.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_8F2014DBE2394C73EF573B2A0D7FC707.pdf	
@@ -10431,7 +10259,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_9044DA68277A494E42B636AEC3DBBF9A.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_9044DA68277A494E42B636AEC3DBBF9A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_9216A1DDF13C89A2EB55B3BCE98FC40A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_9216A1DDF13C89A2EB55B3BCE98FC40A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_92B0E2129B920A675CF77C999E708285.pdf	
@@ -10444,7 +10271,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_935F9FCF6497D6FC77B1379423BD6073.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_935F9FCF6497D6FC77B1379423BD6073.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_93D3C7FCDB11EDB5FAFD55CD2D830DE7.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_93D3C7FCDB11EDB5FAFD55CD2D830DE7.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_952D404399BC9A78E213AB2D492F9FBA.pdf	
@@ -10455,7 +10281,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_959F817CF6FB0B2375AB7181D5B94D0A.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_959F817CF6FB0B2375AB7181D5B94D0A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_962CDD2B2017C69E030EC8CCBB8E8BD7.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_962CDD2B2017C69E030EC8CCBB8E8BD7.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_967974DF43C3F3B2517025752E76888D.pdf	
@@ -10517,7 +10342,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_9F9A621DF3DFC1701102A70683F00426.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_9F9A621DF3DFC1701102A70683F00426.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_9FEC42A564A9C9EBFACB5292523205E5.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_9FEC42A564A9C9EBFACB5292523205E5.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_A07BCD184BA69B2D3FE66228A1FEB5B3.pdf	
@@ -10568,7 +10392,6 @@ Pages	14
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_A5520CF3A6C36324422511247E9D907E.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_A59BDBB56B21BA2CA40E6CE86339FA95.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_A59BDBB56B21BA2CA40E6CE86339FA95.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_A5AEDD2D59D9793851E178132FCE18C0.pdf	
@@ -10632,7 +10455,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_AE7BA7E9F7C2AF176F5415F62C88AA6C.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_AE7BA7E9F7C2AF176F5415F62C88AA6C.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B0B96D94F4DC6D6A2114F96BF6C22EF7.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B0B96D94F4DC6D6A2114F96BF6C22EF7.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B0D57D4380FFFF3D7085914C89FCC424.pdf	
@@ -10641,15 +10463,12 @@ Errors	745	Device process color used but no PDF/A OutputIntent
 Summary	Errors	745
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B0D57D4380FFFF3D7085914C89FCC424.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B0F43A2593038FC6684C6198EE57C25A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B0F43A2593038FC6684C6198EE57C25A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B265F5B410C5CCD2ABFD5381EF06E743.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B265F5B410C5CCD2ABFD5381EF06E743.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B2BF479F569A0CE2900893545D667E14.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B2BF479F569A0CE2900893545D667E14.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B2D27421FE33A73950F2405D2D2D1658.pdf	
@@ -10705,7 +10524,6 @@ Pages	103
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B97F68C1E44724454CEF0C14B770B224.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B9BD0993F91D614DC291465D937A140B.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B9BD0993F91D614DC291465D937A140B.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_BC305B51A08C782AA7EAAF6822B23C98.pdf	
@@ -10795,7 +10613,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_C92DFEC6721A4F910544F1F4A13CD3CD.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_C92DFEC6721A4F910544F1F4A13CD3CD.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_CAEEAE327139A748BDDB01C0500D52B0.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_CAEEAE327139A748BDDB01C0500D52B0.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_CB17776C165D3FFD464422160072D41A.pdf	
@@ -10812,7 +10629,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_CD0DBAA57E2D21A9AB45CF9531ED3AFC.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_CD0DBAA57E2D21A9AB45CF9531ED3AFC.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_CD60188625AFD33EFA54609FE45D2E34.pdf	
-Pages	2	
 Errors	1	Implementation limit: Height of ArtBox below 3 units
 Errors	1	Implementation limit: Width of ArtBox below 3 units
 Summary	Errors	2
@@ -10885,14 +10701,12 @@ Pages	9
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_D636A878F0B489475A1E23B7B7B553B5.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_D7E40708D3B8D16D9B8264E2ED63B68F.pdf	
-Pages	2	
 Errors	1	Signature reference dictionary has DigestLocation entry and permissions dictionary has DocMDP entry
 Errors	1	Signature reference dictionary has DigestValue entry and permissions dictionary has DocMDP entry
 Errors	1	Signature reference dictionary has DigestMethod entry and permissions dictionary has DocMDP entry
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\2b\KOST_D7E40708D3B8D16D9B8264E2ED63B68F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_D84267F03539BC51F7A6D6EA23823EEC.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_D84267F03539BC51F7A6D6EA23823EEC.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_D844279912B93F983C7823E86AF97961.pdf	
@@ -10908,7 +10722,6 @@ Pages	6
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_D9160A3D806F996CA555492EE01FE021.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_D93364302D493C7D8BBC9463D8F484B4.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_D93364302D493C7D8BBC9463D8F484B4.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_D97C2406A2EFBD124B581EE4858D0A30.pdf	
@@ -10932,7 +10745,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_DBA5F99CEF1C0D62E1C55F030761549F.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_DBA5F99CEF1C0D62E1C55F030761549F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_DC36110BF66A4F10AA65A9E93E205E59.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_DC36110BF66A4F10AA65A9E93E205E59.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_DC9D902F6978266250D24A27EFAF2A8B.pdf	
@@ -10984,7 +10796,6 @@ Pages	3
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_E5B9086D46D5176EFD99CBE88B73BDE4.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_E6EF8A39BCF312A28FBD56EEAFD2B7AF.pdf	
-Pages	2	
 Errors	1	Signature reference dictionary has DigestLocation entry and permissions dictionary has DocMDP entry
 Errors	1	Signature reference dictionary has DigestValue entry and permissions dictionary has DocMDP entry
 Errors	1	Signature reference dictionary has DigestMethod entry and permissions dictionary has DocMDP entry
@@ -10996,7 +10807,6 @@ Pages	12
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_E7171B3707117C7FB0246A729136C86E.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_E734D18818E796127F01838ED0494AFD.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_E734D18818E796127F01838ED0494AFD.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_E77C80C25EEDA130D5358528B1F82A25.pdf	
@@ -11050,7 +10860,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_EF1803EE13EFF7BC5100BB824A125158.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_EF1803EE13EFF7BC5100BB824A125158.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_EF37BF6C489369D627AD298F4CEADF01.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_EF37BF6C489369D627AD298F4CEADF01.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_F0392D352C12F0063F81DB38E70244CE.pdf	
@@ -11116,7 +10925,6 @@ Pages	44
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FAAF3D530A610ACCF7F2BF7EB5F516CD.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FAB01D265FB054698A91DFF47DE7EBB0.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FAB01D265FB054698A91DFF47DE7EBB0.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FADA5C691CAEE1F1AEBB2FF6E766A7BD.pdf	
@@ -11137,7 +10945,6 @@ Pages	140
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FD5A96B7A6EECD831010E3CEE2724CB3.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FEB567C17DD3C2AE7DC24F61A1BF3AEF.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FEB567C17DD3C2AE7DC24F61A1BF3AEF.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FEBA17E8122DE7026B39716FD3782D3C.pdf	
@@ -11145,7 +10952,6 @@ Pages	4
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FEBA17E8122DE7026B39716FD3782D3C.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FECE87823699E253B7F777D650FB8C51.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FECE87823699E253B7F777D650FB8C51.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FEDE0D35D2FBCBC88FB934867D476878.pdf	
@@ -11159,7 +10965,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_FF58E67EB93721829199F51274FCAA7F.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FF58E67EB93721829199F51274FCAA7F.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FF6013D8035082226AE4BFC0D46F3D6A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_FF6013D8035082226AE4BFC0D46F3D6A.pdf	
 Input	C:\ValidatorenTest\Testset\2b\KOST_FFC14147992CDCBB14CC715433F085A5.pdf	
@@ -11171,7 +10976,6 @@ Errors	2	Device process color used but no PDF/A OutputIntent
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\2b\Yvonne_4F2510E96D93DC9E51E36C53B73EF49D.pdf	
 Input	C:\ValidatorenTest\Testset\2b\Yvonne_6072D938B860279CB30EBB4EAFCAF850.pdf	
-Pages	2	
 Errors	38	Device process color used but no PDF/A OutputIntent
 Summary	Errors	38
 Finished	C:\ValidatorenTest\Testset\2b\Yvonne_6072D938B860279CB30EBB4EAFCAF850.pdf	
@@ -11222,7 +11026,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_0E0551C583CF3D4617B416968CBEFD20.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_0E0551C583CF3D4617B416968CBEFD20.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_12A4F05BC4B931536741945975E24C68.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_12A4F05BC4B931536741945975E24C68.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_144D6EB6D67A98C9CA60CCBA32FADFF5.pdf	
@@ -11332,7 +11135,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_6B23FB2E98EE6A3EEA6244953708F79E.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_6B23FB2E98EE6A3EEA6244953708F79E.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_6E16A8F0719C4D796BC432C59D20F35A.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_6E16A8F0719C4D796BC432C59D20F35A.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_71D92921963B78FCAA7D7223E3A86893.pdf	
@@ -11381,7 +11183,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_910B758FA963F9BFEEA16DC126762BBA.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_910B758FA963F9BFEEA16DC126762BBA.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_9401D456A3ABE7DDD7E292A102F21134.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_9401D456A3ABE7DDD7E292A102F21134.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_9CCE919B2C5FF08A4E8C63D757214FC1.pdf	
@@ -11394,7 +11195,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_A96EC36298F021CCFC38F0056F2909A8.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_A96EC36298F021CCFC38F0056F2909A8.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_ABCBEBF49C7A22828D2F921BA411A5DE.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_ABCBEBF49C7A22828D2F921BA411A5DE.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_B1D034F91B7707BEC73DDA7D2D5D7863.pdf	
@@ -11445,7 +11245,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_D68D5DF8E4FE1155B556B60623742DB7.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_D68D5DF8E4FE1155B556B60623742DB7.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_D71EB633DA6838DD251E9A9141073CE4.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_D71EB633DA6838DD251E9A9141073CE4.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_D74231191BA935510D92BE0A2FFA5684.pdf	
@@ -11474,7 +11273,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_E9B12D8CE061C07DFB533139E4163D07.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_E9B12D8CE061C07DFB533139E4163D07.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_EFC54A3403FE7C2BE62DDE4A749242EA.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_EFC54A3403FE7C2BE62DDE4A749242EA.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_F1013741E3F6AB68416ACBF5243E7C49.pdf	
@@ -11484,7 +11282,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_F49B2575EA06318F0E619EAB003BC885.pdf
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_F49B2575EA06318F0E619EAB003BC885.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_F67467CA8DE9E2241F8C62D3AE4E8382.pdf	
-Pages	2	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_F67467CA8DE9E2241F8C62D3AE4E8382.pdf	
 Input	C:\ValidatorenTest\Testset\2u\KOST_F7A9395C27FF1C3B9D6CC4174C6A29D3.pdf	
@@ -11681,7 +11478,6 @@ Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	1840
 Finished	C:\ValidatorenTest\Testset\pdf\KOST_5CA5D19A42747956D1550DDFA23FB228.pdf	
 Input	C:\ValidatorenTest\Testset\pdf\KOST_60D2E3BE77C3A75CCB8FA70DE63A763A.PDF	
-Pages	2	
 Errors	5	Device process color used but no PDF/A OutputIntent
 Errors	1	PDF/A entry missing
 Errors	1	Metadata missing (XMP)
@@ -11759,7 +11555,6 @@ Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	21149
 Finished	C:\ValidatorenTest\Testset\pdf\KOST_83B5CBC61768B3F7B3D6902B14A1C086.pdf	
 Input	C:\ValidatorenTest\Testset\pdf\KOST_94C6B3BFFA57C736A14C54138D5A1EA9.pdf	
-Pages	2	
 Errors	346	Device process color used but no PDF/A OutputIntent
 Errors	1	Interpolate key for image not false
 Errors	291	Font not embedded (and text rendering mode not 3)
@@ -11780,7 +11575,6 @@ Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	6
 Finished	C:\ValidatorenTest\Testset\pdf\KOST_A4F26CAC9345D5BD029D2D44CFCBA82B.pdf	
 Input	C:\ValidatorenTest\Testset\pdf\KOST_AEC27D92A4F4F76EF3D5CEF41DD6CF21.pdf	
-Pages	2	
 Errors	1	PDF contains EF (embedded file) entry
 Errors	28	Device process color used but no PDF/A OutputIntent
 Errors	1	Incorrect annotation type used (not allowed in PDF/A)
