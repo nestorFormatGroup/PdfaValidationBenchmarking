@@ -26,7 +26,6 @@ Errors	1	MarkInfo missing
 Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	198
 Finished	C:\ValidatorenTest\Testset\1a\KOST_0A6BAD30C47023758348EFB56E8667E3.pdf	
-Duration	00:14	
 Input	C:\ValidatorenTest\Testset\1a\KOST_0B6C6ECDD67ED190D810FA8BD4FB3F76.pdf	
 Pages	2	
 Summary	Errors	0
@@ -128,7 +127,6 @@ Errors	35	TrueType font has differences to standard encodings but is not a symbo
 Errors	1	Title mismatch between Document Info and XMP Metadata
 Summary	Errors	38
 Finished	C:\ValidatorenTest\Testset\1a\KOST_25C424D0625A415B2C8CB326B4F0DB26.pdf	
-Duration	00:29	
 Input	C:\ValidatorenTest\Testset\1a\KOST_25FAE19447A55D97D463E45B4F742069.pdf	
 Pages	2	
 Summary	Errors	0
@@ -206,7 +204,6 @@ Errors	1	PDF/A entry missing
 Errors	1	Metadata missing (XMP)
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1a\KOST_3DF2306FD3BEAACFBA5C8EBE8DCC1A3B.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1a\KOST_3E05A50EA369CBAE8C11276C8B4F42A5.pdf	
 Pages	4	
 Summary	Errors	0
@@ -278,7 +275,6 @@ Errors	1	Syntax problem: Indirect object "obj" keyword not followed by an EOL ma
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	227
 Finished	C:\ValidatorenTest\Testset\1a\KOST_4948C4E1AE4D0110DEA44DE8E9C42F26.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1a\KOST_49D2410DCE14DC95486AB2349F96D22C.pdf	
 Pages	1	
 Summary	Errors	0
@@ -346,7 +342,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_5C94C7EB0E0FC5958D58E5CA6386F92D.pdf
 Pages	87	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_5C94C7EB0E0FC5958D58E5CA6386F92D.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1a\KOST_5DD885C438DC5BB1AF7E4AC9B7E8DA64.pdf	
 Pages	746	
 Errors	1	PDF/A entry missing
@@ -354,7 +349,6 @@ Errors	1	Compressed object streams used
 Errors	1	Title mismatch between Document Info and XMP Metadata
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1a\KOST_5DD885C438DC5BB1AF7E4AC9B7E8DA64.pdf	
-Duration	01:22	
 Input	C:\ValidatorenTest\Testset\1a\KOST_5E17587F633047D3EE75C61A58324E6A.pdf	
 Pages	5	
 Summary	Errors	0
@@ -398,7 +392,6 @@ Errors	1	XMP property is predefined but is not used in accordance with the defin
 Errors	192	Transparency used (page is a transparency group)
 Summary	Errors	20066
 Finished	C:\ValidatorenTest\Testset\1a\KOST_6906FB6434D83D3F5E875077C1DFE05A.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1a\KOST_6AA87F80DCF50FEB43ED6A30C4C9A390.pdf	
 Pages	1	
 Summary	Errors	0
@@ -427,7 +420,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_7335BBA6C41237A40C590719A6B6B58E.pdf
 Pages	108	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_7335BBA6C41237A40C590719A6B6B58E.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1a\KOST_75E0DAA7D9A05BC07E5C83ED4B6590A7.pdf	
 Pages	17	
 Summary	Errors	0
@@ -494,7 +486,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_89B0361AE38BFEA749A202576B54C196.pdf
 Pages	316	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_89B0361AE38BFEA749A202576B54C196.pdf	
-Duration	00:16	
 Input	C:\ValidatorenTest\Testset\1a\KOST_8A6FA7FF8E5B5C16AD07353CB810626A.pdf	
 Pages	2	
 Summary	Errors	0
@@ -609,7 +600,6 @@ Input	C:\ValidatorenTest\Testset\1a\KOST_B27E3FEE52C9ECE9F2BE4EDC218C358B.pdf
 Pages	46	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_B27E3FEE52C9ECE9F2BE4EDC218C358B.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1a\KOST_B7ECD3149A273284593512D4562354A7.pdf	
 Pages	17	
 Summary	Errors	0
@@ -718,7 +708,6 @@ Errors	1	Compressed object streams used
 Errors	1	Title mismatch between Document Info and XMP Metadata
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1a\KOST_DEFC18238F13A86D07388B26461B4925.pdf	
-Duration	00:26	
 Input	C:\ValidatorenTest\Testset\1a\KOST_E2169E5BA7C9A45656ACCB5B96B1DB35.pdf	
 Pages	2	
 Summary	Errors	0
@@ -1270,7 +1259,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	XMP property is predefined but is not used in accordance with the definition
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_0143BF3F40EFF1DB2D1847F5A39DF160.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_01B93311F9D5A4ED3ED75E0E45E051D9.pdf	
 Pages	178	
 Errors	24	CharSet incomplete for Type 1 font
@@ -1278,7 +1266,6 @@ Errors	406	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	431
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_01B93311F9D5A4ED3ED75E0E45E051D9.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_01E0E8D94E8BA130F8680663FA669099.pdf	
 Pages	446	
 Errors	58647	CMYK used but PDF/A OutputIntent not CMYK
@@ -1291,7 +1278,6 @@ Errors	1	Compressed object streams used
 Errors	1	CMYK referenced but PDF/A OutputIntent not CMYK
 Summary	Errors	72009
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_01E0E8D94E8BA130F8680663FA669099.pdf	
-Duration	00:39	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_0239B13B360BD04DBB96075F75DE50A4.pdf	
 Pages	35	
 Summary	Errors	0
@@ -1309,7 +1295,6 @@ Errors	878	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	937
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_02C7F6B038D83024639C95A89AB48FE5.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_038EFCDA8CA512A56E4691E1EB1E7F42.pdf	
 Pages	130	
 Errors	74	CharSet incomplete for Type 1 font
@@ -1321,13 +1306,11 @@ Errors	39	CMYK used but PDF/A OutputIntent not CMYK
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	40
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_03964C20F5415A40E471A335DC780DDC.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_03A27E3E3F43FD8F8C038D669C7C1272.pdf	
 Pages	174	
 Errors	7654	CharSet incomplete for Type 1 font
 Summary	Errors	7654
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_03A27E3E3F43FD8F8C038D669C7C1272.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_05C4C15DD9F1E104B7F3161DB6AAE5D0.pdf	
 Pages	260	
 Errors	64	CMYK used but PDF/A OutputIntent not CMYK
@@ -1337,25 +1320,21 @@ Errors	6	JPEG2000 compression used
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	3173
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_05C4C15DD9F1E104B7F3161DB6AAE5D0.pdf	
-Duration	00:27	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_072503E57F85DE214108D6F7B82D74C4.pdf	
 Pages	442	
 Errors	14	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	15
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_072503E57F85DE214108D6F7B82D74C4.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_073266AD623066E24C005D0BC9A3BDD9.pdf	
 Pages	200	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_073266AD623066E24C005D0BC9A3BDD9.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_07366B92E37A8B5873394150E1183E6B.pdf	
 Pages	440	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_07366B92E37A8B5873394150E1183E6B.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_09EF2A7BF4720E4AE1E375971D4A8718.pdf	
 Pages	308	
 Errors	5	CharSet incomplete for Type 1 font
@@ -1363,7 +1342,6 @@ Errors	934	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	940
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_09EF2A7BF4720E4AE1E375971D4A8718.pdf	
-Duration	00:15	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_0A3AB565E985AFAF95FBF9AD0D3B214F.pdf	
 Pages	18	
 Errors	2406	CharSet incomplete for Type 1 font
@@ -1384,7 +1362,6 @@ Errors	67	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	108
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_0B0508FB83E3857CF3D0C17D6ED4AB8F.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_0B207265DBDC05B3E312DC08695967D9.pdf	
 Pages	168	
 Summary	Errors	0
@@ -1396,13 +1373,11 @@ Errors	472	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	476
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_0D639F904652E82C6396344B2C440AA9.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_0F372070C33E68C99B3BF0A7673F262D.pdf	
 Pages	114	
 Errors	33	CharSet incomplete for Type 1 font
 Summary	Errors	33
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_0F372070C33E68C99B3BF0A7673F262D.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\0\TIB_0F483F25CA5699855E60F569E787D42C.pdf	
 Pages	212	
 Errors	1013	CharSet incomplete for Type 1 font
@@ -1412,7 +1387,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	26	Transparency used (page is a transparency group)
 Summary	Errors	1839
 Finished	C:\ValidatorenTest\Testset\1b\0\TIB_0F483F25CA5699855E60F569E787D42C.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\0\ZBW_018C528AAC93720E82D53875173DEE49.pdf	
 Pages	39	
 Summary	Errors	0
@@ -1434,7 +1408,6 @@ Errors	1091	Font not embedded (and text rendering mode not 3)
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1092
 Finished	C:\ValidatorenTest\Testset\1b\0\ZBW_06261982694B989E29F9AC2A7274F6C2.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\0\ZBW_086963A90146A5E7BB72378CE2BB7F7B.pdf	
 Pages	33	
 Summary	Errors	0
@@ -1974,7 +1947,6 @@ Errors	24	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	25
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_110CD7D694F10A3F34CE8CD82052F8BB.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_11E7D589D28DC8D820CAA1FA40CFFF81.pdf	
 Pages	248	
 Errors	33	Font not embedded (and text rendering mode not 3)
@@ -1982,7 +1954,6 @@ Errors	31	JPEG2000 compression used
 Errors	1	Compressed object streams used
 Summary	Errors	65
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_11E7D589D28DC8D820CAA1FA40CFFF81.pdf	
-Duration	00:17	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_1238481CB9FFF15B9DE48A67F3164637.pdf	
 Pages	134	
 Errors	72	CharSet incomplete for Type 1 font
@@ -1999,7 +1970,6 @@ Errors	36	Device process color used but no PDF/A OutputIntent
 Errors	180	Font is not valid
 Summary	Errors	216
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_135EEB4D081FD9FFC98D766B463D013B.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_13669C45F4B87B35E9368BD26653FE62.pdf	
 Pages	206	
 Errors	4	Glyphs missing in embedded font
@@ -2007,7 +1977,6 @@ Errors	802	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	807
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_13669C45F4B87B35E9368BD26653FE62.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_1368B3E4EB561E0F5495AB3D30BA6C93.pdf	
 Pages	168	
 Errors	4965	CharSet incomplete for Type 1 font
@@ -2018,14 +1987,12 @@ Pages	168
 Errors	18	CIDset in subset font is incomplete
 Summary	Errors	18
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_14A28F34A18E9B5C5065EA755C35DEF4.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_14FDD3B9ACE03CF3BDC344F1EE757711.pdf	
 Pages	218	
 Errors	7	Device process color used but no PDF/A OutputIntent
 Errors	2695	CharSet incomplete for Type 1 font
 Summary	Errors	2702
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_14FDD3B9ACE03CF3BDC344F1EE757711.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_15EB183688D88C29A3808CCD0D96D970.pdf	
 Pages	115	
 Errors	30882	Device process color used but no PDF/A OutputIntent
@@ -2033,7 +2000,6 @@ Errors	541	CIDset in subset font missing
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	31424
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_15EB183688D88C29A3808CCD0D96D970.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_16C4D58E4E6D17847BDD5E017E6AAE50.pdf	
 Pages	178	
 Errors	32	CharSet incomplete for Type 1 font
@@ -2041,7 +2007,6 @@ Errors	465	CIDset in subset font is incomplete
 Errors	17	Font is not valid
 Summary	Errors	514
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_16C4D58E4E6D17847BDD5E017E6AAE50.pdf	
-Duration	00:15	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_18E4D027C3E1968612342D015C98B855.pdf	
 Pages	161	
 Errors	11	RGB used but PDF/A OutputIntent not RGB
@@ -2049,7 +2014,6 @@ Errors	5	CIDset in subset font is incomplete
 Errors	1333	Font is not valid
 Summary	Errors	1349
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_18E4D027C3E1968612342D015C98B855.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_1B71395894EED895890354F9FD1827E9.pdf	
 Pages	266	
 Errors	28	CharSet incomplete for Type 1 font
@@ -2057,7 +2021,6 @@ Errors	1	CIDset in subset font is incomplete
 Errors	53	Font is not valid
 Summary	Errors	82
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_1B71395894EED895890354F9FD1827E9.pdf	
-Duration	01:03	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_1B8AC45F74ED0FDC03396747AF91EA29.pdf	
 Pages	33	
 Summary	Errors	0
@@ -2069,7 +2032,6 @@ Errors	88	CIDset in subset font is incomplete
 Errors	65	Font is not valid
 Summary	Errors	155
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_1BD77C17F024CD6EB31C22B7098935C6.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_1C71C2D7EE28480881EC8520B294C32A.pdf	
 Pages	38	
 Errors	1028	Device process color used but no PDF/A OutputIntent
@@ -2089,14 +2051,12 @@ Errors	2248	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	2249
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_1E283FE3132070AFE0D314E86EB5E497.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_1ED93DB5BD004F09A118FD3923A4B108.pdf	
 Pages	334	
 Errors	1246	CharSet incomplete for Type 1 font
 Errors	86	CIDset in subset font is incomplete
 Summary	Errors	1332
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_1ED93DB5BD004F09A118FD3923A4B108.pdf	
-Duration	00:23	
 Input	C:\ValidatorenTest\Testset\1b\1\TIB_1F1263F38B2FB18CEDB04E564F477B74.pdf	
 Pages	20	
 Summary	Errors	0
@@ -2107,7 +2067,6 @@ Errors	454	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	455
 Finished	C:\ValidatorenTest\Testset\1b\1\TIB_1FB88B4D30379DBC41B18FBBA93AE8E0.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\1\Yvonne_16483CFFF1CC017C35A4329D3DE3B41F.pdf	
 Pages	2	
 Summary	Errors	0
@@ -2411,7 +2370,6 @@ Errors	1079	CIDset in subset font missing
 Errors	1	PDF/A entry missing
 Summary	Errors	1081
 Finished	C:\ValidatorenTest\Testset\1b\2\KOST_28A10A7D72993FE49FDEC0D8E068A5DE.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\2\KOST_294CA9F4B696C3B50885C084BAD1DB12.pdf	
 Pages	1	
 Summary	Errors	0
@@ -2602,7 +2560,6 @@ Pages	334
 Errors	1	CharSet incomplete for Type 1 font
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_204345FB678D8E0CE7CA31801B6F5FD6.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_2050EBF190FB28EE1BFC78E8EA3EE49E.pdf	
 Pages	226	
 Errors	4	Device process color used but no PDF/A OutputIntent
@@ -2619,40 +2576,34 @@ Pages	148
 Errors	23	CharSet incomplete for Type 1 font
 Summary	Errors	23
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2282EF42DED6D9BAEC388E16DD618808.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_25AF9EDB7FC7D6304E233C837F44B628.pdf	
 Pages	72	
 Errors	8	CIDset in subset font is incomplete
 Summary	Errors	8
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_25AF9EDB7FC7D6304E233C837F44B628.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_26711F7256FB81AF57BD6CB9060BF95D.pdf	
 Pages	218	
 Errors	189	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	190
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_26711F7256FB81AF57BD6CB9060BF95D.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_272A07144E4BCBB921C819489B8E7990.pdf	
 Pages	206	
 Errors	1	CIDset in subset font is incomplete
 Errors	3010	Font is not valid
 Summary	Errors	3011
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_272A07144E4BCBB921C819489B8E7990.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_275F42A38C15FF2B0D5E555BD32AD9F0.pdf	
 Pages	126	
 Errors	106	CharSet incomplete for Type 1 font
 Summary	Errors	106
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_275F42A38C15FF2B0D5E555BD32AD9F0.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_2892A2F2EB6793AFF00DA853934B388C.pdf	
 Pages	178	
 Errors	21	CharSet incomplete for Type 1 font
 Errors	410	CIDset in subset font is incomplete
 Summary	Errors	431
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2892A2F2EB6793AFF00DA853934B388C.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_294BD1716F443AD61550AA8C8D1A7CEE.pdf	
 Pages	95	
 Errors	54036	Device process color used but no PDF/A OutputIntent
@@ -2660,7 +2611,6 @@ Errors	440	CIDset in subset font missing
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	54477
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_294BD1716F443AD61550AA8C8D1A7CEE.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_29BE5FF22CBEEA4BE5950655840F241B.pdf	
 Pages	194	
 Errors	63	CMYK used but PDF/A OutputIntent not CMYK
@@ -2671,7 +2621,6 @@ Errors	1	XMP property is predefined but is not used in accordance with the defin
 Errors	5	Transparency used (page is a transparency group)
 Summary	Errors	300
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_29BE5FF22CBEEA4BE5950655840F241B.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_29C8F5D8BF02CD3CA6B85A6CC4731A79.pdf	
 Pages	22	
 Errors	6	CMYK used but PDF/A OutputIntent not CMYK
@@ -2683,14 +2632,12 @@ Input	C:\ValidatorenTest\Testset\1b\2\TIB_2A78832768D433B4B1CB877C9B2A17D3.pdf
 Pages	138	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2A78832768D433B4B1CB877C9B2A17D3.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_2BC39732AACD4661C5F21D24C4939C53.pdf	
 Pages	244	
 Errors	8560	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	8561
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2BC39732AACD4661C5F21D24C4939C53.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_2D4D6E204057E696CA6A7397837F3E66.pdf	
 Pages	60	
 Summary	Errors	0
@@ -2701,13 +2648,11 @@ Errors	9	CharSet incomplete for Type 1 font
 Errors	1	CIDset in subset font is incomplete
 Summary	Errors	10
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2D99F4F34F7772030B1D0F043FF5CE2A.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_2DAD7CE89F2B3D8E2561DAE6B37F3199.pdf	
 Pages	178	
 Errors	736	CIDset in subset font is incomplete
 Summary	Errors	736
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2DAD7CE89F2B3D8E2561DAE6B37F3199.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_2E2E8B6724A2569E48EDAC26FEE96104.pdf	
 Pages	286	
 Errors	7	RGB used but PDF/A OutputIntent not RGB
@@ -2716,14 +2661,12 @@ Errors	6877	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	6902
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2E2E8B6724A2569E48EDAC26FEE96104.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\2\TIB_2EBE63EDFDC3EC23D4A14D621E88EEA6.pdf	
 Pages	166	
 Errors	104	CIDset in subset font is incomplete
 Errors	3	JPEG2000 compression used
 Summary	Errors	107
 Finished	C:\ValidatorenTest\Testset\1b\2\TIB_2EBE63EDFDC3EC23D4A14D621E88EEA6.pdf	
-Duration	00:31	
 Input	C:\ValidatorenTest\Testset\1b\2\Yvonne_269FF46876FB2B60F47AA4B52E2CEC1D.pdf	
 Pages	10	
 Summary	Errors	0
@@ -2872,7 +2815,6 @@ Errors	1	PDF/A entry missing
 Errors	52	Type 2 CID font: CIDToGIDMap invalid or missing
 Summary	Errors	53
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_33EA56F0A9B876E73B4420B4B719AE4A.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_33F8AA60E93AF0C57B02C165E78D8BFE.pdf	
 Pages	3	
 Summary	Errors	0
@@ -3179,7 +3121,6 @@ Pages	39
 Errors	192	CIDset in subset font is incomplete
 Summary	Errors	192
 Finished	C:\ValidatorenTest\Testset\1b\3\KOST_3E621024726062C25460FA875AF2CE21.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\3\KOST_3EA3B31300653127B38F3C3A54CB77C4.pdf	
 Pages	1	
 Summary	Errors	0
@@ -3231,7 +3172,6 @@ Errors	2	Transparency used (transparency group)
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	259
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_3212319FE6BAE5307B498B3674D455AF.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_3305552E76E2D2B71233073938093971.pdf	
 Pages	16	
 Errors	207	CharSet incomplete for Type 1 font
@@ -3241,7 +3181,6 @@ Input	C:\ValidatorenTest\Testset\1b\3\TIB_34B29508F9560BE1270610F772939CD9.pdf
 Pages	242	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_34B29508F9560BE1270610F772939CD9.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_37D6A42958A5E6D05AD2B3D6D85C4B90.pdf	
 Pages	216	
 Errors	46	CharSet incomplete for Type 1 font
@@ -3249,13 +3188,11 @@ Errors	240	CIDset in subset font is incomplete
 Errors	138	Width information for rendered glyphs is inconsistent
 Summary	Errors	424
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_37D6A42958A5E6D05AD2B3D6D85C4B90.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_3848FB4929FBBB8108A55B78609CAA10.pdf	
 Pages	204	
 Errors	55	CIDset in subset font is incomplete
 Summary	Errors	55
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_3848FB4929FBBB8108A55B78609CAA10.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_39298AF736D947A04467B7B5653E289D.pdf	
 Pages	13	
 Summary	Errors	0
@@ -3265,7 +3202,6 @@ Pages	248
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_396091D1C2C6524B84BDBB8921E84F80.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_397634083024A8653BA7494C1DA0C270.pdf	
 Pages	132	
 Errors	21	CharSet incomplete for Type 1 font
@@ -3278,14 +3214,12 @@ Pages	224
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_3B8F41F6864F2637E62A363280795063.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_3B93F81392AA88DB2F08969F31E7DC0D.pdf	
 Pages	190	
 Errors	1010	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1011
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_3B93F81392AA88DB2F08969F31E7DC0D.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_3BCDD6827B73C55DB365EC2FFFF6E4D0.pdf	
 Pages	250	
 Errors	29	Device process color used but no PDF/A OutputIntent
@@ -3298,7 +3232,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	5957
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_3BCDD6827B73C55DB365EC2FFFF6E4D0.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\3\TIB_3E07409FB00D029903F0F641405805F7.pdf	
 Pages	254	
 Errors	13609	CharSet incomplete for Type 1 font
@@ -3308,7 +3241,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	4	Transparency used (page is a transparency group)
 Summary	Errors	14765
 Finished	C:\ValidatorenTest\Testset\1b\3\TIB_3E07409FB00D029903F0F641405805F7.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\3\Yvonne_334619914FF693E8F7973C47AB053632.pdf	
 Pages	130	
 Summary	Errors	0
@@ -3463,7 +3395,6 @@ Input	C:\ValidatorenTest\Testset\1b\4\KOST_43A86FEB209ACEF4A1D66084199B317E.pdf
 Pages	25	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\4\KOST_43A86FEB209ACEF4A1D66084199B317E.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\4\KOST_43D7199363AC56FCECDF9C3A37E704AE.pdf	
 Pages	1	
 Summary	Errors	0
@@ -3717,7 +3648,6 @@ Input	C:\ValidatorenTest\Testset\1b\4\KOST_4D2CA5C91C955AB2F68C9FEAA8AEFD1D.pdf
 Pages	34	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\4\KOST_4D2CA5C91C955AB2F68C9FEAA8AEFD1D.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\4\KOST_4D4D985882A0C0A8F0E1265038A562B8.pdf	
 Pages	1	
 Summary	Errors	0
@@ -3796,59 +3726,50 @@ Errors	22	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	23
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_404C2B86BD4EBA0527C5E7F7C4C14D60.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_40B3F0FE2A778B097FF57390EE37CD8E.pdf	
 Pages	369	
 Errors	20855	CharSet incomplete for Type 1 font
 Errors	481	Font is not valid
 Summary	Errors	21336
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_40B3F0FE2A778B097FF57390EE37CD8E.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_416360363D39D7F0C3F5855E46397923.pdf	
 Pages	268	
 Errors	25	CharSet incomplete for Type 1 font
 Errors	2	CIDset in subset font is incomplete
 Summary	Errors	27
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_416360363D39D7F0C3F5855E46397923.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_4353451D836CC27135403ADF0A8456B0.pdf	
 Pages	320	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_4353451D836CC27135403ADF0A8456B0.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_4409EED4545E1FBDD89FC908BDFF0AF8.pdf	
 Pages	268	
 Errors	20	CharSet incomplete for Type 1 font
 Summary	Errors	20
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_4409EED4545E1FBDD89FC908BDFF0AF8.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_4779CB559EF181388CEC94E02084E43C.pdf	
 Pages	158	
 Errors	231	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	232
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_4779CB559EF181388CEC94E02084E43C.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_48139E448B04988D2D2A971306152F77.pdf	
 Pages	270	
 Errors	22	CharSet incomplete for Type 1 font
 Errors	1598	CIDset in subset font is incomplete
 Summary	Errors	1620
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_48139E448B04988D2D2A971306152F77.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_481C5A2C18C357D942ACB75D7FCF2B20.pdf	
 Pages	540	
 Errors	41	CIDset in subset font is incomplete
 Summary	Errors	41
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_481C5A2C18C357D942ACB75D7FCF2B20.pdf	
-Duration	00:17	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_486B4ABFD9A3B8CF832E37FE5491C0C3.pdf	
 Pages	176	
 Errors	11790	Font is not valid
 Summary	Errors	11790
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_486B4ABFD9A3B8CF832E37FE5491C0C3.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\4\TIB_4B06E3B716D4400538D52E035B5F9ABE.pdf	
 Pages	150	
 Summary	Errors	0
@@ -3872,7 +3793,6 @@ Errors	1	Transparency used (blend mode not "Normal" nor "Compatible")
 Errors	1	Transparency used (page is a transparency group)
 Summary	Errors	2265
 Finished	C:\ValidatorenTest\Testset\1b\4\TIB_4F97DF27D726E6F6B6EB39C0DB319E94.pdf	
-Duration	00:23	
 Input	C:\ValidatorenTest\Testset\1b\4\Yvonne_48A2F8332362E1B382B26F4CE180A19C.pdf	
 Pages	1	
 Errors	1	Device process color used but no PDF/A OutputIntent
@@ -4073,7 +3993,6 @@ Errors	1	Title mismatch between Document Info and XMP Metadata
 Errors	12	Transparency used (page is a transparency group)
 Summary	Errors	20340
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_53D3079CA3E8AAABB1FED46036B59BB2.pdf	
-Duration	00:21	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_540C874742D6D8D2553698AB7257EF1E.pdf	
 Pages	18	
 Errors	202	CIDset in subset font is incomplete
@@ -4230,7 +4149,6 @@ Errors	1	Producer mismatch between Document Info and XMP Metadata
 Errors	1	Last Modification Date mismatch between Document Info and XMP Metadata
 Summary	Errors	2918
 Finished	C:\ValidatorenTest\Testset\1b\5\KOST_57AAD00719EF619EC9E0FA156065DC6F.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\5\KOST_57BEA9CB22837565AE83EBE3FC16038E.pdf	
 Pages	1	
 Summary	Errors	0
@@ -4493,14 +4411,12 @@ Errors	363	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	452
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5083DD3A2ED091AB3EE8F43E6EF7D901.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_508FA2A2296B90C8A0F3772C6F7D7635.pdf	
 Pages	152	
 Errors	529	CharSet incomplete for Type 1 font
 Errors	75	CIDset in subset font is incomplete
 Summary	Errors	604
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_508FA2A2296B90C8A0F3772C6F7D7635.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_50978554E9DE27AD2889F8413D55BF7F.pdf	
 Pages	11	
 Errors	30	Font is not valid
@@ -4516,14 +4432,12 @@ Errors	1	Compressed object streams used
 Errors	1	XMP property is predefined but is not used in accordance with the definition
 Summary	Errors	940
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_50ADF9758D2EE6DC5B7F4A9DADBA5DB2.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5232E2A584C0B665B66F775A1E05925F.pdf	
 Pages	98	
 Errors	5	CharSet incomplete for Type 1 font
 Errors	250	Font is not valid
 Summary	Errors	255
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5232E2A584C0B665B66F775A1E05925F.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5267D4CCAFFBD7D3BF938B8D92CC86FF.pdf	
 Pages	398	
 Errors	478	Font not embedded (and text rendering mode not 3)
@@ -4532,7 +4446,6 @@ Errors	1	Compressed object streams used
 Errors	3	Font is not valid
 Summary	Errors	667
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5267D4CCAFFBD7D3BF938B8D92CC86FF.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_527381CBC034713A074D29F0D1E8E32F.pdf	
 Pages	164	
 Errors	2589	Font not embedded (and text rendering mode not 3)
@@ -4541,7 +4454,6 @@ Errors	109	JPEG2000 compression used
 Errors	1	Compressed object streams used
 Summary	Errors	3180
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_527381CBC034713A074D29F0D1E8E32F.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_52CF42AF4ECC7175EB864BACA154B3D1.pdf	
 Pages	110	
 Errors	208	CMYK used but PDF/A OutputIntent not CMYK
@@ -4551,7 +4463,6 @@ Errors	36958	CIDset in subset font missing
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	37171
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_52CF42AF4ECC7175EB864BACA154B3D1.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_53C4C79D785D08B8DA0868C6C0D07CC3.pdf	
 Pages	66	
 Errors	15	CharSet incomplete for Type 1 font
@@ -4563,7 +4474,6 @@ Errors	1831	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1832
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_55811F8E9EEEC50B0845F9B3E8D72C33.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5604CA2DDE6E0709DD9363B4B05B4DB6.pdf	
 Pages	106	
 Errors	4	CharSet incomplete for Type 1 font
@@ -4592,7 +4502,6 @@ Errors	76	Font not embedded (and text rendering mode not 3)
 Errors	1	Syntax problem: Array with more than 8191 elements
 Summary	Errors	77
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_58CAF37554ADB4A3334C5D67698408DE.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5ABE8572EA0157D260F8C19BF215B793.pdf	
 Pages	234	
 Errors	2474	CharSet incomplete for Type 1 font
@@ -4601,7 +4510,6 @@ Errors	1	Syntax problem: Array with more than 8191 elements
 Errors	2	Width information for rendered glyphs is inconsistent
 Summary	Errors	3159
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5ABE8572EA0157D260F8C19BF215B793.pdf	
-Duration	00:17	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5B46A92151B81981B104BA587CF824A7.pdf	
 Pages	132	
 Errors	1	XMP property not predefined and no extension schema present
@@ -4613,7 +4521,6 @@ Errors	102946	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	102947
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5C1F47BB3E1B79D71ADD03EADC887B67.pdf	
-Duration	00:23	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5E0219A152D0F3499B2F10048E9AEE72.pdf	
 Pages	226	
 Errors	8	Device process color used but no PDF/A OutputIntent
@@ -4622,7 +4529,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	Transparency used (page is a transparency group)
 Summary	Errors	27
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5E0219A152D0F3499B2F10048E9AEE72.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5E2044051DA2E76C1FE28D7BACA4D2C4.pdf	
 Pages	74	
 Errors	4	Glyphs missing in embedded font
@@ -4636,7 +4542,6 @@ Pages	210
 Errors	363	CIDset in subset font is incomplete
 Summary	Errors	363
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5E4015375B40244BCC291C4EE24D350F.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5E9BC84CEE9998E2519836D718D95C8A.pdf	
 Pages	228	
 Errors	31	CharSet incomplete for Type 1 font
@@ -4645,7 +4550,6 @@ Errors	2	Font is not valid
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	378
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5E9BC84CEE9998E2519836D718D95C8A.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5F2F47FE39E18164ACA46FBC94B21132.pdf	
 Pages	184	
 Errors	23361	CharSet incomplete for Type 1 font
@@ -4653,17 +4557,14 @@ Errors	401	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	23763
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5F2F47FE39E18164ACA46FBC94B21132.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\5\TIB_5FDE6A27DD6A64340A4062941DE6FD50.pdf	
 Pages	166	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\TIB_5FDE6A27DD6A64340A4062941DE6FD50.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\5\Yvonne_50B58FF07B82FE4D0CC4B06CDBB80D1D.pdf	
 Pages	88	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\5\Yvonne_50B58FF07B82FE4D0CC4B06CDBB80D1D.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\5\ZBW_522A39F2813B217887500237643DACC4.pdf	
 Pages	32	
 Summary	Errors	0
@@ -4834,7 +4735,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	3	Transparency used (page is a transparency group)
 Summary	Errors	21620
 Finished	C:\ValidatorenTest\Testset\1b\6\KOST_63D4CFBC403AD5E2CB2D1CD8FF7BE33E.pdf	
-Duration	00:14	
 Input	C:\ValidatorenTest\Testset\1b\6\KOST_640890054163BDB21B6E2570B2B02486.pdf	
 Pages	35	
 Errors	535	CIDset in subset font is incomplete
@@ -5159,13 +5059,11 @@ Errors	76	Transparency used (transparency group)
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	78
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_604507E74C163D8EA15324DAFE29DB0B.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_61DBF148632699C8823413AFB94FD0B6.pdf	
 Pages	274	
 Errors	5	CIDset in subset font is incomplete
 Summary	Errors	5
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_61DBF148632699C8823413AFB94FD0B6.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_633C4E49496284DE71628E3490DF9077.pdf	
 Pages	266	
 Errors	1202	CharSet incomplete for Type 1 font
@@ -5173,7 +5071,6 @@ Errors	4129	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	5332
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_633C4E49496284DE71628E3490DF9077.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_63554E79B52375F5BF7786ABE1CC3C20.pdf	
 Pages	302	
 Errors	21	CharSet incomplete for Type 1 font
@@ -5181,7 +5078,6 @@ Errors	1377	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	1399
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_63554E79B52375F5BF7786ABE1CC3C20.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_63AC51081AECE178D9BC7EC60CBCC77C.pdf	
 Pages	216	
 Errors	419	Transparency used (transparency group)
@@ -5189,14 +5085,12 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	8	Transparency used (page is a transparency group)
 Summary	Errors	428
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_63AC51081AECE178D9BC7EC60CBCC77C.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_63AE21C1B61CE851FCED200CF5784D78.pdf	
 Pages	136	
 Errors	34	CharSet incomplete for Type 1 font
 Errors	129	CIDset in subset font is incomplete
 Summary	Errors	163
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_63AE21C1B61CE851FCED200CF5784D78.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_65697FE86B25E1846818A18EDAB0242C.pdf	
 Pages	72	
 Errors	21	CharSet incomplete for Type 1 font
@@ -5204,7 +5098,6 @@ Errors	43	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	65
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_65697FE86B25E1846818A18EDAB0242C.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_65B7A10DAEB033846FD73898C232F852.pdf	
 Pages	218	
 Errors	1	XMP property not predefined and no extension schema present
@@ -5216,13 +5109,11 @@ Errors	16	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	17
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_665D7D9D4F7E1EF6F5D0F875A32EA391.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_66A96013EEDE5B28E25660B8FED299CC.pdf	
 Pages	142	
 Errors	16226	CMYK used but PDF/A OutputIntent not CMYK
 Summary	Errors	16226
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_66A96013EEDE5B28E25660B8FED299CC.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_66E512C4F67DA88397C800804D616516.pdf	
 Pages	94	
 Errors	16	CharSet incomplete for Type 1 font
@@ -5235,13 +5126,11 @@ Pages	192
 Errors	24	CIDset in subset font is incomplete
 Summary	Errors	24
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_679C52408B293B1D3CBB2D99DAC00954.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_6A1026A4B657D55813A94EB6D9FE9765.pdf	
 Pages	218	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_6A1026A4B657D55813A94EB6D9FE9765.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_6A184897FD824DF97A23398B66FD097F.pdf	
 Pages	90	
 Errors	40	CharSet incomplete for Type 1 font
@@ -5255,7 +5144,6 @@ Errors	69302	Device process color used but no PDF/A OutputIntent
 Errors	525	CIDset in subset font missing
 Summary	Errors	69827
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_6A2D67592E618A1320AE9A3ADE744B94.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_6A88D379431641B3C0047EF17DB805E8.pdf	
 Pages	166	
 Errors	21	CharSet incomplete for Type 1 font
@@ -5269,7 +5157,6 @@ Errors	3	CMYK used for alt. color but PDF/A OutputIntent not CMYK
 Errors	150	CIDset in subset font is incomplete
 Summary	Errors	57563
 Finished	C:\ValidatorenTest\Testset\1b\6\TIB_6C25988749F849A79E83D671F77988B6.pdf	
-Duration	00:13	
 Input	C:\ValidatorenTest\Testset\1b\6\TIB_6DCC7D829ECE6A3C38FB3872F37CAC72.pdf	
 Pages	13	
 Summary	Errors	0
@@ -5370,7 +5257,6 @@ Errors	3	Annotation has no Flags entry
 Errors	3	Annotation not set to print
 Summary	Errors	2061
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_71F5448163516B9B5FC942F6267114A8.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\7\KOST_722DA7CADCDA46A9D73EFC92458C0B33.pdf	
 Pages	1	
 Summary	Errors	0
@@ -5427,7 +5313,6 @@ Input	C:\ValidatorenTest\Testset\1b\7\KOST_74A8BD8C76FE7225FB7A8C8E150DB4CB.pdf
 Pages	43	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\KOST_74A8BD8C76FE7225FB7A8C8E150DB4CB.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\7\KOST_7502884D5F25E5775FC5C903C3419A7C.pdf	
 Pages	2	
 Summary	Errors	0
@@ -5719,13 +5604,11 @@ Errors	14	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	6232
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_70F6C94F763A90DA45FF3CAB25F47428.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_718303FDEEA9A57723411BCC8792A703.pdf	
 Pages	188	
 Errors	21	CharSet incomplete for Type 1 font
 Summary	Errors	21
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_718303FDEEA9A57723411BCC8792A703.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_71FC7E7114B469471DE89F3E66C0BBAF.pdf	
 Pages	184	
 Errors	2	Device process color used but no PDF/A OutputIntent
@@ -5734,13 +5617,11 @@ Errors	130	CharSet incomplete for Type 1 font
 Errors	74	CIDset in subset font is incomplete
 Summary	Errors	209
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_71FC7E7114B469471DE89F3E66C0BBAF.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7200CA88A0B52BC0DF98AF766A6ABC7C.pdf	
 Pages	160	
 Errors	3345	CIDset in subset font is incomplete
 Summary	Errors	3345
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7200CA88A0B52BC0DF98AF766A6ABC7C.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_73B0D64BE18C48F14BD2991ECE735167.pdf	
 Pages	234	
 Errors	10	CharSet incomplete for Type 1 font
@@ -5751,7 +5632,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	6	Transparency used (page is a transparency group)
 Summary	Errors	784
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_73B0D64BE18C48F14BD2991ECE735167.pdf	
-Duration	00:23	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_73E4FD1609BB1D7225B06C88AF61CC77.pdf	
 Pages	270	
 Errors	197	Device process color used but no PDF/A OutputIntent
@@ -5760,7 +5640,6 @@ Errors	90	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	369
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_73E4FD1609BB1D7225B06C88AF61CC77.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7428B3145DB5CE27491077F67A32EB71.pdf	
 Pages	96	
 Errors	1391	Font is not valid
@@ -5774,19 +5653,16 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	XMP property is predefined but is not used in accordance with the definition
 Summary	Errors	44
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_74419CD98CC2FEE5A431CDB5B5169611.pdf	
-Duration	00:20	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_74AEA26AA9517D000F8472150FA011DB.pdf	
 Pages	294	
 Errors	97	CharSet incomplete for Type 1 font
 Errors	690	CIDset in subset font is incomplete
 Summary	Errors	787
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_74AEA26AA9517D000F8472150FA011DB.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_77B3A4A826E95B161765E8787ABE782C.pdf	
 Pages	168	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_77B3A4A826E95B161765E8787ABE782C.pdf	
-Duration	00:26	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7846C320CC89D4C58BEBBCB6D2EF9967.pdf	
 Pages	298	
 Errors	2	Transparency used (transparency group)
@@ -5794,7 +5670,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	5
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7846C320CC89D4C58BEBBCB6D2EF9967.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_785CE397BE5F9AAB83C0483E43CEAB4E.pdf	
 Pages	260	
 Errors	8	RGB used but PDF/A OutputIntent not RGB
@@ -5802,12 +5677,10 @@ Errors	1	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	10
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_785CE397BE5F9AAB83C0483E43CEAB4E.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_78985FE134348153FF8E3AD6BB16807E.pdf	
 Pages	426	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_78985FE134348153FF8E3AD6BB16807E.pdf	
-Duration	00:19	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7A2216FF2B230EB7FAFA8E7A5A02F80A.pdf	
 Pages	216	
 Errors	1793	CharSet incomplete for Type 1 font
@@ -5816,7 +5689,6 @@ Errors	1	Compressed object streams used
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1888
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7A2216FF2B230EB7FAFA8E7A5A02F80A.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7BDA8B7AACF97E534AC34FAD507EEF03.pdf	
 Pages	146	
 Errors	44	RGB used but PDF/A OutputIntent not RGB
@@ -5824,7 +5696,6 @@ Errors	1534	CIDset in subset font is incomplete
 Errors	145	Width information for rendered glyphs is inconsistent
 Summary	Errors	1723
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7BDA8B7AACF97E534AC34FAD507EEF03.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7CC37200E0B7DDF31390AED6096DED7B.pdf	
 Pages	264	
 Errors	1	PDF contains EF (embedded file) entry
@@ -5835,27 +5706,23 @@ Errors	1262	CIDset in subset font missing
 Errors	160	JPEG2000 compression used
 Summary	Errors	6207
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7CC37200E0B7DDF31390AED6096DED7B.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7D33F1794CE3BA4E8FB18BD88A0F7287.pdf	
 Pages	159	
 Errors	44737	Device process color used but no PDF/A OutputIntent
 Errors	22541	CharSet incomplete for Type 1 font
 Summary	Errors	67278
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7D33F1794CE3BA4E8FB18BD88A0F7287.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7DB30C32619886BE8E053EB8FAA41C26.pdf	
 Pages	254	
 Errors	11231	Device process color used but no PDF/A OutputIntent
 Errors	1	CIDset in subset font is incomplete
 Summary	Errors	11232
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7DB30C32619886BE8E053EB8FAA41C26.pdf	
-Duration	00:30	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7DCD82E8F6B30B02CDE73FC277311A00.pdf	
 Pages	382	
 Errors	437	CIDset in subset font is incomplete
 Summary	Errors	437
 Finished	C:\ValidatorenTest\Testset\1b\7\TIB_7DCD82E8F6B30B02CDE73FC277311A00.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\7\TIB_7EF46F532981E38A763CEC6B4AE20503.pdf	
 Pages	37	
 Errors	3	Width information for rendered glyphs is inconsistent
@@ -5916,7 +5783,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	3	Transparency used (page is a transparency group)
 Summary	Errors	21666
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_8019FA4411C1503DAE83612E77DE51CB.pdf	
-Duration	00:14	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_802B766F51FD44AB32A883225E5F7C6C.pdf	
 Pages	1	
 Summary	Errors	0
@@ -6372,7 +6238,6 @@ Input	C:\ValidatorenTest\Testset\1b\8\KOST_8F78943C48B659862D2799AF49069962.pdf
 Pages	16	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\KOST_8F78943C48B659862D2799AF49069962.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\8\KOST_8FA7AC4B542F9CE4E15D2A65F92C1B25.pdf	
 Pages	1	
 Summary	Errors	0
@@ -6386,20 +6251,17 @@ Pages	312
 Errors	1110	CharSet incomplete for Type 1 font
 Summary	Errors	1110
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8057BADDB0024D1111361E75E5AF59DA.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_81D585B8E888690EFB7E8451D947F471.pdf	
 Pages	152	
 Errors	1	XMP property not predefined and no extension schema present
 Errors	1	Creation date mismatch between Document Info and XMP Metadata
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_81D585B8E888690EFB7E8451D947F471.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_81D677F29608E4F75577F1650D4276A0.pdf	
 Pages	218	
 Errors	160	Device process color used but no PDF/A OutputIntent
 Summary	Errors	160
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_81D677F29608E4F75577F1650D4276A0.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_81E9800AA11463A42971A28F9AA32C06.pdf	
 Pages	278	
 Errors	45	Missing Color space "Cs6"
@@ -6413,13 +6275,11 @@ Errors	347	Transparency used (transparency group)
 Errors	9	Transparency used (page is a transparency group)
 Summary	Errors	10901
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_81E9800AA11463A42971A28F9AA32C06.pdf	
-Duration	00:13	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_83B40E20B15EBCFDBF52AB8E05BB28E5.pdf	
 Pages	278	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_83B40E20B15EBCFDBF52AB8E05BB28E5.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_8524D8A59D627AC928190777DF18D13A.pdf	
 Pages	182	
 Errors	35	CharSet incomplete for Type 1 font
@@ -6427,7 +6287,6 @@ Errors	613	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	649
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8524D8A59D627AC928190777DF18D13A.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_8555DEF64CB647CC00294503A857DF8E.pdf	
 Pages	158	
 Errors	11	RGB used but PDF/A OutputIntent not RGB
@@ -6436,14 +6295,12 @@ Errors	376	Width information for rendered glyphs is inconsistent
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	2748
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8555DEF64CB647CC00294503A857DF8E.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_86AC91F117384271BB27974945E0AC91.pdf	
 Pages	154	
 Errors	43	CharSet incomplete for Type 1 font
 Errors	13	Width information for rendered glyphs is inconsistent
 Summary	Errors	56
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_86AC91F117384271BB27974945E0AC91.pdf	
-Duration	00:43	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_86E4071836C604059E32797D4D0DBBD7.pdf	
 Pages	102	
 Errors	1	XMP property not predefined and no extension schema present
@@ -6457,7 +6314,6 @@ Errors	789	Transparency used (transparency group)
 Errors	6	Transparency used (page is a transparency group)
 Summary	Errors	1435
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_871D440A81C1FCEE5766A30E2A716CC6.pdf	
-Duration	00:23	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_87AEB6367EE4266622F1029BC621AF6E.pdf	
 Pages	264	
 Errors	299	Font not embedded (and text rendering mode not 3)
@@ -6468,12 +6324,10 @@ Errors	1	Compressed object streams used
 Errors	1	XMP property is predefined but is not used in accordance with the definition
 Summary	Errors	2546
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_87AEB6367EE4266622F1029BC621AF6E.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_87C015066A77A1DAF9CF46790B41F343.pdf	
 Pages	192	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_87C015066A77A1DAF9CF46790B41F343.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_8858F0965433058B6097D1909F717FF4.pdf	
 Pages	198	
 Errors	116	Device process color used but no PDF/A OutputIntent
@@ -6484,14 +6338,12 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	5408
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8858F0965433058B6097D1909F717FF4.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_888434371A8B8D644689CEB84F8228D4.pdf	
 Pages	286	
 Errors	1351	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1352
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_888434371A8B8D644689CEB84F8228D4.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_88DD96BF7D7014B0B046F7CEE200760F.pdf	
 Pages	54	
 Errors	22	CharSet incomplete for Type 1 font
@@ -6514,7 +6366,6 @@ Errors	76	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	107
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8B6827279242300ACF52CAD4A64A7802.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_8C90B3BE916D69EE31BD3A2726FF6446.pdf	
 Pages	144	
 Summary	Errors	0
@@ -6534,7 +6385,6 @@ Errors	2	Transparency used (page is a transparency group)
 Errors	1	CMYK referenced but PDF/A OutputIntent not CMYK
 Summary	Errors	11566
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8D9AF4793C24F8D941DE587F57FD15AE.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\8\TIB_8EEFCF7AA1047FB2D877CFFA0BE6B839.pdf	
 Pages	370	
 Errors	109	Width information for rendered glyphs is inconsistent
@@ -6542,7 +6392,6 @@ Errors	78	Transparency used (transparency group)
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	189
 Finished	C:\ValidatorenTest\Testset\1b\8\TIB_8EEFCF7AA1047FB2D877CFFA0BE6B839.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\8\Yvonne_856A8F4F0764DF453EEB46155B3538B0.pdf	
 Pages	2	
 Errors	59	Device process color used but no PDF/A OutputIntent
@@ -6634,7 +6483,6 @@ Errors	12	Device process color used but no PDF/A OutputIntent
 Errors	52	Type 2 CID font: CIDToGIDMap invalid or missing
 Summary	Errors	64
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_91D21E7377EEA0A45174C37FCFA9F7D3.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_91D55859981DB341C2D029851D47BC70.pdf	
 Pages	27	
 Errors	477	CIDset in subset font is incomplete
@@ -6658,7 +6506,6 @@ Errors	349	CIDset in subset font is incomplete
 Errors	1	Syntax problem: Dictionary with more than 4095 entries
 Summary	Errors	350
 Finished	C:\ValidatorenTest\Testset\1b\9\KOST_92A5A7FAAB3F3D4D2E62B7E8DA2EA1AD.pdf	
-Duration	00:14	
 Input	C:\ValidatorenTest\Testset\1b\9\KOST_92BA750CA58072AD1A8BF7FC2CF15810.pdf	
 Pages	1	
 Summary	Errors	0
@@ -7052,20 +6899,17 @@ Pages	328
 Errors	1074	CIDset in subset font is incomplete
 Summary	Errors	1074
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9072B4D5DA9DF37A241FBD206A5BFE18.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_90B5EC2D6F694BD0E976259E46E39315.pdf	
 Pages	217	
 Errors	138	CMYK used but PDF/A OutputIntent not CMYK
 Errors	19	CMYK used for alt. color but PDF/A OutputIntent not CMYK
 Summary	Errors	157
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_90B5EC2D6F694BD0E976259E46E39315.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9118BCF62B80F5BCBA7F408023753347.pdf	
 Pages	300	
 Errors	3	RGB used but PDF/A OutputIntent not RGB
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9118BCF62B80F5BCBA7F408023753347.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_917CB9F5DCE2C153057A0B8FCDAED4BB.pdf	
 Pages	248	
 Errors	2	RGB used but PDF/A OutputIntent not RGB
@@ -7077,7 +6921,6 @@ Errors	1	Transparency used (page is a transparency group)
 Errors	2	CharSet missing for Type 1 font
 Summary	Errors	21
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_917CB9F5DCE2C153057A0B8FCDAED4BB.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_94FFA6BB852E6897C7F5DF04C832F5E6.pdf	
 Pages	162	
 Errors	106	CMYK used but PDF/A OutputIntent not CMYK
@@ -7089,20 +6932,17 @@ Errors	314	Transparency used (transparency group)
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	3234
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_94FFA6BB852E6897C7F5DF04C832F5E6.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9533E8890F306244C337DA2CC6293ED4.pdf	
 Pages	208	
 Errors	985	CIDset in subset font is incomplete
 Summary	Errors	985
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9533E8890F306244C337DA2CC6293ED4.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9570921EAFE97CD87EAD8D484F39CFAE.pdf	
 Pages	202	
 Errors	7312	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	7313
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9570921EAFE97CD87EAD8D484F39CFAE.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_95837B6B41A0208CCFD51D963C83DA38.pdf	
 Pages	124	
 Summary	Errors	0
@@ -7113,7 +6953,6 @@ Errors	599	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	600
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_95BC873BABD753E176837DA83138C892.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_95D803525AFF5B8E9C3CF759F89541AB.pdf	
 Pages	224	
 Errors	827	CMYK used but PDF/A OutputIntent not CMYK
@@ -7125,7 +6964,6 @@ Errors	1	Keyword mismatch between Document Info and XMP Metadata
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	1641
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_95D803525AFF5B8E9C3CF759F89541AB.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_95DFD5F1CF9433FA8F5C8C318EBDA7C2.pdf	
 Pages	294	
 Errors	62	CMYK used but PDF/A OutputIntent not CMYK
@@ -7133,7 +6971,6 @@ Errors	1	Compressed object streams used
 Errors	1	Keyword mismatch between Document Info and XMP Metadata
 Summary	Errors	64
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_95DFD5F1CF9433FA8F5C8C318EBDA7C2.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_97DC3571E1EB616B79B756C0DF938D31.pdf	
 Pages	222	
 Errors	22	CharSet incomplete for Type 1 font
@@ -7142,7 +6979,6 @@ Errors	710	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1215
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_97DC3571E1EB616B79B756C0DF938D31.pdf	
-Duration	00:14	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_98821F8A39EE0A875851A12F9A7218E7.pdf	
 Pages	192	
 Errors	4035	CharSet incomplete for Type 1 font
@@ -7151,7 +6987,6 @@ Errors	420	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	4791
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_98821F8A39EE0A875851A12F9A7218E7.pdf	
-Duration	00:39	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_992EB6E25ACE7741F1934E063A78ADD1.pdf	
 Pages	56	
 Errors	6	Glyphs missing in embedded font
@@ -7159,14 +6994,12 @@ Errors	48	CIDset in subset font is incomplete
 Errors	62	Width information for rendered glyphs is inconsistent
 Summary	Errors	116
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_992EB6E25ACE7741F1934E063A78ADD1.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9985E643556F9D821D24D1D7C0C10FB7.pdf	
 Pages	216	
 Errors	89	Glyphs missing in embedded font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	90
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9985E643556F9D821D24D1D7C0C10FB7.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_99C5C7556E3086767851EA7A1691C762.pdf	
 Pages	108	
 Errors	15	CharSet incomplete for Type 1 font
@@ -7174,21 +7007,18 @@ Errors	219	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	235
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_99C5C7556E3086767851EA7A1691C762.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9BA920466C323C0BEC6CA73BFC571247.pdf	
 Pages	288	
 Errors	280	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	281
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9BA920466C323C0BEC6CA73BFC571247.pdf	
-Duration	00:13	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9BAC16398F65954984904B321FACD0F5.pdf	
 Pages	128	
 Errors	15	Device process color used but no PDF/A OutputIntent
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	16
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9BAC16398F65954984904B321FACD0F5.pdf	
-Duration	00:29	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9C1401A4AED90F886C6C06384769BEA2.pdf	
 Pages	154	
 Errors	11772	CMYK used but PDF/A OutputIntent not CMYK
@@ -7201,7 +7031,6 @@ Errors	10	CharSet incomplete for Type 1 font
 Errors	227	CIDset in subset font is incomplete
 Summary	Errors	237
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9DF24F1D2B5B46A1BEAE4394CF4C5BDD.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9EE597B25F2C9F732230CB25784D5D9B.pdf	
 Pages	258	
 Errors	12762	CharSet incomplete for Type 1 font
@@ -7209,19 +7038,16 @@ Errors	273	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	13036
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9EE597B25F2C9F732230CB25784D5D9B.pdf	
-Duration	00:12	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9F06B5E7C7F792B972953A4C5AEB851E.pdf	
 Pages	408	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9F06B5E7C7F792B972953A4C5AEB851E.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9FC6B8BFE55B4B32C18E01D6E778D157.pdf	
 Pages	134	
 Errors	7	CharSet incomplete for Type 1 font
 Errors	99	CIDset in subset font is incomplete
 Summary	Errors	106
 Finished	C:\ValidatorenTest\Testset\1b\9\TIB_9FC6B8BFE55B4B32C18E01D6E778D157.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\9\TIB_9FCAEE5A5D0F4BF13CB973CEFACD203C.pdf	
 Pages	21	
 Summary	Errors	0
@@ -7778,13 +7604,11 @@ Errors	3	CharSet incomplete for Type 1 font
 Errors	3247	Font is not valid
 Summary	Errors	3250
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A016878B71D045A6D1E95C3AEB030638.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A2B731FBA6308AE3FFDCD75B20EB42BC.pdf	
 Pages	206	
 Errors	262	CIDset in subset font is incomplete
 Summary	Errors	262
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A2B731FBA6308AE3FFDCD75B20EB42BC.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A315229A278BBB631EEF17C6F89F525A.pdf	
 Pages	436	
 Errors	99	CharSet incomplete for Type 1 font
@@ -7793,26 +7617,22 @@ Errors	14	Width information for rendered glyphs is inconsistent
 Errors	3	Annotation has IC entry but PDF/A OutputIntent is not RGB
 Summary	Errors	566
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A315229A278BBB631EEF17C6F89F525A.pdf	
-Duration	00:14	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A34FB7BC9274C39ABEB7F7D7C4FCA101.pdf	
 Pages	456	
 Errors	1250	Glyphs missing in embedded font
 Errors	549	CIDset in subset font is incomplete
 Summary	Errors	1799
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A34FB7BC9274C39ABEB7F7D7C4FCA101.pdf	
-Duration	00:12	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A435ACF24E99ECC2C03D00A6B1157CF6.pdf	
 Pages	176	
 Errors	15	CIDset in subset font is incomplete
 Summary	Errors	15
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A435ACF24E99ECC2C03D00A6B1157CF6.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A4E69E96DFE8B2F75110C758AD9F1344.pdf	
 Pages	240	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A4E69E96DFE8B2F75110C758AD9F1344.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A503A58610962658FDC9F762825738CF.pdf	
 Pages	160	
 Errors	1	XMP property not predefined and no extension schema present
@@ -7822,7 +7642,6 @@ Input	C:\ValidatorenTest\Testset\1b\A\TIB_A5A04A19215E4B5389417F43F39AE6D1.pdf
 Pages	204	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A5A04A19215E4B5389417F43F39AE6D1.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A5EC06D2B49E8E7FEBABADBF27877A0F.pdf	
 Pages	318	
 Errors	3332	CharSet incomplete for Type 1 font
@@ -7834,7 +7653,6 @@ Pages	144
 Errors	191	CIDset in subset font is incomplete
 Summary	Errors	191
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A5F5D9622BEA32CFB288CAA00DD75782.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A66A7430C5295CCFEDE3BCC8402D4161.pdf	
 Pages	282	
 Errors	2419	CharSet incomplete for Type 1 font
@@ -7843,7 +7661,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	Transparency used (page is a transparency group)
 Summary	Errors	2465
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A66A7430C5295CCFEDE3BCC8402D4161.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A7E67CD5E3A3135A3B346A81AB707153.pdf	
 Pages	354	
 Errors	3	Glyphs missing in embedded font
@@ -7851,13 +7668,11 @@ Errors	172	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	176
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A7E67CD5E3A3135A3B346A81AB707153.pdf	
-Duration	00:16	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_A8DB5E1F8CE19BDB3CB2EEA6416B377F.pdf	
 Pages	208	
 Errors	313	CIDset in subset font is incomplete
 Summary	Errors	313
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_A8DB5E1F8CE19BDB3CB2EEA6416B377F.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_AC94065C8F2B76767FF9E187B4F4D499.pdf	
 Pages	286	
 Errors	121	CMYK used but PDF/A OutputIntent not CMYK
@@ -7865,18 +7680,15 @@ Errors	3	CMYK used for alt. color but PDF/A OutputIntent not CMYK
 Errors	96	CIDset in subset font is incomplete
 Summary	Errors	220
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_AC94065C8F2B76767FF9E187B4F4D499.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_AD6C76DC9357BEB22B346F7E49F29979.pdf	
 Pages	202	
 Errors	2124	CharSet incomplete for Type 1 font
 Summary	Errors	2124
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_AD6C76DC9357BEB22B346F7E49F29979.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_AF7BF5058E06D1B057601DD6061407E5.pdf	
 Pages	184	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_AF7BF5058E06D1B057601DD6061407E5.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_AFEE9C4FA73270410A1556035A22E71D.pdf	
 Pages	218	
 Errors	36	CMYK used but PDF/A OutputIntent not CMYK
@@ -7884,14 +7696,12 @@ Errors	8	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	45
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_AFEE9C4FA73270410A1556035A22E71D.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\A\TIB_AFF086D4EDB1E03810176F915F61E2E3.pdf	
 Pages	182	
 Errors	10	CharSet incomplete for Type 1 font
 Errors	252	CIDset in subset font is incomplete
 Summary	Errors	262
 Finished	C:\ValidatorenTest\Testset\1b\A\TIB_AFF086D4EDB1E03810176F915F61E2E3.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\A\ZBW_A2A10C3581FC4CA70AE5E8C766A36BBD.pdf	
 Pages	8	
 Summary	Errors	0
@@ -8145,7 +7955,6 @@ Errors	1	Syntax problem: Indirect object "obj" keyword not followed by an EOL ma
 Errors	1	Type 2 CID font: CIDToGIDMap invalid or missing
 Summary	Errors	462
 Finished	C:\ValidatorenTest\Testset\1b\B\KOST_B6E7346F39898AD56CBF01EB18357192.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\B\KOST_B756D82B7E51BA31008B3C7A47159F49.pdf	
 Pages	1	
 Summary	Errors	0
@@ -8341,7 +8150,6 @@ Pages	10
 Errors	1	Syntax problem: Dictionary with more than 4095 entries
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\B\KOST_BD69FFA4B05E05F642E19F2EC81A9E00.pdf	
-Duration	00:15	
 Input	C:\ValidatorenTest\Testset\1b\B\KOST_BD740EC335CAC41B035292056862ADC0.pdf	
 Pages	12	
 Errors	281	CIDset in subset font is incomplete
@@ -8396,14 +8204,12 @@ Errors	1584	JPEG2000 compression used
 Errors	1	Compressed object streams used
 Summary	Errors	1766
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_B077D33EF168D0E0AE535029645DD60B.pdf	
-Duration	00:20	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_B1AB530232ACEB4B0771F1A1D6884325.pdf	
 Pages	212	
 Errors	1451	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1452
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_B1AB530232ACEB4B0771F1A1D6884325.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_B1B3CA9A33569B1A39CCCBAF7CF8FFAA.pdf	
 Pages	380	
 Errors	494	CMYK used but PDF/A OutputIntent not CMYK
@@ -8411,7 +8217,6 @@ Errors	16	CMYK used for alt. color but PDF/A OutputIntent not CMYK
 Errors	26	Width information for rendered glyphs is inconsistent
 Summary	Errors	536
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_B1B3CA9A33569B1A39CCCBAF7CF8FFAA.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_B27EE48DB39D7623F35B74276C4F5849.pdf	
 Pages	112	
 Errors	10	RGB used but PDF/A OutputIntent not RGB
@@ -8420,7 +8225,6 @@ Errors	323	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	467
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_B27EE48DB39D7623F35B74276C4F5849.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_B280EC07AA6A507F29FEB8B2B0F697F2.pdf	
 Pages	228	
 Errors	12463	CharSet incomplete for Type 1 font
@@ -8430,7 +8234,6 @@ Errors	2	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	12468
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_B280EC07AA6A507F29FEB8B2B0F697F2.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_B3E9F27FE51C3419321F1B0154C8E338.pdf	
 Pages	120	
 Errors	689	Device process color used but no PDF/A OutputIntent
@@ -8455,7 +8258,6 @@ Pages	294
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_BA0D6E7194C3CCF1AE8F185F922FFF9C.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_BA3302EDE3D04CD2219123F149B0F698.pdf	
 Pages	266	
 Errors	4870	Device process color used but no PDF/A OutputIntent
@@ -8465,7 +8267,6 @@ Errors	1910	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	9315
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_BA3302EDE3D04CD2219123F149B0F698.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_BBA63C336F566F13E3818F0EA9858B74.pdf	
 Pages	260	
 Errors	317	CharSet incomplete for Type 1 font
@@ -8474,14 +8275,12 @@ Errors	2	Transparency used (transparency group)
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	323
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_BBA63C336F566F13E3818F0EA9858B74.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_BCD7D695DA853C5CABA5BC9481622B01.pdf	
 Pages	168	
 Errors	239	Device process color used but no PDF/A OutputIntent
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	240
 Finished	C:\ValidatorenTest\Testset\1b\B\TIB_BCD7D695DA853C5CABA5BC9481622B01.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\B\TIB_BDF04BBEB2EB9E465445044504881AAB.pdf	
 Pages	66	
 Errors	1	XMP property not predefined and no extension schema present
@@ -8627,7 +8426,6 @@ Errors	1	PDF/A entry missing
 Errors	1	Syntax problem: Dictionary with more than 4095 entries
 Summary	Errors	2
 Finished	C:\ValidatorenTest\Testset\1b\C\KOST_C544B728554CAB7400EC8AD388FDB354.pdf	
-Duration	00:16	
 Input	C:\ValidatorenTest\Testset\1b\C\KOST_C595A78BDC7B55EC81419662C1142729.pdf	
 Pages	1	
 Errors	1	Device process color used but no PDF/A OutputIntent
@@ -8951,7 +8749,6 @@ Errors	731	CIDset in subset font missing
 Errors	252	Width information for rendered glyphs is inconsistent
 Summary	Errors	1153
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C090D57F83D51D5E24BF694BFA28F571.pdf	
-Duration	00:13	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C0B01807920E54F9859934585F85DB25.pdf	
 Pages	148	
 Errors	2	CharSet incomplete for Type 1 font
@@ -8959,12 +8756,10 @@ Errors	195	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	198
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C0B01807920E54F9859934585F85DB25.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C18867CC267C0FB6DF59566E43697E05.pdf	
 Pages	234	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C18867CC267C0FB6DF59566E43697E05.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C1BEC0DBEFA1F68EB392DDB6CC2BEFF6.pdf	
 Pages	380	
 Errors	7110	CharSet incomplete for Type 1 font
@@ -8973,7 +8768,6 @@ Errors	16	Font is not valid
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	7141
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C1BEC0DBEFA1F68EB392DDB6CC2BEFF6.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C2CD5347EF05D309BF5025BA358BDD65.pdf	
 Pages	32	
 Errors	17	CharSet incomplete for Type 1 font
@@ -8993,7 +8787,6 @@ Errors	87	CIDset in subset font is incomplete
 Errors	149	Font is not valid
 Summary	Errors	505
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C656F1E73C9897CF7C7F38C00FDB28F5.pdf	
-Duration	00:20	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C659620099B92A14DD2FB7B456E89145.pdf	
 Pages	236	
 Errors	19073	CharSet incomplete for Type 1 font
@@ -9001,27 +8794,23 @@ Errors	2	CIDset in subset font is incomplete
 Errors	220	Width information for rendered glyphs is inconsistent
 Summary	Errors	19295
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C659620099B92A14DD2FB7B456E89145.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C713EBA46A49CFFD8E5322BD27E01646.pdf	
 Pages	250	
 Errors	6	CharSet incomplete for Type 1 font
 Errors	1857	CIDset in subset font is incomplete
 Summary	Errors	1863
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C713EBA46A49CFFD8E5322BD27E01646.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C774F29B9C3B2584D319C6401FC6799A.pdf	
 Pages	142	
 Errors	2	Transparency used (soft mask in image)
 Errors	1	Keyword mismatch between Document Info and XMP Metadata
 Summary	Errors	3
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C774F29B9C3B2584D319C6401FC6799A.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C77C1D6E7844F03FD48243962348DFFC.pdf	
 Pages	294	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C77C1D6E7844F03FD48243962348DFFC.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C79EC4CE1328D902BB3372551ECBD37D.pdf	
 Pages	252	
 Errors	939	CMYK used but PDF/A OutputIntent not CMYK
@@ -9036,7 +8825,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	2823
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C79EC4CE1328D902BB3372551ECBD37D.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C7A38146352D319C7183B7B7BCB8C254.pdf	
 Pages	226	
 Errors	2	RGB used but PDF/A OutputIntent not RGB
@@ -9044,7 +8832,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	RGB referenced but PDF/A OutputIntent not RGB
 Summary	Errors	4
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C7A38146352D319C7183B7B7BCB8C254.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C7ECE709BF66594D776FA59E21C8992C.pdf	
 Pages	264	
 Errors	46	Font is not valid
@@ -9052,14 +8839,12 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	RGB referenced but PDF/A OutputIntent not RGB
 Summary	Errors	48
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C7ECE709BF66594D776FA59E21C8992C.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_C856F1AA21D2CF9660E77AC00AF4AFE8.pdf	
 Pages	416	
 Errors	9	CharSet incomplete for Type 1 font
 Errors	102	CIDset in subset font is incomplete
 Summary	Errors	111
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_C856F1AA21D2CF9660E77AC00AF4AFE8.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_CA6AC9061342FB890B5F54F143FBC5EE.pdf	
 Pages	164	
 Errors	6	CMYK used but PDF/A OutputIntent not CMYK
@@ -9067,7 +8852,6 @@ Errors	112	CharSet incomplete for Type 1 font
 Errors	398	CIDset in subset font is incomplete
 Summary	Errors	516
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_CA6AC9061342FB890B5F54F143FBC5EE.pdf	
-Duration	00:17	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_CA905272469401CFECEF137B1C23968A.pdf	
 Pages	402	
 Errors	4	CIDset in subset font is incomplete
@@ -9076,12 +8860,10 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	9
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_CA905272469401CFECEF137B1C23968A.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_CA97B0E92C6E0588E9BAF20D0DC41983.pdf	
 Pages	150	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_CA97B0E92C6E0588E9BAF20D0DC41983.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_CA9EB4B561FA818A2CAD2659988770F1.pdf	
 Pages	13	
 Errors	358	Device process color used but no PDF/A OutputIntent
@@ -9101,19 +8883,16 @@ Errors	1	JPEG2000 compression used
 Errors	1	XMP property is predefined but is not used in accordance with the definition
 Summary	Errors	86
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_CD91D6080B89DD5176AC85CBC5A4ADCF.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_CE5132F2A929B80831418E08FDF97118.pdf	
 Pages	84	
 Errors	15	CharSet incomplete for Type 1 font
 Errors	6626	Font is not valid
 Summary	Errors	6641
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_CE5132F2A929B80831418E08FDF97118.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_CEBF6BD0D8848B309938B8C607DE5C0F.pdf	
 Pages	262	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_CEBF6BD0D8848B309938B8C607DE5C0F.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\C\TIB_CF4B57C26061D34767E7F1D8C76144D5.pdf	
 Pages	170	
 Errors	1	RGB used but PDF/A OutputIntent not RGB
@@ -9125,7 +8904,6 @@ Errors	1	XMP property is predefined but is not used in accordance with the defin
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	5779
 Finished	C:\ValidatorenTest\Testset\1b\C\TIB_CF4B57C26061D34767E7F1D8C76144D5.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\C\Yvonne_C685D52709B44EF4E430EC1AFCB9BFBD.pdf	
 Pages	12	
 Errors	168	Device process color used but no PDF/A OutputIntent
@@ -9238,7 +9016,6 @@ Input	C:\ValidatorenTest\Testset\1b\D\KOST_D3C424BBB1D623ABA61A4E3909EDF730.pdf
 Pages	419	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D3C424BBB1D623ABA61A4E3909EDF730.pdf	
-Duration	00:58	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D3E35628F696165233039A24F43D8FFF.pdf	
 Pages	1	
 Summary	Errors	0
@@ -9411,7 +9188,6 @@ Errors	1	Annotation has no Flags entry
 Errors	1	Annotation not set to print
 Summary	Errors	3213
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_D860880937D686B38F972BACBE70D0F6.pdf	
-Duration	00:40	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_D864A628E2D9DEC728649ACCF0A603E4.pdf	
 Pages	1	
 Summary	Errors	0
@@ -9458,7 +9234,6 @@ Errors	3	Annotation has no Flags entry
 Errors	3	Annotation not set to print
 Summary	Errors	1418
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_DAF3ADAB1E199C4A6191DE1859C1A248.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_DB002ADBD699D991CD7423719CB5CFD2.pdf	
 Pages	1	
 Summary	Errors	0
@@ -9467,7 +9242,6 @@ Input	C:\ValidatorenTest\Testset\1b\D\KOST_DB0E77DC1BCFD1C6AEAC87848692EC7C.pdf
 Pages	103	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\KOST_DB0E77DC1BCFD1C6AEAC87848692EC7C.pdf	
-Duration	00:13	
 Input	C:\ValidatorenTest\Testset\1b\D\KOST_DB1671C08F5946FE6E6043A335EA77E2.pdf	
 Pages	1	
 Summary	Errors	0
@@ -9602,12 +9376,10 @@ Pages	236
 Errors	75	CharSet incomplete for Type 1 font
 Summary	Errors	75
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D138459AFB034C1F8B196F7B6D5B99E6.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D150A2F4220D45DFBBE58855191881E0.pdf	
 Pages	294	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D150A2F4220D45DFBBE58855191881E0.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D2FD503DA372CF1FE9E760621A25258C.pdf	
 Pages	328	
 Errors	11782	CharSet incomplete for Type 1 font
@@ -9617,7 +9389,6 @@ Errors	43	Transparency used (transparency group)
 Errors	2	Transparency used (page is a transparency group)
 Summary	Errors	13558
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D2FD503DA372CF1FE9E760621A25258C.pdf	
-Duration	00:17	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D35008D9FD3165D9065D2B7C73483364.pdf	
 Pages	54	
 Errors	99	CMYK used but PDF/A OutputIntent not CMYK
@@ -9635,7 +9406,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	CMYK referenced but PDF/A OutputIntent not CMYK
 Summary	Errors	2430
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D368846C2261C43039A87AF256ECE147.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D43EF695A1A06654714E7C0E4612BDFC.pdf	
 Pages	226	
 Errors	8717	Device process color used but no PDF/A OutputIntent
@@ -9643,33 +9413,28 @@ Errors	87	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	8805
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D43EF695A1A06654714E7C0E4612BDFC.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D47E418AA747BF42860DB117A0EB3FB8.pdf	
 Pages	218	
 Errors	86	CharSet incomplete for Type 1 font
 Errors	3007	CIDset in subset font is incomplete
 Summary	Errors	3093
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D47E418AA747BF42860DB117A0EB3FB8.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D4A9A1167EA7D136BACE0C2D754012A2.pdf	
 Pages	150	
 Errors	16	CharSet incomplete for Type 1 font
 Errors	3352	CIDset in subset font is incomplete
 Summary	Errors	3368
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D4A9A1167EA7D136BACE0C2D754012A2.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D4D1CA438315A8C7ED9E81DEA283EA8B.pdf	
 Pages	216	
 Errors	8	CIDset in subset font is incomplete
 Summary	Errors	8
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D4D1CA438315A8C7ED9E81DEA283EA8B.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D50705813413FE7101282D094B03DE2D.pdf	
 Pages	166	
 Errors	36	CIDset in subset font is incomplete
 Summary	Errors	36
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D50705813413FE7101282D094B03DE2D.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D5B5CEC47A65760C3CA25B7B6F62ADD7.pdf	
 Pages	108	
 Errors	1	Author mismatch between Document Info and XMP Metadata
@@ -9681,7 +9446,6 @@ Errors	715	CharSet incomplete for Type 1 font
 Errors	1610	CIDset in subset font is incomplete
 Summary	Errors	2325
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D6177E2F85AFE6E5F1200B9C9DBE9310.pdf	
-Duration	00:24	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D63140F85C3E96EDB6C5FD26FDC74DBF.pdf	
 Pages	180	
 Errors	15	CharSet incomplete for Type 1 font
@@ -9696,12 +9460,10 @@ Errors	35	Device process color used but no PDF/A OutputIntent
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	38
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D6CDE614276D8BD4321CBA50D7F43A2F.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D769C0ECF26E35B4C2AF8FE4DD615500.pdf	
 Pages	260	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D769C0ECF26E35B4C2AF8FE4DD615500.pdf	
-Duration	01:23	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D80E0FF874D0D0AF02CF982FE4A43549.pdf	
 Pages	174	
 Errors	61	Device process color used but no PDF/A OutputIntent
@@ -9712,14 +9474,12 @@ Input	C:\ValidatorenTest\Testset\1b\D\TIB_D8B1D9B5040B4EEB91DCE599A72C982A.pdf
 Pages	146	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D8B1D9B5040B4EEB91DCE599A72C982A.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_D9E4F7D07AE7F4296EEEFE6C3178D92B.pdf	
 Pages	260	
 Errors	53	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	54
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_D9E4F7D07AE7F4296EEEFE6C3178D92B.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_DAB76505629688B4DE6C60D6349D45F1.pdf	
 Pages	176	
 Errors	17	RGB used but PDF/A OutputIntent not RGB
@@ -9727,7 +9487,6 @@ Errors	211	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	229
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_DAB76505629688B4DE6C60D6349D45F1.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_DBF511B7F5700C4974C81B8E226BA9C1.pdf	
 Pages	194	
 Errors	1585	CharSet incomplete for Type 1 font
@@ -9736,19 +9495,16 @@ Errors	80	Font is not valid
 Errors	32	Width information for rendered glyphs is inconsistent
 Summary	Errors	1698
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_DBF511B7F5700C4974C81B8E226BA9C1.pdf	
-Duration	00:10	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_DEBF8EAA84073294BBCF8048C4D82D41.pdf	
 Pages	216	
 Errors	5794	CharSet incomplete for Type 1 font
 Errors	24	CIDset in subset font is incomplete
 Summary	Errors	5818
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_DEBF8EAA84073294BBCF8048C4D82D41.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\D\TIB_DFD35EF0E49C78852B8E21A2CB73A212.pdf	
 Pages	218	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\D\TIB_DFD35EF0E49C78852B8E21A2CB73A212.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\D\Yvonne_D00DE6EA7198A7C58C0CA5C77DF257CB.pdf	
 Pages	10	
 Errors	125	Device process color used but no PDF/A OutputIntent
@@ -10193,13 +9949,11 @@ Errors	8	CIDset in subset font is incomplete
 Errors	1093	Font is not valid
 Summary	Errors	1101
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_E0E7176F836CCA6A8AC11BA654637FF4.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_E1819AB702BB12BBD1C9013F4336B923.pdf	
 Pages	58	
 Errors	1	Syntax problem: Dictionary with more than 4095 entries
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_E1819AB702BB12BBD1C9013F4336B923.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_E2817C40437F6683B6E2CF94CC92F27D.pdf	
 Pages	192	
 Errors	56	CharSet incomplete for Type 1 font
@@ -10208,13 +9962,11 @@ Errors	1	Width information for rendered glyphs is inconsistent
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	100
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_E2817C40437F6683B6E2CF94CC92F27D.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_E3D95D114D27B4A0712BF48017268835.pdf	
 Pages	222	
 Errors	8752	Font is not valid
 Summary	Errors	8752
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_E3D95D114D27B4A0712BF48017268835.pdf	
-Duration	00:18	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_E403277D22FD2B29CC29C397B98C9BBA.pdf	
 Pages	152	
 Summary	Errors	0
@@ -10225,7 +9977,6 @@ Errors	6	CharSet incomplete for Type 1 font
 Errors	78	CIDset in subset font is incomplete
 Summary	Errors	84
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_E5898C9D4ACB73F13CDCEFA9C47EDEF3.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_E6B3039CFD12076506C87E5EC3E3B1D3.pdf	
 Pages	208	
 Errors	213	CharSet incomplete for Type 1 font
@@ -10238,12 +9989,10 @@ Pages	228
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_E9161AA575E3205CEB6DFABFF730C307.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_E9F388CF77A0065D4B910E47C7E3F67C.pdf	
 Pages	328	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_E9F388CF77A0065D4B910E47C7E3F67C.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EA127512587A422FCB05BA0EA878D647.pdf	
 Pages	330	
 Errors	4027	CharSet incomplete for Type 1 font
@@ -10251,18 +10000,15 @@ Errors	42	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	4070
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EA127512587A422FCB05BA0EA878D647.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EA37E4C7658F7C1809AD9BD2C5C8A587.pdf	
 Pages	176	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EA37E4C7658F7C1809AD9BD2C5C8A587.pdf	
-Duration	00:11	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EBCF1CEB7F519838DD9D34770EFD35DC.pdf	
 Pages	172	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EBCF1CEB7F519838DD9D34770EFD35DC.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EC27834DAF1BEB5C630303F1ABD4395F.pdf	
 Pages	188	
 Errors	765	CharSet incomplete for Type 1 font
@@ -10270,7 +10016,6 @@ Errors	19	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	785
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EC27834DAF1BEB5C630303F1ABD4395F.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EC60AA376BFE2ED14818F6BC245A3F59.pdf	
 Pages	176	
 Errors	81	CMYK used but PDF/A OutputIntent not CMYK
@@ -10279,7 +10024,6 @@ Errors	1	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1291
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EC60AA376BFE2ED14818F6BC245A3F59.pdf	
-Duration	00:16	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EDC18793FE6FC6B66E62F7ADE0EC1B9A.pdf	
 Pages	354	
 Errors	14052	CMYK used but PDF/A OutputIntent not CMYK
@@ -10291,7 +10035,6 @@ Errors	1	Transparency used (filled object with ca value smaller than 1.0)
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	15087
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EDC18793FE6FC6B66E62F7ADE0EC1B9A.pdf	
-Duration	00:15	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EE6DD75067756D2263D2BAAB986E31D2.pdf	
 Pages	266	
 Errors	3293	CharSet incomplete for Type 1 font
@@ -10299,7 +10042,6 @@ Errors	168	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	3462
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EE6DD75067756D2263D2BAAB986E31D2.pdf	
-Duration	00:17	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EE8DC44D0AF6810EE070CE8F6B58828E.pdf	
 Pages	422	
 Errors	1189	CharSet incomplete for Type 1 font
@@ -10307,7 +10049,6 @@ Errors	543	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1733
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EE8DC44D0AF6810EE070CE8F6B58828E.pdf	
-Duration	00:13	
 Input	C:\ValidatorenTest\Testset\1b\E\TIB_EE8E8422307EBA55AE36535F4D24B24F.pdf	
 Pages	100	
 Errors	47	CharSet incomplete for Type 1 font
@@ -10320,14 +10061,12 @@ Errors	1	Syntax problem: Real value out of range (too high)
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	169
 Finished	C:\ValidatorenTest\Testset\1b\E\TIB_EF5A647B49721E6BE45D416969E0813A.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\E\ZBW_EA77DAA9C8E09D448AF8FC15CAD8366C.pdf	
 Pages	76	
 Errors	1166	Font not embedded (and text rendering mode not 3)
 Errors	32	CIDset in subset font missing
 Summary	Errors	1198
 Finished	C:\ValidatorenTest\Testset\1b\E\ZBW_EA77DAA9C8E09D448AF8FC15CAD8366C.pdf	
-Duration	00:46	
 Input	C:\ValidatorenTest\Testset\1b\E\ZBW_EC9ACC498757F7D945DF34A74F79406A.pdf	
 Pages	21	
 Summary	Errors	0
@@ -10359,7 +10098,6 @@ Errors	320	CIDset in subset font is incomplete
 Errors	1	Syntax problem: Dictionary with more than 4095 entries
 Summary	Errors	321
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F0C18B21AD6B9175D5B38BB8C1905E79.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_F0FB1925A90F31E903C837563B3005F5.pdf	
 Pages	1	
 Summary	Errors	0
@@ -10429,7 +10167,6 @@ Pages	26
 Errors	355	CIDset in subset font is incomplete
 Summary	Errors	355
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_F4C63F1D748140D6C45DA571934A5E69.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_F4EF8659097F0559D886718E8C608C45.pdf	
 Pages	1	
 Summary	Errors	0
@@ -10711,7 +10448,6 @@ Errors	1	Syntax problem: Indirect object "obj" keyword not followed by an EOL ma
 Errors	7	Type 2 CID font: CIDToGIDMap invalid or missing
 Summary	Errors	2741
 Finished	C:\ValidatorenTest\Testset\1b\F\KOST_FDEED39DD7FC07D5403C51C838422D65.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\F\KOST_FE49BED206BEC31A41D022B9120F85F7.pdf	
 Pages	1	
 Summary	Errors	0
@@ -10787,7 +10523,6 @@ Pages	294
 Errors	11257	Font is not valid
 Summary	Errors	11257
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F050F5F430E051207D3FCBD7D2D80A59.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F084DBB1D90BD798A7B8AD0762ADF3DD.pdf	
 Pages	203	
 Errors	10580	Device process color used but no PDF/A OutputIntent
@@ -10797,7 +10532,6 @@ Errors	3	Width information for rendered glyphs is inconsistent
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	15747
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F084DBB1D90BD798A7B8AD0762ADF3DD.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F08C0491EE506EBB22923709425D29C6.pdf	
 Pages	234	
 Errors	460	CharSet incomplete for Type 1 font
@@ -10805,7 +10539,6 @@ Errors	5797	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	6258
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F08C0491EE506EBB22923709425D29C6.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F1A8A0C6F905145F6BF6F56E1AE9F5C2.pdf	
 Pages	214	
 Errors	212	CMYK used but PDF/A OutputIntent not CMYK
@@ -10813,21 +10546,18 @@ Errors	28	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	241
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F1A8A0C6F905145F6BF6F56E1AE9F5C2.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F203CBC1E151EA8CC6CA3E03D22CA735.pdf	
 Pages	226	
 Errors	1075	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1076
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F203CBC1E151EA8CC6CA3E03D22CA735.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F2EFB887CE3224686F8F05C07F53AE36.pdf	
 Pages	218	
 Errors	6	CharSet incomplete for Type 1 font
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	7
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F2EFB887CE3224686F8F05C07F53AE36.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F306F0ADB332C0C0040D168BE8D88BEE.pdf	
 Pages	202	
 Errors	4	CharSet incomplete for Type 1 font
@@ -10835,7 +10565,6 @@ Errors	311	CIDset in subset font is incomplete
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	316
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F306F0ADB332C0C0040D168BE8D88BEE.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F31ECB84800E15256ED5667FE63B709F.pdf	
 Pages	174	
 Errors	1	PDF contains EF (embedded file) entry
@@ -10847,14 +10576,12 @@ Errors	1	Transparency used (blend mode not "Normal" nor "Compatible")
 Errors	1	Transparency used (page is a transparency group)
 Summary	Errors	42810
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F31ECB84800E15256ED5667FE63B709F.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F37C189E4DBEAF9A97490A65C352FA9A.pdf	
 Pages	476	
 Errors	26	CIDset in subset font is incomplete
 Errors	1	Implementation limit: Name object with a length greater than 127 byte
 Summary	Errors	27
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F37C189E4DBEAF9A97490A65C352FA9A.pdf	
-Duration	01:09	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F3CA76E0F0517821C1598BA425DAB1B6.pdf	
 Pages	162	
 Errors	1	XMP property not predefined and no extension schema present
@@ -10865,7 +10592,6 @@ Pages	256
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F4503F3145B601425EC93D2461CD9D94.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F6783C6F733BF367C68B40E22F8489D3.pdf	
 Pages	264	
 Errors	32	CharSet incomplete for Type 1 font
@@ -10873,13 +10599,11 @@ Errors	217	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	250
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F6783C6F733BF367C68B40E22F8489D3.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F691E74B182C0FB74B71F10EE3A56398.pdf	
 Pages	210	
 Errors	48	Glyphs missing in embedded font
 Summary	Errors	48
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F691E74B182C0FB74B71F10EE3A56398.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F75B1AD10D694B9AE1B021D71F9607D1.pdf	
 Pages	368	
 Errors	19	CharSet incomplete for Type 1 font
@@ -10887,33 +10611,28 @@ Errors	124	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	144
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F75B1AD10D694B9AE1B021D71F9607D1.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_F9ACFECB46EDA4197AAABBE37C0B1368.pdf	
 Pages	212	
 Errors	62	CharSet incomplete for Type 1 font
 Summary	Errors	62
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_F9ACFECB46EDA4197AAABBE37C0B1368.pdf	
-Duration	00:28	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_FA6B765FA76A4CA84C1EBB8713D430A0.pdf	
 Pages	410	
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_FA6B765FA76A4CA84C1EBB8713D430A0.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_FA91B86B38DA803F8CFC60E2DF1CD444.pdf	
 Pages	294	
 Errors	40	CharSet incomplete for Type 1 font
 Errors	440	CIDset in subset font is incomplete
 Summary	Errors	480
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_FA91B86B38DA803F8CFC60E2DF1CD444.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_FBAA984592B62BE191638DA47A3E909A.pdf	
 Pages	182	
 Errors	56	CMYK used but PDF/A OutputIntent not CMYK
 Errors	1	Author mismatch between Document Info and XMP Metadata
 Summary	Errors	57
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_FBAA984592B62BE191638DA47A3E909A.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_FC76B5ACFF256FCE39DF677C3FD23A08.pdf	
 Pages	76	
 Errors	1	Glyphs missing in embedded font
@@ -10928,7 +10647,6 @@ Errors	192	CIDset in subset font is incomplete
 Errors	1	XMP property not predefined and no extension schema present
 Summary	Errors	1233
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_FE515007FF68D4A0654E134CAB7437AF.pdf	
-Duration	00:09	
 Input	C:\ValidatorenTest\Testset\1b\F\TIB_FE804E812CAFF908434FA2186207A4C4.pdf	
 Pages	148	
 Errors	727	CharSet incomplete for Type 1 font
@@ -10942,7 +10660,6 @@ Errors	1	XMP property not predefined and no extension schema present
 Errors	1	Transparency used (page is a transparency group)
 Summary	Errors	184
 Finished	C:\ValidatorenTest\Testset\1b\F\TIB_FF69CFA6648A34353024305DFD9622F5.pdf	
-Duration	00:17	
 Input	C:\ValidatorenTest\Testset\1b\F\Yvonne_F3712961B9DB9E8FA0B436D0D4558A51.pdf	
 Pages	1	
 Errors	1	Invalid function object used in color space
@@ -10960,7 +10677,6 @@ Pages	16
 Errors	89378	Device process color used but no PDF/A OutputIntent
 Summary	Errors	89378
 Finished	C:\ValidatorenTest\Testset\1b\F\Yvonne_FF4FCBE74198290CCAE416E0BF88BE1C.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\1b\F\ZBW_F183DE29C17E60BF327C17C65AE4E277.pdf	
 Pages	29	
 Summary	Errors	0
@@ -11539,7 +11255,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_29B3111EE2B6F95DFFD6D37598306E59.pdf
 Pages	1613	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_29B3111EE2B6F95DFFD6D37598306E59.pdf	
-Duration	01:32	
 Input	C:\ValidatorenTest\Testset\2b\KOST_29F28998B5EDB29193795F1C34F875AB.pdf	
 Pages	1	
 Summary	Errors	0
@@ -11792,7 +11507,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_4B3EB0CEA591FC2FAE0FF4AB0D951F5B.pdf
 Pages	540	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_4B3EB0CEA591FC2FAE0FF4AB0D951F5B.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\2b\KOST_4B48BA109760CDC59894DA477AC2ADEC.pdf	
 Pages	2	
 Summary	Errors	0
@@ -11879,7 +11593,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_56824D605D8775F0640061C504B4BE27.pdf
 Pages	121	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_56824D605D8775F0640061C504B4BE27.pdf	
-Duration	00:08	
 Input	C:\ValidatorenTest\Testset\2b\KOST_5698BE7ADAE5A47CE30822D92655E2B2.pdf	
 Pages	1	
 Summary	Errors	0
@@ -11925,7 +11638,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_5CF8B28F7B742A9AEC4720AE96969254.pdf
 Pages	1	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_5CF8B28F7B742A9AEC4720AE96969254.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\2b\KOST_5D736C7ED9C21164D45A83B48619D97B.pdf	
 Pages	97	
 Summary	Errors	0
@@ -12069,7 +11781,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_6F423059C20E26CE2860E728D09ACCE7.pdf
 Pages	1	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_6F423059C20E26CE2860E728D09ACCE7.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\2b\KOST_6F8EA9117FFE08005C8F3AC84F8F4A8D.pdf	
 Pages	2	
 Summary	Errors	0
@@ -12193,7 +11904,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_8295B905F3190F7A2BD42AF329DE662B.pdf
 Pages	16	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_8295B905F3190F7A2BD42AF329DE662B.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\2b\KOST_82DAE0B7EA3E050EBA3A235ED30FCEEA.pdf	
 Pages	1	
 Summary	Errors	0
@@ -12242,7 +11952,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_888857827722FA8957352DBBE4755BB2.pdf
 Pages	3748	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_888857827722FA8957352DBBE4755BB2.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\2b\KOST_88A2CC698F7CB3C0BEEEFDF2E1809DB0.pdf	
 Pages	4	
 Summary	Errors	0
@@ -12351,7 +12060,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_983A623E82B3F7758925689773E2A089.pdf
 Pages	602	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_983A623E82B3F7758925689773E2A089.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\2b\KOST_984E4A72FC1C57327EE327E3B1C90006.pdf	
 Pages	1	
 Summary	Errors	0
@@ -12412,7 +12120,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_A07BCD184BA69B2D3FE66228A1FEB5B3.pdf
 Pages	175	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_A07BCD184BA69B2D3FE66228A1FEB5B3.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\2b\KOST_A136D8272D3F1233996C574198E3A735.pdf	
 Pages	10	
 Summary	Errors	0
@@ -12429,7 +12136,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_A25607C4D89104084E959E1B0EE15789.pdf
 Pages	540	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_A25607C4D89104084E959E1B0EE15789.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\2b\KOST_A25E312ECE99BB12A3EEF976E1C72DE8.pdf	
 Pages	13	
 Summary	Errors	0
@@ -12612,7 +12318,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_B97F68C1E44724454CEF0C14B770B224.pdf
 Pages	103	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_B97F68C1E44724454CEF0C14B770B224.pdf	
-Duration	00:16	
 Input	C:\ValidatorenTest\Testset\2b\KOST_B9BD0993F91D614DC291465D937A140B.pdf	
 Pages	2	
 Summary	Errors	0
@@ -12726,7 +12431,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_CB17776C165D3FFD464422160072D41A.pdf
 Pages	1	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_CB17776C165D3FFD464422160072D41A.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\2b\KOST_CC0A240133158C66BDA9F50C1E5B5D56.pdf	
 Pages	1	
 Summary	Errors	0
@@ -12810,7 +12514,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_D529BF7AD497FAE4A91E593A04337371.pdf
 Pages	1613	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_D529BF7AD497FAE4A91E593A04337371.pdf	
-Duration	01:33	
 Input	C:\ValidatorenTest\Testset\2b\KOST_D5A47432E59E0A339615C83D9BD27EAE.pdf	
 Pages	4	
 Summary	Errors	0
@@ -12985,7 +12688,6 @@ Input	C:\ValidatorenTest\Testset\2b\KOST_EE6130478CCF21BC04A8359C706A8CB7.pdf
 Pages	602	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2b\KOST_EE6130478CCF21BC04A8359C706A8CB7.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\2b\KOST_EE94E5CD6F6E7659B7FBB0C27CFB6307.pdf	
 Pages	5	
 Summary	Errors	0
@@ -13542,7 +13244,6 @@ Input	C:\ValidatorenTest\Testset\2u\KOST_FACBAB5DEB6F8D5E34E5E5516266370B.pdf
 Pages	7489	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\2u\KOST_FACBAB5DEB6F8D5E34E5E5516266370B.pdf	
-Duration	02:29	
 Input	C:\ValidatorenTest\Testset\2u\KOST_FC95A3398FC8D94D266EFDFB3E5D4DA9.pdf	
 Pages	1	
 Summary	Errors	0
@@ -13680,7 +13381,6 @@ Errors	1	MarkInfo missing
 Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	69937
 Finished	C:\ValidatorenTest\Testset\pdf\KOST_480B0CA21658FFF480A8500B3D606C2B.pdf	
-Duration	00:05	
 Input	C:\ValidatorenTest\Testset\pdf\KOST_4A2037D8F8D181EB3D51DF4A48C011E7.pdf	
 Pages	23	
 Errors	1	Layers used
@@ -13703,7 +13403,6 @@ Errors	1	Structured PDF: Structure tree root entry missing
 Errors	373	Form field of type button does not have multiple appearances
 Summary	Errors	20181
 Finished	C:\ValidatorenTest\Testset\pdf\KOST_4A2037D8F8D181EB3D51DF4A48C011E7.pdf	
-Duration	00:07	
 Input	C:\ValidatorenTest\Testset\pdf\KOST_5014389D1A7BC68A72A6935FE3881A62.PDF	
 Pages	3	
 Errors	6	Device process color used but no PDF/A OutputIntent
@@ -13821,7 +13520,6 @@ Errors	1	MarkInfo missing
 Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	21149
 Finished	C:\ValidatorenTest\Testset\pdf\KOST_83B5CBC61768B3F7B3D6902B14A1C086.pdf	
-Duration	00:06	
 Input	C:\ValidatorenTest\Testset\pdf\KOST_94C6B3BFFA57C736A14C54138D5A1EA9.pdf	
 Pages	2	
 Errors	346	Device process color used but no PDF/A OutputIntent
@@ -13895,7 +13593,6 @@ Errors	1	MarkInfo missing
 Errors	1	Structured PDF: Structure tree root entry missing
 Summary	Errors	47920
 Finished	C:\ValidatorenTest\Testset\pdf\KOST_BAEAB5A3009F4B5B6716B41F9D092A0A.pdf	
-Duration	00:04	
 Input	C:\ValidatorenTest\Testset\pdf\KOST_BBDE41268AA710CFEF6CB3D067855CB5.pdf	
 Pages	57	
 Errors	1	LZW compression used
