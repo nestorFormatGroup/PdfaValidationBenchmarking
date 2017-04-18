@@ -1,7 +1,4 @@
-Callas Version:
-callas pdfaPilot CLI 7.0.267
-2000-2017 callas software gmbh
-
+Callas Version: callas pdfaPilot CLI 7.0.267
 Input	C:\ValidatorenTest\Testset\1a\KOST_01916856B1C713CE6A9D67540A1D98C4.pdf	
 Summary	Errors	0
 Finished	C:\ValidatorenTest\Testset\1a\KOST_01916856B1C713CE6A9D67540A1D98C4.pdf	
