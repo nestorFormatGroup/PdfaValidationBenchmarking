@@ -168,8 +168,8 @@ Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_4F05E0AA21030A863
 Input C:\ValidatorenTest\Testset\1a\KOST_5009B6B5E9380026FE640ABBA311196C.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_5009B6B5E9380026FE640ABBA311196C.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_5020237A78AAC4F44B00AC345E721192.pdf 
-Summary Errors 0
-Error: The document structure is corrupt. 
+Error: callas_998 
+Summary Errors 1 - Finished C:\ValidatorenTest\Testset\1a\KOST_5020237A78AAC4F44B00AC345E721192.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_513A4257C29F301597C0F390445D3AAC.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_513A4257C29F301597C0F390445D3AAC.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_543C54E37D143BD40A28EFAC079C7014.pdf 
@@ -269,8 +269,8 @@ Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_89B0361AE38BFEA74
 Input C:\ValidatorenTest\Testset\1a\KOST_8A6FA7FF8E5B5C16AD07353CB810626A.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_8A6FA7FF8E5B5C16AD07353CB810626A.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_8A88F30BEACEB22DDE07D121EF44138F.pdf 
-Summary Errors 0
-Error: The document structure is corrupt. 
+Error: callas_998 
+Summary Errors 1 - Finished C:\ValidatorenTest\Testset\1a\KOST_8A88F30BEACEB22DDE07D121EF44138F.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_8A9CC8FCBBD12A63E522444E618063E9.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_8A9CC8FCBBD12A63E522444E618063E9.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_8D2F2C21046513B7D89C72327F461801.pdf 
@@ -377,8 +377,8 @@ Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_D8799B32C60474755
 Input C:\ValidatorenTest\Testset\1a\KOST_D939B9133E2BF4CAB509EC7CAA489F7F.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1a\KOST_D939B9133E2BF4CAB509EC7CAA489F7F.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_DA7CEC82663D3AF35C5429CCB926C2AE.pdf 
-Summary Errors 0
-Error: Unknown error _unknown exception_ 
+Error: callas_999 
+Summary Errors 1 - Finished C:\ValidatorenTest\Testset\1a\KOST_DA7CEC82663D3AF35C5429CCB926C2AE.pdf 
 Input C:\ValidatorenTest\Testset\1a\KOST_DEFC18238F13A86D07388B26461B4925.pdf 
 Error: callas_105
 Error: callas_275
@@ -796,8 +796,8 @@ Input C:\ValidatorenTest\Testset\1b\1\KOST_111FEDAD02F6891D04620EC3733B4B45.pdf
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1b\1\KOST_111FEDAD02F6891D04620EC3733B4B45.pdf 
 Input C:\ValidatorenTest\Testset\1b\1\KOST_1120DAFFF3DB6C2F39915FCC578CAA4E.pdf 
 Error: callas_097
-Summary Errors 1
-Error: Unknown error _unknown exception_ 
+Error: callas_999
+Summary Errors 2 - Finished C:\ValidatorenTest\Testset\1b\1\KOST_1120DAFFF3DB6C2F39915FCC578CAA4E.pdf 
 Input C:\ValidatorenTest\Testset\1b\1\KOST_11488FE4A24A1083BB4C5D4C1C2E3098.pdf
 Error: callas_282
 Summary Errors 20 - Finished C:\ValidatorenTest\Testset\1b\1\KOST_11488FE4A24A1083BB4C5D4C1C2E3098.pdf 
@@ -3737,8 +3737,8 @@ Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1b\9\KOST_946FBCF3DF4B543
 Input C:\ValidatorenTest\Testset\1b\9\KOST_94DD65DD3887F00DF8CA10F850F8B6CD.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1b\9\KOST_94DD65DD3887F00DF8CA10F850F8B6CD.pdf 
 Input C:\ValidatorenTest\Testset\1b\9\KOST_9500F44F507C2E66FE45BD1AFA1E04B2.pdf 
-Summary Errors 0
-Error: Unknown error _unknown exception_ 
+Error: callas_999 
+Summary Errors 1 - Finished C:\ValidatorenTest\Testset\1b\9\KOST_9500F44F507C2E66FE45BD1AFA1E04B2.pdf 
 Input C:\ValidatorenTest\Testset\1b\9\KOST_950F13ECBC9FE20463B549B93E15FC9B.pdf
 Error: callas_258
 Summary Errors 745 - Finished C:\ValidatorenTest\Testset\1b\9\KOST_950F13ECBC9FE20463B549B93E15FC9B.pdf 
@@ -5731,8 +5731,8 @@ Summary Errors 321 - Finished C:\ValidatorenTest\Testset\1b\F\KOST_F0C18B21AD6B9
 Input C:\ValidatorenTest\Testset\1b\F\KOST_F0FB1925A90F31E903C837563B3005F5.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1b\F\KOST_F0FB1925A90F31E903C837563B3005F5.pdf 
 Input C:\ValidatorenTest\Testset\1b\F\KOST_F1593D046798FC6E941FBA31F2F54D07.pdf 
-Summary Errors 0
-Error: The document structure is corrupt. 
+Error: callas_998 
+Summary Errors 1 - Finished C:\ValidatorenTest\Testset\1b\F\KOST_F1593D046798FC6E941FBA31F2F54D07.pdf 
 Input C:\ValidatorenTest\Testset\1b\F\KOST_F15DB7EA6B527EB86B3A6EB1C316CC95.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\1b\F\KOST_F15DB7EA6B527EB86B3A6EB1C316CC95.pdf 
 Input C:\ValidatorenTest\Testset\1b\F\KOST_F21CBDCCC27221FACC463C265F36C29B.pdf 
@@ -6687,7 +6687,8 @@ Summary Errors 1 - Finished C:\ValidatorenTest\Testset\2b\KOST_7EF7AAAE1DBE89459
 Input C:\ValidatorenTest\Testset\2b\KOST_7F005DD8BECE164E2E7E668E7E634947.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\2b\KOST_7F005DD8BECE164E2E7E668E7E634947.pdf 
 Input C:\ValidatorenTest\Testset\2b\KOST_7F68FB6B692A362218FAE50699704CED.pdf 
-Error 1010 Could not open file C:\ValidatorenTest\Testset\2b\KOST_7F68FB6B692A362218FAE50699704CED.pdf: 3 - Finished C:\ValidatorenTest\Testset\2b\KOST_7F68FB6B692A362218FAE50699704CED.pdf 
+Error: callas_997 
+Summary Errors 3 - Finished C:\ValidatorenTest\Testset\2b\KOST_7F68FB6B692A362218FAE50699704CED.pdf 
 Input C:\ValidatorenTest\Testset\2b\KOST_816BFCD078BACCA2FD305EFC22745EFC.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\2b\KOST_816BFCD078BACCA2FD305EFC22745EFC.pdf 
 Input C:\ValidatorenTest\Testset\2b\KOST_81DF8B72266502A11B04DBF5618EB80F.pdf 
@@ -7188,7 +7189,8 @@ Input C:\ValidatorenTest\Testset\2b\Yvonne_B12480848A7655716309353349795ECE.pdf
 Error: callas_258
 Summary Errors 176 - Finished C:\ValidatorenTest\Testset\2b\Yvonne_B12480848A7655716309353349795ECE.pdf 
 Input C:\ValidatorenTest\Testset\2b\Yvonne_F64922ED49D38640593B8908F460BADE.pdf 
-Error 1010 Could not open file C:\ValidatorenTest\Testset\2b\Yvonne_F64922ED49D38640593B8908F460BADE.pdf: 3 - Finished C:\ValidatorenTest\Testset\2b\Yvonne_F64922ED49D38640593B8908F460BADE.pdf 
+Error: callas_997
+Summary Errors 3 - Finished C:\ValidatorenTest\Testset\2b\Yvonne_F64922ED49D38640593B8908F460BADE.pdf 
 Input C:\ValidatorenTest\Testset\2u\KOST_06ACB18DC2403F764B70003924786ECA.pdf 
 Summary Errors 0 - Finished C:\ValidatorenTest\Testset\2u\KOST_06ACB18DC2403F764B70003924786ECA.pdf 
 Input C:\ValidatorenTest\Testset\2u\KOST_07179E371B0DD30A6D2A7CADAD388D98.pdf 
@@ -7514,8 +7516,8 @@ Error: callas_140
 Error: callas_078
 Summary Errors 10 - Finished C:\ValidatorenTest\Testset\pdf\KOST_5014389D1A7BC68A72A6935FE3881A62.PDF 
 Input C:\ValidatorenTest\Testset\pdf\KOST_58F56E93FB624C37237BC9126542C59C.pdf 
-Summary Errors 0
-Error: Unknown error _unknown exception_ 
+Error: callas_999 
+Summary Errors 1 - Finished C:\ValidatorenTest\Testset\pdf\KOST_58F56E93FB624C37237BC9126542C59C.pdf 
 Input C:\ValidatorenTest\Testset\pdf\KOST_5A9F2F54A3E7F1E799F60CB93C1DB315.pdf
 Error: callas_258
 Error: callas_105
@@ -7674,8 +7676,8 @@ Error: callas_140
 Error: callas_078
 Summary Errors 2140 - Finished C:\ValidatorenTest\Testset\pdf\KOST_BBDE41268AA710CFEF6CB3D067855CB5.pdf 
 Input C:\ValidatorenTest\Testset\pdf\KOST_BDF7B21B8FA5BA63DA8C8CEB6BD99408.pdf 
-Summary Errors 0
-Error: Unknown error _unknown exception_ 
+Error: callas_999 
+Summary Errors 1 - Finished C:\ValidatorenTest\Testset\pdf\KOST_BDF7B21B8FA5BA63DA8C8CEB6BD99408.pdf 
 Input C:\ValidatorenTest\Testset\pdf\KOST_C4E36DB1A41BABF0C3AB618CFAB13C1B.pdf
 Error: callas_258
 Error: callas_048
