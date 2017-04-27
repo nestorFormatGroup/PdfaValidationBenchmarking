@@ -23,8 +23,7 @@ Ansprechen der Validatoren:
 * Jeder Validator (CLI-Version) wird mit einem Powershell angesprochen
 * diese sind unter PowerShell-Script abgelegt
 * in der Regel wird jeder Ordner (z.B. 1a) recursiv angesprochen mit dem korrekten Level
-  * der 1b Ordner wurde unterteilt, damit weniger Probleme auftauchen
-  * bei veraPDF musste zuvor die 5 für veraPDF fatalen PDF-Dateien entfernt werden. Diese bringen veraPDF zum Abstürzen oder lassen das Programm ins leere Laufen. 
+  * der 1b Ordner wurde unterteilt, damit weniger Probleme auftauchen 
 
 Validierungsergebnisse:
 * Die einzelnen Validierungsergebnisse werden unter logs abgespeichert
