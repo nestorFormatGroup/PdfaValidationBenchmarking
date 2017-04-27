@@ -1,0 +1,321 @@
+callas_001	XMP uses deprecated attribute: 'encoding'
+callas_002	XMP uses deprecated attribute: 'bytes'
+callas_003	XMP property not predefined and no extension schema present (XMP 2005)
+callas_004	XMP property not predefined and no extension schema present
+callas_005	XMP property neither predefined nor defined in extension schema (XMP 2005)
+callas_006	XMP property neither predefined nor defined in extension schema
+callas_007	XMP property is predefined but is not used in accordance with the definition (XMP 2005)
+callas_008	XMP property is predefined but is not used in accordance with the definition
+callas_009	XMP property for page object not predefined and no extension schema present (XMP 2005)
+callas_010	XMP property for page object neither predefined nor defined in extension schema (XMP 2005)
+callas_011	XMP property for page object is predefined but not used in accordance with the definition (XMP 2005)
+callas_012	XMP property for page object does not match definitions of the extension schema (XMP 2005)
+callas_013	XMP property for page not predefined and no extension schema present (XMP 2005)
+callas_014	XMP property for page neither predefined nor defined in extension schema (XMP 2005)
+callas_015	XMP property for page is predefined but not used in accordance with the definition (XMP 2005)
+callas_016	XMP property for page does not match definitions of the extension schema (XMP 2005)
+callas_017	XMP property does not match definitions of the extension schema (XMP 2005)
+callas_018	XMP property does not match definitions of the extension schema
+callas_019	XMP PDF/A Value Type namespace does not use 'pdfaType' prefix
+callas_020	XMP PDF/A Schema namespace does not use 'pdfaSchema' prefix
+callas_021	XMP PDF/A Property namespace does not use 'pdfaProperty' prefix
+callas_022	XMP PDF/A identification schema does not use ‘pdfaid' prefix
+callas_023	XMP PDF/A Field namespace does not use 'pdfaField' prefix
+callas_024	XMP PDF/A extension schema container schema does not use ‘pdfaExtension' prefix
+callas_025	XMP Metadata for page object is compressed
+callas_026	XMP Metadata for page is compressed
+callas_027	XMP for a page uses deprecated attribute: 'encoding'
+callas_028	XMP for a page uses deprecated attribute: 'bytes'
+callas_029	XMP for a page object uses deprecated attribute: 'encoding'
+callas_030	XMP for a page object uses deprecated attribute: 'bytes'
+callas_031	Wrong encoding for non-symbolic TrueType font
+callas_032	Width information for rendered glyphs is inconsistent
+callas_033	Unicode CMap uses inappropriate values
+callas_034	Type 2 CID font: CIDToGIDMap invalid or missing
+callas_035	TrueType font has differences to standard encodings but is not a symbolic font
+callas_036	TrueType font has Differences array with glyph names that are not listed in Adobe Glyph list
+callas_037	TrueType font has Differences array but does not contain a Microsoft Unicode encoding
+callas_038	Transparency used (transparency group)
+callas_039	Transparency used (stroked object with CA value smaller than 1.0)
+callas_040	Transparency used (soft mask)
+callas_041	Transparency used (soft mask in image)
+callas_042	Transparency used (page is a transparency group)
+callas_043	Transparency used (filled object with ca value smaller than 1.0)
+callas_044	Transparency used (blend mode not 'Normal' nor 'Compatible')
+callas_045	Transparency used (annotation has CA value smaller than 1.0)
+callas_046	Transparency group on page level without color space entry and no PDF/A OutputIntent present
+callas_047	Transfer function in halftone dictionary improperly used
+callas_048	Transfer curve used
+callas_049	TR2 entry used with value other than Default
+callas_050	ToUnicode CMap contains a Unicode value of zero
+callas_051	Title mismatch between Document Info and XMP Metadata
+callas_052	The needed color space for an image could not be read
+callas_053	The maximum length for strings in many environments is 6
+callas_054	Text is mapped to Unicode Private Use Area but no ActualText entry is present
+callas_055	Text cannot be mapped to Unicode
+callas_056	Syntax problem: Unknown operator in page description
+callas_057	Syntax problem: String object invalid (prohibited characters in a hexadecimal string)
+callas_058	Syntax problem: String object invalid (odd number of hexadecimal characters)
+callas_059	Syntax problem: Stream dictionary improperly formatted
+callas_060	Syntax problem: Stream dictionary has improper length entry
+callas_061	Syntax problem: Real value out of range (too low)
+callas_062	Syntax problem: Real value out of range (too high)
+callas_063	Syntax problem: Real value out of range (positive too small)
+callas_064	Syntax problem: Real value out of range (negative too small)
+callas_065	Syntax problem: PDF contains data after end of file marker
+callas_066	Syntax problem: Name object with 0 byte length
+callas_067	Syntax problem: Indirect object with number 0
+callas_068	Syntax problem: Indirect object uses improper separation (object and generation number)
+callas_069	Syntax problem: Indirect object uses improper separation ('obj' keyword and generation number)
+callas_070	Syntax problem: Indirect object 'obj' keyword not followed by an EOL marker
+callas_071	Syntax problem: Indirect object has object number not preceded by an EOL marker
+callas_072	Syntax problem: Indirect object 'endobj' keyword not preceded by an EOL marker
+callas_073	Syntax problem: Dictionary with more than 4095 entries
+callas_074	Syntax problem: Cross reference subsection not properly separated
+callas_075	Syntax problem: Cross reference subsection header improperly formatted
+callas_076	Syntax problem: Array with more than 8191 elements
+callas_077	Subject mismatch between Document Info and XMP Metadata
+callas_078	Structured PDF: Structure tree root entry missing
+callas_079	Structured PDF: Standard tag mapped to non-standard tag in role map
+callas_080	Structured PDF: Invalid language identifier
+callas_081	Structured PDF: Element does not use standard type in ISO 32000-1
+callas_082	Structured PDF: Element does not use standard type
+callas_083	Structure type name is not a valid UTF-8 string
+callas_084	Stream size is above 2 GB
+callas_085	Stream object uses Crypt filter with a name other than 'Identity'
+callas_086	Stream object contains FFilter entry
+callas_087	Stream object contains FDecodeParams entry
+callas_088	Stream object contains F entry
+callas_089	Spot color representations are inconsistent
+callas_090	Spot color name is not a valid UTF-8 string
+callas_091	Signature reference dictionary has DigestValue entry and permissions dictionary has DocMDP entry
+callas_092	Signature reference dictionary has DigestMethod entry and permissions dictionary has DocMDP entry
+callas_093	Signature reference dictionary has DigestLocation entry and permissions dictionary has DocMDP entry
+callas_094	Scaling factor used
+callas_095	RGB used in blending color space of transparent object but PDF/A OutputIntent not RGB
+callas_096	RGB used for alt. color but PDF/A OutputIntent not RGB
+callas_097	RGB used but PDF/A OutputIntent not RGB
+callas_098	RGB referenced but PDF/A OutputIntent not RGB
+callas_099	Resources dictionary is inherited
+callas_100	Producer mismatch between Document Info and XMP Metadata
+callas_101	PostScript operator embedded
+callas_102	PostScript embedded (XObject)
+callas_103	PostScript embedded (PostScript Form XObject)
+callas_104	Permissions dictionary has key other than DocMDP and UR3
+callas_105	PDF/A entry missing
+callas_106	PDF/A entry is not well formed
+callas_107	PDF version number in file header greater than 1.7
+callas_108	PDF version number in file header below 1.0
+callas_109	PDF file header is not compliant with PDF/A-2
+callas_110	PDF contains EF (embedded file) entry
+callas_111	Page has PresSteps defined
+callas_112	Page does not have Resources dictionary
+callas_113	Page description contains invalid operator
+callas_114	Page contains additional actions (AA)
+callas_115	Overprint mode (OPM) used for ICCbased CMYK object (stroked)
+callas_116	Overprint mode (OPM) used for ICCbased CMYK object
+callas_117	OutputIntent uses a referenced destination profile
+callas_118	Optional content configuration dictionary name is not unique
+callas_119	Optional content configuration dictionary has no Name entry
+callas_120	Optional content configuration dictionary has AS entry
+callas_121	OpenType font used
+callas_122	Offending command
+callas_123	OCCD contains Order key that does not reference all layers
+callas_124	Object XMP metadata is not valid
+callas_125	Object uses resources that are inherited from the page
+callas_126	Number of PDF/A OutputIntent entries > 1
+callas_127	No transparency group entry for transparent object and no PDF/A OutputIntent present
+callas_128	NeedsRendering entry present
+callas_129	NeedAppearances flag present but not set to false
+callas_130	Named action with a value other than standard page navigation used
+callas_131	Name object is not a valid UTF-8 string
+callas_132	More than one encoding in symbolic TrueType font's cmap and no Microsoft Symbol encoding
+callas_133	More than one encoding in symbolic TrueType font's cmap
+callas_134	Missing Color space 'Cs6'
+callas_135	Mismatch between ID in linearization info and ID in main cross reference table
+callas_136	Metadata not embedded as plain text
+callas_137	Metadata missing (XMP)
+callas_138	Metadata does not conform to XMP
+callas_139	Max. number (8) of colorants for DeviceN exceeded
+callas_140	MarkInfo missing
+callas_141	Marked entry in MarkInfo not set to true
+callas_142	Marked entry in MarkInfo not boolean
+callas_143	Marked entry in MarkInfo missing
+callas_144	LZW compression used
+callas_145	Layers used
+callas_146	Last Modification Date mismatch between Document Info and XMP Metadata
+callas_147	Keyword mismatch between Document Info and XMP Metadata
+callas_148	JPEG2000 image uses incorrect value for the METH entry
+callas_149	JPEG2000 image uses inconsistent bit-depth in its channels
+callas_150	JPEG2000 image uses CIEJab compression
+callas_151	JPEG2000 Image uses bit-depth value greater than 38
+callas_152	JPEG2000 Image uses bit-depth value below 1
+callas_153	JPEG2000 image does not have 
+callas_154	JPEG2000 compression used
+callas_155	JPEG2000 compressed image has ambiguous entries for color space with best fidelity
+callas_156	Invalid rendering intent
+callas_157	Invalid function object used in color space
+callas_158	Interpolate key for image not false
+callas_159	Interactive forms make use of the XFA
+callas_160	Inline image uses Crypt filter
+callas_161	Indirect object 'endobj' keyword not followed by an EOL marker
+callas_162	Incorrect PDF/A-2u conformance level (must be 'U')
+callas_163	Incorrect PDF/A version number (must be 2)
+callas_164	Incorrect PDF/A version number (must be 1)
+callas_165	Incorrect PDF/A conformance level (must be 'B')
+callas_166	Incorrect PDF/A conformance level (must be 'A')
+callas_167	Incorrect annotation type used: Not defined in PDF (ISO 32000-1)
+callas_168	Incorrect annotation type used: Multimedia annotation
+callas_169	Incorrect annotation type used: 3D
+callas_170	Incorrect annotation type used (not allowed in PDF/A)
+callas_171	Inconsistent WMode entries
+callas_172	Implementation limit: Width of TrimBox greater than 14400 units
+callas_173	Implementation limit: Width of TrimBox below 3 units
+callas_174	Implementation limit: Width of MediaBox greater than 14400 units
+callas_175	Implementation limit: Width of MediaBox below 3 units
+callas_176	Implementation limit: Width of CropBox greater than 14400 units
+callas_177	Implementation limit: Width of CropBox below 3 units
+callas_178	Implementation limit: Width of ArtBox greater than 14400 units
+callas_179	Implementation limit: Width of ArtBox below 3 units
+callas_180	Implementation limit: String too long
+callas_181	Implementation limit: Real value out of range (too low)
+callas_182	Implementation limit: Real value out of range (too high)
+callas_183	Implementation limit: Real value out of range (positive value too close to zero)
+callas_184	Implementation limit: Real value out of range (negative value too close to zero)
+callas_185	Implementation limit: Number of colorants for DeviceN too high
+callas_186	Implementation limit: Name object with a length greater than 127 byte
+callas_187	Implementation limit: More than 8388607 indirect objects
+callas_188	Implementation limit: Max. number of nested graphic states (q/Q operators) exceeded
+callas_189	Implementation limit: Integer value out of range (too low)
+callas_190	Implementation limit: Integer value out of range (too high)
+callas_191	Implementation limit: Height of TrimBox greater than 14400 units
+callas_192	Implementation limit: Height of TrimBox below 3 units
+callas_193	Implementation limit: Height of MediaBox greater than 14400 units
+callas_194	Implementation limit: Height of MediaBox below 3 units
+callas_195	Implementation limit: Height of CropBox greater than 14400 units
+callas_196	Implementation limit: Height of CropBox below 3 units
+callas_197	Implementation limit: Height of ArtBox greater than 14400 units
+callas_198	Implementation limit: Height of ArtBox below 3 units
+callas_199	Implementation limit: CID (character identifier) greater than 65535
+callas_200	Image uses compression type that is not listed in ISO 32000
+callas_201	Image is not valid
+callas_202	Image has OPI information
+callas_203	ID in file trailer missing or incomplete
+callas_204	ICC profile uses invalid type
+callas_205	ICC profile uses invalid color space
+callas_206	ICC profile missing in PDF/A OutputIntent
+callas_207	ICC profile is version 5 or newer
+callas_208	ICC profile is version 4.0 or newer
+callas_209	ICC profile is version 3
+callas_210	ICC profile is older than version 2 
+callas_211	ICC profile is not valid
+callas_212	ICC profile in PDF/A OutputIntent is version 5 or newer
+callas_213	ICC profile in PDF/A OutputIntent is version 3
+callas_214	ICC profile in OutputIntent uses incorrect type
+callas_215	ICC profile in OutputIntent uses incorrect color space
+callas_216	ICC profile in OutputIntent is older than version 2 
+callas_217	HalftoneName key present
+callas_218	Halftone phase entry used
+callas_219	Halftone not of type 1 or 5
+callas_220	Glyphs missing in embedded font
+callas_221	Form XObject contains Ref key (referenced PDF)
+callas_222	Form field's AP (appearance) contains only N entry is not true
+callas_223	Form field of type button does not have multiple appearances
+callas_224	Form field has no appearance defined
+callas_225	Form field has multiple appearances (but is not a Button)
+callas_226	Form field has actions
+callas_227	Form field has AA (additional actions) entry
+callas_228	Form field does not have appearance dict
+callas_229	Font not embedded (and text rendering mode not 3)
+callas_230	Font name is not a valid UTF-8 string
+callas_231	Font license flag prohibits embedding
+callas_232	Font is not valid
+callas_233	File size is above 2GB
+callas_234	File header not compliant with PDF/A
+callas_235	Extension schema present in page object but not valid
+callas_236	Extension schema present in page but not valid
+callas_237	Extension schema present but not valid
+callas_238	Encrypt key present in file trailer
+callas_239	Encoding entry prohibited for symbolic TrueType font
+callas_240	EmbeddedFiles entry in Names dictionary
+callas_241	Embedded file present that is not a PDF file
+callas_242	Embedded file present but no UF key
+callas_243	Embedded file present but no F key
+callas_244	Document XMP metadata is not valid
+callas_245	Document uses Requirements key
+callas_246	Document uses compression type that is not listed in ISO 32000-1
+callas_247	Document is encrypted
+callas_248	Document is damaged and needs repair
+callas_249	Document has alternate presentations
+callas_250	Document contains JavaScripts
+callas_251	Document contains additional actions (AA)
+callas_252	DeviceN color does not have colorant entry for all spot colors
+callas_253	DeviceGray used in blending color space but no compatible PDF/A OutputIntent
+callas_254	DeviceGray used for alt. color but PDF/A OutputIntent not CMY
+callas_255	DeviceGray used but PDF/A OutputIntent not CMY
+callas_256	DeviceGray referenced but PDF/A OutputIntent not CMY
+callas_257	Device process color used in alt. color space but no PDF/A OutputIntent
+callas_258	Device process color used but no PDF/A OutputIntent
+callas_259	Destination profiles in OutputIntents differ
+callas_260	Deprecated action type (set-state or no-op)
+callas_261	Date entry in Document information uses Unicode encoding
+callas_262	Creator mismatch between Document Info and XMP Metadata
+callas_263	Creation date mismatch between Document Info and XMP Metadata
+callas_264	Contains action of type Trans
+callas_265	Contains action of type Sound
+callas_266	Contains action of type SetOCGState
+callas_267	Contains action of type ResetForm
+callas_268	Contains action of type Rendition
+callas_269	Contains action of type Movie
+callas_270	Contains action of type Launch
+callas_271	Contains action of type JavaScript
+callas_272	Contains action of type ImportData
+callas_273	Contains action of type Hide
+callas_274	Contains action of type GoTo3DView
+callas_275	Compressed object streams used
+callas_276	CMYK used in blending color space of transparent object but PDF/A OutputIntent not CMYK
+callas_277	CMYK used for alt. color but PDF/A OutputIntent not CMYK
+callas_278	CMYK used but PDF/A OutputIntent not CMYK
+callas_279	CMYK referenced but PDF/A OutputIntent not CMYK
+callas_280	CMap references other CMap that is not predefined
+callas_281	CMap not embedded for custom CMap
+callas_282	CIDSystemInfo and CMap dict not compatible
+callas_283	CIDset in subset font missing
+callas_284	CIDset in subset font is incomplete (font contains glyphs that are not listed)
+callas_285	CIDset in subset font is incomplete
+callas_286	CID font uses CMap that is not predefined and not embedded
+callas_287	CID font does not use Identity-H or -V encoding but Supplement entries are incompatible
+callas_288	CID font does not use Identity-H or -V encoding but Registry strings are not identical
+callas_289	CID font does not use Identity-H or -V encoding and Ordering strings are not identical
+callas_290	CharSet missing for Type 1 font
+callas_291	CharSet incomplete for Type 1 font
+callas_292	CharSet in subset font is incomplete (font contains glyphs that are not listed)
+callas_293	Character references .notdef glyph
+callas_294	Blend mode not conform to PDF Reference
+callas_295	Bits per color component &gt; 8
+callas_296	Author mismatch between Document Info and XMP Metadata
+callas_297	Annotation's AP (appearance) contains only N entry is not true
+callas_298	Annotation's AP (appearance) contains N entry with more than one streams
+callas_299	Annotation ToggleNoView flag set
+callas_300	Annotation NoView flag set
+callas_301	Annotation not set to print
+callas_302	Annotation Invisible flag set
+callas_303	Annotation Hidden flag set
+callas_304	Annotation has no Flags entry
+callas_305	Annotation has no appearance defined
+callas_306	Annotation has multiple appearances
+callas_307	Annotation has IC entry but PDF/A OutputIntent is not RGB
+callas_308	Annotation has IC entry but no PDF/A OutputIntent present
+callas_309	Annotation has C entry but PDF/A OutputIntent is not RGB
+callas_310	Annotation has C entry but no PDF/A OutputIntent present
+callas_311	Annotation has an IC (interior color) entry other than RGB
+callas_312	Annotation has a C (color) entry other than RGB
+callas_313	Annotation (other than Popup) not set to print
+callas_314	Annotation (other than Popup) has no Flags entry
+callas_315	Alternate image uses compression type that is not listed in ISO 32000
+callas_316	Alternate image present
+callas_317	3D annotation used
+	
+callas_997	Could not open file
+callas_998	The document structure is corrupt.
+callas_999	Unknown error (unknown exception)
