@@ -1,7 +1,7 @@
 Wer macht was?
 
 
-| Claire        | Yvonne  | Micky | Martin
+| Claire        | Yvonne  | Micky | Martin |
 | ------------- |:-------------:| -----:|-----:|-----:|
 || 6.1.2-1 - 6.3.5-1| |
 |6.3.5-2 - 6.1.7-3|||
