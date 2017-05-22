@@ -1,1 +1,8 @@
 
+Tabelle für die Zuordnung der veraPDF Errorcodes zu den Errorcodes der anderen Tools
+
+| veraPDF Code  | veraPDF Text  |       |
+| ------------- |:-------------:| -----:|
+|        test       |     test          |   test    |
+|        test       |         test      |  test     |
+|          test     |       test        |  test     |
