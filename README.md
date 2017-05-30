@@ -18,6 +18,11 @@ Testset:
   * 2b:  471 Dateien
   * 2u:   98 Dateien
   * pdf:  41 Dateien
+  
+Testumgebung:
+* Windows 7 Enterprise mit SP1
+* 32 Bit-Betriebssystem
+* 8.00 GB (3.41 GB verwendbar) RAM
 
 Ansprechen der Validatoren:
 * Jeder Validator (CLI-Version) wird mit einem Powershell angesprochen
