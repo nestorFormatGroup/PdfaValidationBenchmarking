@@ -23,6 +23,7 @@ Testumgebung:
 * Windows 7 Enterprise mit SP1
 * 32 Bit-Betriebssystem
 * 8.00 GB (3.41 GB verwendbar) RAM
+* JRE 1.8.0_131 x86
 
 Ansprechen der Validatoren:
 * Jeder Validator (CLI-Version) wird mit einem Powershell angesprochen
