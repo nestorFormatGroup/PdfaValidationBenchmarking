@@ -1,7 +1,7 @@
 # PdfaValidationBenchmarking
 
 Validatoren:
-* veraPDF (Version 1.4.1)
+* veraPDF (Version 1.6.1)
 * pdfaPilot CLI von callas software GmbH (Version 7.0.267)
 * 3-Heights(TM) PDF Validator Shell von PDF Tools AG (Version 4.9.20.0)
 * PDF/A-Manager von PDFTron (Version 6.7152209)
